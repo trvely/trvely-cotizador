@@ -54,11 +54,24 @@ def exp_vivas():
             pass
     return set(EXP_FALLBACK)
 
-def mapear(prods, gal, exp):
+def alias_map():
+    """Alias manual hotel->slug de galeria, para nombres que no calzan exacto
+    (la medicion propone, el alias dispone; patron portadas_manual de la Vitrina)."""
+    p = os.path.join(REPO, 'alias_hoteles.json')
+    if os.path.exists(p):
+        try:
+            return {norm(k): v for k, v in json.load(open(p, encoding='utf-8')).items()}
+        except Exception:
+            pass
+    return {}
+
+def mapear(prods, gal, exp, alias=None):
     """Anota galeria + experiencias en cada producto (reconoce las nuevas)."""
+    alias = alias or {}
     gal_by_slug = {norm(v): v for v in gal.values() if v}
     def slug_hotel(nombre):
         k = norm(nombre)
+        if k in alias: return alias[k]          # alias manual gana
         if k in gal: return gal[k]
         if k in gal_by_slug: return gal_by_slug[k]
         for gk, gv in gal.items():
@@ -148,16 +161,16 @@ def build_index(data):
 
 def main():
     modo = sys.argv[1] if len(sys.argv) > 1 else ""
-    gal, exp = galerias_map(), exp_vivas()
+    gal, exp, alias = galerias_map(), exp_vivas(), alias_map()
     if modo == "--full":
         prods = extraer_prod()
-        cg, ce = mapear(prods, gal, exp)
+        cg, ce = mapear(prods, gal, exp, alias)
         data = dict(generado=datetime.date.today().isoformat(), acomodacion="doble", productos=prods)
         json.dump(data, open(SNAP, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
     else:
         data = json.load(open(SNAP, encoding="utf-8"))
         if modo == "--remap":
-            cg, ce = mapear(data["productos"], gal, exp)
+            cg, ce = mapear(data["productos"], gal, exp, alias)
             json.dump(data, open(SNAP, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
         else:
             cg = sum(1 for p in data["productos"] if p.get("galeria"))
