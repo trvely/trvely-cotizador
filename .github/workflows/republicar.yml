@@ -1,0 +1,55 @@
+name: Republicar cotizador (galerias + experiencias)
+
+# Reconoce SOLO lo que ya existe (sin llaves de PROD):
+# si entra una galeria o una experiencia nueva, la enlaza y republica el cotizador.
+# El refresco de PRODUCTOS y PRECIOS del dia viene aparte, desde el motor (corte, con acceso a PROD).
+
+on:
+  schedule:
+    - cron: '30 11 * * *'        # 6:30 a.m. hora Colombia (UTC-5)
+  workflow_dispatch:              # boton manual
+  repository_dispatch:            # lo puede disparar el repo de galerias al pushear una galeria
+    types: [galeria-nueva]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: republicar-cotizador
+  cancel-in-progress: false
+
+jobs:
+  remap:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Traer el cotizador
+        uses: actions/checkout@v4
+
+      - name: Traer las galerias (publico, sin llaves)
+        uses: actions/checkout@v4
+        with:
+          repository: trvely/trvely-galerias
+          path: _galerias
+
+      - name: Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Regenerar (reconoce galerias y experiencias nuevas)
+        env:
+          GALERIAS_DIR: ${{ github.workspace }}/_galerias
+        run: python generar.py --remap
+
+      - name: Publicar si hubo cambios
+        run: |
+          git config user.name "trvely-bot"
+          git config user.email "bot@trvely.com.co"
+          git add index.html snapshot_asesor.json
+          if git diff --cached --quiet; then
+            echo "Sin cambios: nada nuevo que reconocer."
+          else
+            git commit -m "Auto: reconoce galerias/experiencias nuevas ($(date -u +%F))"
+            git push
+            echo "Cotizador republicado."
+          fi

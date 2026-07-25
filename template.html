@@ -1,0 +1,551 @@
+<!doctype html><html lang="es"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow">
+<meta name="theme-color" content="#B41241">
+<title>Cotizador Trvely · tablero interno del asesor</title>
+<style>
+  @font-face{ font-family:'Extenda'; src:url('__EXTENDA__') format('truetype'); font-display:swap; }
+  @font-face{ font-family:'WhiteStar'; src:url('__WHITESTAR__') format('opentype'); font-display:swap; }
+  :root{
+    --burg:#B41241; --burg-hondo:#7C0C2C; --beige:#F4E5D2; --crema:#FAF7F2; --nieve:#FFFFFF;
+    --tinta:#1C1B1A; --gris:#8C8681; --gris-claro:#B7B1AB; --linea:#E9DFD4; --linea-fuerte:#DED2C4;
+    --verde:#1C7C4A; --verde-fondo:#EAF6EE; --verde-linea:#BFE3CD;
+  }
+  *{box-sizing:border-box; margin:0; padding:0;}
+  html{scroll-behavior:smooth;}
+  body{font-family:'Montserrat','Segoe UI',system-ui,sans-serif; background:var(--crema);
+        color:var(--tinta); -webkit-font-smoothing:antialiased; font-size:14px;}
+  button,input,select{font-family:inherit;}
+  ::selection{background:var(--beige);}
+
+  /* ---------- ENCABEZADO (con Triana, cálido pero compacto) ---------- */
+  .top{position:relative; overflow:hidden; color:#fff;
+       background:radial-gradient(130% 150% at 90% 0%, #93153B 0%, var(--burg) 44%, var(--burg-hondo) 100%);}
+  .top-caja{max-width:1280px; margin:0 auto; padding:15px 18px 13px; display:grid;
+            grid-template-columns:1fr auto; align-items:end; gap:14px;}
+  .top .logo{height:24px; opacity:.97; display:block; margin-bottom:9px;}
+  .top h1{font-family:'Extenda','Montserrat',sans-serif; font-weight:400; font-size:clamp(26px,3.6vw,40px);
+          letter-spacing:1px; line-height:.96;}
+  .top h1 .firma-h{font-family:'WhiteStar','Segoe Script',cursive; color:var(--beige); font-size:.62em;
+                   letter-spacing:0; margin-left:8px;}
+  .top .sub{font-size:12px; color:rgba(255,255,255,.86); font-weight:600; margin-top:8px;}
+  .top .vigencia{display:inline-block; margin-top:11px; font-size:11.5px; font-weight:700;
+                 background:var(--beige); color:var(--burg-hondo); padding:6px 13px; border-radius:20px;
+                 letter-spacing:.01em; box-shadow:0 3px 12px rgba(0,0,0,.18);}
+  .top .vigencia b{color:var(--burg);}
+  .triana{align-self:end; width:150px; max-width:100%; margin-bottom:-13px;
+          filter:drop-shadow(0 16px 26px rgba(0,0,0,.32));}
+
+  /* ---------- FILTROS (pegajosos) ---------- */
+  .filtros{position:sticky; top:0; z-index:40; background:rgba(250,247,242,.97);
+           backdrop-filter:blur(10px); border-bottom:1px solid var(--linea-fuerte);}
+  .filtros-caja{max-width:1280px; margin:0 auto; padding:10px 18px;}
+  .fila1{display:flex; gap:10px; align-items:center; flex-wrap:wrap;}
+  .buscar{position:relative; flex:1; min-width:220px;}
+  .buscar input{width:100%; padding:10px 14px 10px 38px; border:1.5px solid var(--linea-fuerte);
+                border-radius:10px; font-size:14px; color:var(--tinta); background:#fff; font-weight:600;}
+  .buscar input:focus{outline:3px solid var(--beige); outline-offset:1px; border-color:var(--burg);}
+  .buscar .lupa{position:absolute; left:13px; top:50%; transform:translateY(-50%); opacity:.42;}
+  select.f{border:1.5px solid var(--linea-fuerte); background:#fff; color:var(--tinta); border-radius:10px;
+           padding:9px 12px; font-size:13px; font-weight:700; cursor:pointer;}
+  select.f:focus{outline:2px solid var(--beige); border-color:var(--burg);}
+  .chips{display:flex; gap:7px; overflow-x:auto; padding:9px 0 1px; scrollbar-width:none;}
+  .chips::-webkit-scrollbar{display:none;}
+  .chip{flex:0 0 auto; border:1.5px solid var(--linea-fuerte); background:#fff; color:var(--tinta);
+        border-radius:9px; padding:7px 13px; font-size:12.5px; font-weight:700; cursor:pointer; white-space:nowrap;
+        transition:background .15s,color .15s,border-color .15s;}
+  .chip span{opacity:.5; font-weight:600; margin-left:4px; font-size:11px;}
+  .chip:hover{border-color:var(--burg); color:var(--burg);}
+  .chip.activo{background:var(--burg); border-color:var(--burg); color:#fff;}
+  .chip.activo span{opacity:.72;}
+  .conteo{font-size:11.5px; color:var(--gris); font-weight:700; padding:6px 2px 0;}
+  .conteo b{color:var(--burg);}
+  .pax-row{display:flex; align-items:center; gap:10px; flex-wrap:wrap; margin-top:9px; font-size:12.5px; color:var(--gris);}
+  .pax-lbl{font-weight:700; color:var(--tinta);}
+  .pax-hint{font-size:11px; color:var(--gris-claro); font-weight:600;}
+  .pax-tope{font-size:11px; color:var(--burg); font-weight:800;}
+
+  /* ---------- ACORDEÓN DE REGLAS ---------- */
+  .reglas{margin:14px 0 4px; background:var(--nieve); border:1px solid var(--linea-fuerte);
+          border-radius:12px; overflow:hidden; box-shadow:var(--sombra);}
+  .reglas-cab{width:100%; display:flex; align-items:center; justify-content:space-between; gap:10px;
+              background:linear-gradient(90deg,var(--burg),var(--burg-hondo)); color:#fff; border:0;
+              padding:12px 16px; font:inherit; font-size:14px; font-weight:800; cursor:pointer; letter-spacing:.02em;}
+  .reglas-cab .reglas-flecha{transition:transform .2s; font-size:12px; opacity:.9;}
+  .reglas-cab[aria-expanded="true"] .reglas-flecha{transform:rotate(90deg);}
+  .reglas-cuerpo{display:none; padding:2px 18px 16px;}
+  .reglas-cuerpo.abierto{display:block;}
+  .reglas-cuerpo ol{margin:8px 0 0; padding:0; list-style:none; counter-reset:r;}
+  .reglas-cuerpo li{position:relative; padding:10px 0 10px 40px; border-bottom:1px solid var(--linea);
+                    counter-increment:r; font-size:12.5px; line-height:1.5; color:var(--tinta);}
+  .reglas-cuerpo li:last-child{border-bottom:0;}
+  .reglas-cuerpo li::before{content:counter(r); position:absolute; left:0; top:9px; width:26px; height:26px;
+      background:var(--beige); color:var(--burg-hondo); border-radius:50%; display:grid; place-items:center;
+      font-weight:800; font-size:12px;}
+  .reglas-cuerpo li b{color:var(--burg-hondo);}
+  .reglas-cuerpo li i{color:var(--gris); font-size:11.5px;}
+  .reglas-fina{margin-top:12px; padding-top:10px; border-top:1px dashed var(--linea);
+               font-size:11.5px; color:var(--gris); line-height:1.6;}
+  .reglas-fina b{color:var(--burg);}
+
+  /* ---------- LA VOZ DEL ASESOR (feedback) ---------- */
+  .voz{display:flex; align-items:center; justify-content:space-between; gap:14px; flex-wrap:wrap;
+       margin:14px 0 2px; padding:13px 18px; border-radius:12px;
+       background:linear-gradient(100deg, var(--beige), #FBEFE0); border:1px solid var(--linea-fuerte);}
+  .voz-txt{font-size:12.5px; color:var(--burg-hondo); line-height:1.5; max-width:70ch;}
+  .voz-txt b{color:var(--burg); font-size:13.5px;}
+  .voz-btn{flex:0 0 auto; background:var(--burg); color:#fff; text-decoration:none; border-radius:22px;
+           padding:10px 17px; font-size:12.5px; font-weight:800; white-space:nowrap;
+           transition:filter .15s, transform .15s;}
+  .voz-btn:hover{filter:brightness(1.09); transform:translateY(-1px);}
+  .fab-idea{position:fixed; right:18px; bottom:18px; z-index:70; display:inline-flex; align-items:center; gap:8px;
+            background:var(--burg); color:#fff; text-decoration:none; border-radius:26px; padding:12px 18px;
+            font-size:13px; font-weight:800; letter-spacing:.02em; box-shadow:0 10px 30px rgba(124,12,44,.34);
+            transition:filter .15s, transform .15s;}
+  .fab-idea:hover{filter:brightness(1.08); transform:translateY(-2px);}
+  @media (max-width:600px){ .fab-idea span{display:none;} .fab-idea{padding:13px;} }
+  .stepper{display:inline-flex; align-items:center; gap:6px; border:1.5px solid var(--linea-fuerte);
+           background:#fff; border-radius:10px; padding:3px 5px;}
+  .stepper span{min-width:66px; text-align:center; font-size:12px; font-weight:700; color:var(--tinta);}
+  .stepper b{color:var(--burg); font-variant-numeric:tabular-nums;}
+  .stepper button{width:24px; height:24px; border:0; background:var(--beige); color:var(--burg-hondo);
+                  border-radius:7px; font-size:15px; font-weight:800; cursor:pointer; line-height:1;
+                  display:grid; place-items:center; transition:background .13s,color .13s;}
+  .stepper button:hover{background:var(--burg); color:#fff;}
+
+  /* ---------- TABLERO ---------- */
+  main{max-width:1280px; margin:0 auto; padding:2px 18px 60px;}
+  .destino-sep{display:flex; align-items:center; gap:12px; margin:22px 0 8px; color:var(--burg);}
+  .destino-sep h2{font-size:14px; font-weight:800; letter-spacing:.12em; text-transform:uppercase; white-space:nowrap;}
+  .destino-sep::after{content:''; flex:1; height:1.5px; background:var(--linea-fuerte);}
+  .destino-sep .n{font-size:11.5px; color:var(--gris); font-weight:700; letter-spacing:0;}
+
+  .hotel{background:var(--nieve); border:1px solid var(--linea-fuerte); border-radius:12px; overflow:hidden;
+         margin-bottom:10px;}
+  .hotel-cab{display:flex; align-items:baseline; gap:9px; padding:10px 14px; background:#FCF8F3;
+             border-bottom:1px solid var(--linea);}
+  .hotel-cab h3{font-size:14px; font-weight:800; letter-spacing:.02em; color:var(--tinta);}
+  .hotel-cab .noches{font-size:11px; font-weight:700; color:var(--gris); background:var(--beige);
+                     padding:2px 8px; border-radius:12px;}
+  .hotel-cab .destino-min{font-size:11px; color:var(--gris-claro); font-weight:700; margin-left:auto;}
+
+  .plan{border-bottom:1px solid var(--linea);}
+  .plan:last-child{border-bottom:0;}
+  .plan-fila{display:grid; grid-template-columns:1fr 132px 128px 96px; align-items:center; gap:10px;
+             padding:9px 14px; transition:background .13s;}
+  .plan-fila:hover{background:#FCF8F3;}
+  .plan-info{min-width:0;}
+  .plan-alim{font-size:13px; font-weight:700; color:var(--tinta); line-height:1.25;}
+  .plan-hab{font-size:11.5px; color:var(--gris); font-weight:600; margin-top:1px;}
+  .plan-precio{text-align:right;}
+  .plan-precio .desde{display:block; font-size:8.5px; letter-spacing:.13em; text-transform:uppercase;
+                      color:var(--gris-claro); font-weight:800;}
+  .plan-precio .valor{font-size:16.5px; font-weight:800; color:var(--burg); font-variant-numeric:tabular-nums;
+                      line-height:1.05; white-space:nowrap;}
+  .btn-fechas{border:1.5px solid var(--linea-fuerte); background:#fff; color:var(--gris); border-radius:9px;
+              padding:7px 9px; font-size:11.5px; font-weight:700; cursor:pointer; white-space:nowrap;
+              display:inline-flex; align-items:center; gap:5px; justify-content:center;}
+  .btn-fechas:hover{border-color:var(--burg); color:var(--burg);}
+  .btn-fechas .flecha{transition:transform .18s; font-size:9px;}
+  .btn-fechas[aria-expanded="true"]{border-color:var(--burg); color:var(--burg); background:#FCF3F5;}
+  .btn-fechas[aria-expanded="true"] .flecha{transform:rotate(90deg);}
+  .btn-copiar{border:0; background:var(--burg); color:#fff; border-radius:9px; padding:8px 10px;
+              font-size:11.5px; font-weight:800; cursor:pointer; white-space:nowrap; letter-spacing:.02em;
+              transition:filter .13s, background .18s;}
+  .btn-copiar:hover{filter:brightness(1.09);}
+  .btn-copiar.ok{background:var(--verde);}
+  .btn-copiar.falla{background:#8a6d1f;}
+
+  .fechas{display:none; padding:2px 14px 13px; background:#FCFAF7; border-top:1px dashed var(--linea);}
+  .fechas.abierto{display:block;}
+  .fechas-nota{font-size:10.5px; color:var(--gris); margin:9px 0; line-height:1.5;}
+  .fechas-grid{display:grid; grid-template-columns:repeat(auto-fill,minmax(256px,1fr)); gap:6px;}
+  .fecha-item{background:#fff; border:1px solid var(--linea); border-radius:9px; padding:6px 8px 7px 11px;}
+  .fecha-item.mejor{background:var(--verde-fondo); border-color:var(--verde-linea);}
+  .fecha-top{display:grid; grid-template-columns:1fr auto auto; align-items:center; gap:9px;}
+  .fecha-vuelo{margin-top:4px; font-size:10px; color:var(--gris); font-weight:600; line-height:1.35;
+               border-top:1px dotted var(--linea); padding-top:4px;}
+  .fecha-txt{font-size:11.5px; font-weight:700; color:var(--tinta); font-variant-numeric:tabular-nums;}
+  .fecha-txt small{display:block; font-size:10px; color:var(--gris); font-weight:600;}
+  .fecha-precio{font-size:12.5px; font-weight:800; color:var(--burg); font-variant-numeric:tabular-nums;}
+  .fecha-item.mejor .fecha-precio{color:var(--verde);}
+  .copia-mini{border:0; background:var(--burg); color:#fff; border-radius:7px; width:30px; height:28px;
+              font-size:13px; cursor:pointer; display:grid; place-items:center; transition:filter .13s,background .18s;}
+  .copia-mini:hover{filter:brightness(1.1);}
+  .copia-mini.ok{background:var(--verde);}
+  .fecha-item.mejor .copia-mini{background:var(--verde);}
+
+  .nada{display:none; text-align:center; padding:60px 0; color:var(--gris);}
+  .nada strong{display:block; font-size:16px; color:var(--tinta); margin-bottom:5px;}
+
+  /* toast */
+  .toast{position:fixed; left:50%; bottom:26px; transform:translateX(-50%) translateY(20px);
+         background:var(--tinta); color:#fff; padding:11px 18px; border-radius:11px; font-size:13px; font-weight:700;
+         box-shadow:0 10px 34px rgba(0,0,0,.28); opacity:0; pointer-events:none; transition:opacity .2s, transform .2s; z-index:80;}
+  .toast.ver{opacity:1; transform:translateX(-50%) translateY(0);}
+  .toast.err{background:#8a6d1f;}
+
+  /* ---------- FOOTER (cielo real del Figma, como la Vitrina) ---------- */
+  footer{margin-top:30px; color:#fff; text-align:center; border-radius:30px 30px 0 0;
+         background:linear-gradient(180deg,rgba(228,19,70,0) 0,rgba(228,19,70,.55) 200px,#E41346 320px,#DF0B43 52%,#BD073B 78%,#A90635 100%),
+                    url('__CIELO__') top center/cover no-repeat, #E41346;
+         padding:60px 22px 24px;}
+  footer h2{font-family:'Extenda','Montserrat',sans-serif; font-weight:400; line-height:1.14;
+            font-size:clamp(26px,4.2vw,46px); letter-spacing:1px; max-width:720px; margin:0 auto;
+            text-shadow:0 3px 22px rgba(0,0,0,.28); text-wrap:balance;}
+  footer .firma-pie{font-family:'WhiteStar','Segoe Script',cursive; color:var(--beige);
+                    font-size:clamp(22px,3vw,34px); margin-top:6px;}
+  .pie-legal{max-width:1180px; margin:38px auto 0; border-top:1px solid rgba(255,255,255,.28);
+             padding-top:14px; display:flex; flex-wrap:wrap; gap:6px 20px; justify-content:space-between;
+             font-size:11px; opacity:.9; text-align:left;}
+
+  @media (max-width:720px){
+    main{padding-left:12px; padding-right:12px;}
+    .plan-fila{grid-template-columns:1fr auto; grid-template-areas:'info precio' 'acc acc'; gap:6px 10px;}
+    .plan-info{grid-area:info;} .plan-precio{grid-area:precio;}
+    .plan-acc{grid-area:acc; display:flex; gap:8px;}
+    .plan-acc .btn-fechas{flex:1;} .plan-acc .btn-copiar{flex:1;}
+    .fechas-grid{grid-template-columns:1fr;}
+    .top-caja{grid-template-columns:1fr;}
+    .triana{display:none;}
+  }
+  @media (min-width:721px){ .plan-acc{display:contents;} }
+  @media (prefers-reduced-motion:reduce){*{transition:none !important;}}
+</style></head>
+<body>
+
+<header class="top">
+  <div class="top-caja">
+    <div class="top-txt">
+      <img class="logo" src="__LOGO__" alt="Trvely">
+      <h1>COTIZADOR<span class="firma-h">el precio real de cada fecha</span></h1>
+      <p class="sub">Tablero interno del asesor · por persona en acomodación doble</p>
+      <span class="vigencia">📅 Última actualización: <b id="vig-fecha">hoy</b> · el tiquete cambia a diario</span>
+    </div>
+    <img class="triana" src="__TRIANA__" alt="Triana, tu asesora Trvely" width="150">
+  </div>
+</header>
+
+<div class="filtros">
+  <div class="filtros-caja">
+    <div class="fila1">
+      <div class="buscar">
+        <span class="lupa">🔍</span>
+        <input id="q" type="search" placeholder="Busca hotel o destino… (ej. arena beach)" autocomplete="off" aria-label="Buscar">
+      </div>
+      <select class="f" id="f-alim" aria-label="Alimentación"><option value="">Toda alimentación</option></select>
+      <select class="f" id="f-mes" aria-label="Mes de viaje"><option value="">Todos los meses</option></select>
+      <select class="f" id="f-orden" aria-label="Ordenar">
+        <option value="destino">Orden: por destino</option>
+        <option value="precio-asc">Precio: menor primero</option>
+        <option value="precio-desc">Precio: mayor primero</option>
+        <option value="hotel">Hotel A–Z</option>
+      </select>
+    </div>
+    <div class="chips" id="chips-destino" role="group" aria-label="Filtrar por destino"></div>
+    <div class="pax-row">
+      <span class="pax-lbl">👥 Cotizar para</span>
+      <div class="stepper"><button type="button" data-pax="a-1" aria-label="menos adultos">−</button><span><b id="n-ad">2</b> adultos</span><button type="button" data-pax="a1" aria-label="más adultos">+</button></div>
+      <div class="stepper"><button type="button" data-pax="n-1" aria-label="menos niños">−</button><span><b id="n-ni">0</b> niños</span><button type="button" data-pax="n1" aria-label="más niños">+</button></div>
+      <span class="pax-hint">hasta 9 pasajeros · define el valor total y el 30%</span>
+      <span class="pax-tope" id="pax-tope" style="display:none">tope 9 — grupos mayores, con tu líder comercial</span>
+    </div>
+    <div class="conteo" id="conteo"></div>
+  </div>
+</div>
+
+<main>
+  <div class="voz">
+    <div class="voz-txt"><b>En Trvely, tú eres lo más importante. 💛</b><br>
+      Este cotizador lo construimos contigo y para ti. ¿Qué le mejorarías? Tu idea llega directo a nosotros.</div>
+    <a class="voz-btn js-mail" href="#">✉️ Enviar mi idea</a>
+  </div>
+  <section class="reglas">
+    <button class="reglas-cab" id="reglas-btn" aria-expanded="false" aria-controls="reglas-cuerpo">
+      <span>📋 Reglas de oro para reservar</span>
+      <span class="reglas-flecha">▸</span>
+    </button>
+    <div class="reglas-cuerpo" id="reglas-cuerpo">
+      <ol>
+        <li><b>El precio de hoy dura hasta la medianoche.</b> Las tarifas cambian cada día. Lo que se publica entre 6 y 9 a.m. vale solo hasta las 12 de la noche de hoy. <b>Domingos y festivos no hay actualización:</b> siguen vigentes los últimos precios publicados. Si le gusta, se reserva y se paga hoy. <i>(Si no se paga hoy, el precio no queda garantizado; una validación al día siguiente la aprueba tu líder comercial.)</i></li>
+        <li><b>Pagar hoy asegura los vuelos que ves.</b> Cada fecha va amarrada a un vuelo real (aerolínea y horarios). Para respetar ese itinerario, la reserva se monta y se paga el mismo día.</li>
+        <li><b>Separa con el 30% y aseguras tu viaje.</b> Con el 30% o más (pagado hoy) se confirman la fecha y los vuelos. Con menos del 30%, el itinerario aún no se fija: al completar el 30% se concilian fecha y vuelos; si no hay cupo, tu líder comercial acuerda contigo otra fecha por ese mismo valor.</li>
+        <li><b>El precio es por persona, en habitación doble.</b> El “valor total” es una guía: precio × pasajeros.</li>
+        <li><b>Solo se vende lo que está en el cotizador.</b> Si una fecha o un destino no aparece aquí, no se inventa precio: se cotiza aparte con tu líder comercial. Y sí se puede vender aunque el viaje salga pronto, siempre que la fecha esté publicada.</li>
+        <li><b>Lo que dice “Incluye” es lo que va.</b> Nada más (gastos personales, tours extra, impuestos locales).</li>
+        <li><b>Grupos de hasta 9 pasajeros.</b> Para grupos más grandes, cotiza con tu líder comercial.</li>
+        <li><b>Esto está a prueba: 2 meses.</b> Hoy es por persona en acomodación doble. Si funciona, sumaremos tarifas de niño, acomodaciones múltiples y más. Tu opinión cuenta.</li>
+      </ol>
+      <p class="reglas-fina"><b>Cobros que se pagan aparte, en destino:</b> San Andrés — tarjeta de turismo · Leticia — $50.000 COP por persona (punto de control) · Cancún — VISITAX $285 MXN (~USD 16,30).</p>
+    </div>
+  </section>
+  <div id="lista"></div>
+  <div class="nada" id="nada"><strong>Sin resultados</strong>Quita algún filtro o cambia el mes.</div>
+</main>
+
+<footer>
+  <h2>¡AQUÍ COMIENZAN TUS MÁS GRANDES AVENTURAS!</h2>
+  <p class="firma-pie">a cotizar se dijo</p>
+  <div class="pie-legal">
+    <span>Trvely · Living the world · uso interno (asesores)</span>
+    <span>Precios de referencia por persona en doble · el tiquete cambia a diario</span>
+    <span id="pie-fecha"></span>
+  </div>
+</footer>
+
+<a class="fab-idea js-mail" href="#" title="Proponer una mejora — tu voz construye Trvely">✉️ <span>Tu idea cuenta</span></a>
+
+<div class="toast" id="toast"></div>
+
+<script>
+const DATA = __DATA__;
+const P = DATA.productos;
+const DIAS=['dom','lun','mar','mié','jue','vie','sáb'];
+const MESES=['ene','feb','mar','abr','may','jun','jul','ago','sep','oct','nov','dic'];
+const MESES_L=['Enero','Febrero','Marzo','Abril','Mayo','Junio','Julio','Agosto','Septiembre','Octubre','Noviembre','Diciembre'];
+const COP = n => '$' + Math.round(n).toLocaleString('es-CO');
+const norm = s => (s||'').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g,'');
+const slug = s => norm(s).replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'');
+const D = iso => new Date(iso+'T00:00:00');
+const fechaCorta = iso => { const d=D(iso); return `${DIAS[d.getDay()]} ${d.getDate()} ${MESES[d.getMonth()]}`; };
+const horaAmPm = t => { if(!t) return ''; let [h,m]=t.split(':').map(Number); const ap=h<12?'a.m.':'p.m.'; h=h%12||12; return `${h}:${String(m).padStart(2,'0')} ${ap}`; };
+// impuestos/cobros que se pagan aparte en destino
+const IMPUESTOS = {
+  'San Andrés':'tarjeta de turismo (se paga en el aeropuerto)',
+  'Leticia':'$50.000 COP por persona — punto de control en el aeropuerto (efectivo)',
+  'Cancún':'VISITAX $285 MXN por persona (~USD 16,30, según tasa de cambio)'
+};
+
+function fechaLarga(iso){ const d=D(iso); return `${d.getDate()} ${MESES[d.getMonth()]}`; }
+function fechaCompleta(iso){ const d=D(iso); return `${DIAS[d.getDay()]} ${d.getDate()} ${MESES[d.getMonth()]} ${d.getFullYear()}`; }
+document.getElementById('vig-fecha').textContent = fechaCompleta(DATA.generado);
+document.getElementById('pie-fecha').textContent = 'Última actualización: ' + fechaCompleta(DATA.generado);
+
+// ---------- estado ----------
+const estado = {destino:'todos', alim:'', mes:'', q:'', orden:'destino', adultos:2, ninos:0};
+
+// ---------- construir filtros ----------
+const destinos = [...new Set(P.map(p=>p.destino))];
+const conteoDest = {}; P.forEach(p=>conteoDest[p.destino]=(conteoDest[p.destino]||0)+1);
+destinos.sort((a,b)=>conteoDest[b]-conteoDest[a]);
+const cd = document.getElementById('chips-destino');
+cd.innerHTML = `<button class="chip activo" data-val="todos">Todos <span>${P.length}</span></button>`
+  + destinos.map(d=>`<button class="chip" data-val="${slug(d)}">${d} <span>${conteoDest[d]}</span></button>`).join('');
+cd.addEventListener('click', e=>{ const b=e.target.closest('.chip'); if(!b) return;
+  cd.querySelectorAll('.chip').forEach(c=>c.classList.remove('activo')); b.classList.add('activo');
+  estado.destino=b.dataset.val; render(); });
+
+const alims = [...new Set(P.map(p=>p.alimentacion))].sort();
+document.getElementById('f-alim').insertAdjacentHTML('beforeend',
+  alims.map(a=>`<option value="${slug(a)}">${a}</option>`).join(''));
+
+const mesesSet = new Set();
+P.forEach(p=>p.fechas.forEach(f=>{ const d=D(f[0]); mesesSet.add(d.getFullYear()+'-'+String(d.getMonth()+1).padStart(2,'0')); }));
+const mesesOrd = [...mesesSet].sort();
+document.getElementById('f-mes').insertAdjacentHTML('beforeend',
+  mesesOrd.map(m=>{ const [y,mm]=m.split('-'); return `<option value="${m}">${MESES_L[+mm-1]} ${y}</option>`; }).join(''));
+
+document.getElementById('q').addEventListener('input', e=>{ estado.q=norm(e.target.value); render(); });
+// tecla "/" salta al buscador (sin agarrar el mouse)
+document.addEventListener('keydown', e=>{ if(e.key==='/' && !/^(INPUT|SELECT|TEXTAREA)$/.test(document.activeElement.tagName)){ e.preventDefault(); document.getElementById('q').focus(); } });
+document.getElementById('f-alim').addEventListener('change', e=>{ estado.alim=e.target.value; render(); });
+document.getElementById('f-mes').addEventListener('change', e=>{ estado.mes=e.target.value; render(); });
+document.getElementById('f-orden').addEventListener('change', e=>{ estado.orden=e.target.value; render(); });
+// selector de pasajeros: solo cambia la cotización copiada (no los precios del tablero)
+document.querySelectorAll('[data-pax]').forEach(b=>b.addEventListener('click',()=>{
+  const d=b.dataset.pax, sum=estado.adultos+estado.ninos;  // tope 9 pasajeros (regla 7)
+  if(d==='a-1') estado.adultos=Math.max(1,estado.adultos-1);
+  if(d==='a1' && sum<9) estado.adultos++;
+  if(d==='n-1') estado.ninos=Math.max(0,estado.ninos-1);
+  if(d==='n1' && sum<9) estado.ninos++;
+  document.getElementById('n-ad').textContent=estado.adultos;
+  document.getElementById('n-ni').textContent=estado.ninos;
+  document.getElementById('pax-tope').style.display = (estado.adultos+estado.ninos>=9)?'inline':'none';
+}));
+// acordeón de reglas
+(function(){ const b=document.getElementById('reglas-btn'); b.addEventListener('click',()=>{
+  const ex=b.getAttribute('aria-expanded')==='true'; b.setAttribute('aria-expanded',String(!ex));
+  document.getElementById('reglas-cuerpo').classList.toggle('abierto',!ex);
+}); })();
+// La voz del asesor: correo a contigo@trvely.com.co, ya redactado
+(function(){
+  const asunto='Mejora para el Cotizador Trvely';
+  const cuerpo='¡Hola equipo Trvely!\n\nUso el cotizador a diario y quiero proponer esta mejora:\n\n(escribe aquí tu idea)\n\nLo que más me sirve hoy es:\n\n\nGracias por escucharnos,\n(tu nombre)';
+  const href='mailto:contigo@trvely.com.co?subject='+encodeURIComponent(asunto)+'&body='+encodeURIComponent(cuerpo);
+  document.querySelectorAll('.js-mail').forEach(a=>a.setAttribute('href', href));
+})();
+
+// ---------- inclusiones -> texto (con tour nombrado real) ----------
+function incluyeTexto(p){
+  const x=p.incluye, partes=[];
+  if(x.tiquete) partes.push('tiquetes aéreos ida y regreso');
+  if(x.traslado) partes.push('traslados aeropuerto-hotel');
+  if(x.alojamiento) partes.push(`${p.noches} noche${p.noches>1?'s':''} de alojamiento`);
+  partes.push(norm(p.alimentacion)==='todo incluido' ? 'todo incluido (alimentación y bebidas)' : 'alimentación ('+p.alimentacion.toLowerCase()+')');
+  if(p.tours_incluidos && p.tours_incluidos.length) partes.push('tour: '+p.tours_incluidos.join(' + '));
+  else if(x.tours) partes.push('tour incluido');
+  if(x.asistencia) partes.push('asistencia médica');
+  return partes.join(' + ');
+}
+// código de cotización (referencia para el cliente)
+function codigoCot(){ return 'COT-2026-' + Math.random().toString(36).slice(2,7).toUpperCase(); }
+// ---------- cotización -> texto para WhatsApp (formato propuesta Trvely) ----------
+function cotizacion(p, fecha){
+  const [ida,reg,precio,vuelo]=fecha;
+  const pax = estado.adultos + estado.ninos;
+  const total = precio*pax, sep = Math.round(total*0.30);
+  const paxTxt = estado.adultos+' adulto'+(estado.adultos!==1?'s':'')
+    + (estado.ninos ? ' + '+estado.ninos+' niño'+(estado.ninos!==1?'s':'') : '');
+  let m = `✈️ *PROPUESTA DE VIAJE - TRVELY SAS*\n\n`
+    + `¡Hola! Te comparto tu propuesta de viaje:\n\n`
+    + `📍 *Destino:* ${p.destino} — ${p.hotel}\n`
+    + `📅 *Fechas:* ${fechaCorta(ida)} → ${fechaCorta(reg)} (${p.noches} noche${p.noches>1?'s':''})\n`
+    + `👥 *Pasajeros:* ${paxTxt}\n`
+    + `🏨 *Plan:* ${p.alimentacion} · Hab. ${p.habitacion||'Estándar'}\n\n`
+    + `✅ *Incluye:* ${incluyeTexto(p)}\n\n`;
+  if(vuelo && vuelo.ai){
+    m += `✈️ *Vuelos:*\n`
+      + `  • Ida: ${vuelo.ai} · ${fechaCorta(ida)} · sale ${horaAmPm(vuelo.si)} → llega ${horaAmPm(vuelo.li)}${vuelo.ei?' (con escala)':' (directo)'}\n`
+      + `  • Regreso: ${vuelo.ar} · ${fechaCorta(reg)} · sale ${horaAmPm(vuelo.sr)} → llega ${horaAmPm(vuelo.lr)}${vuelo.er?' (con escala)':' (directo)'}\n\n`;
+  }
+  m += `💰 *Precio por persona:* ${COP(precio)} COP\n`
+    + `💵 *Valor total:* ${COP(total)} COP\n`
+    + `✅ *Separas con solo el 30%:* ${COP(sep)} COP\n`;
+  const imp = IMPUESTOS[p.destino];
+  if(imp) m += `\n⚠️ *Aparte (se paga en destino):* ${imp}`;
+  if(p.galeria) m += `\n🖼️ *Mira el hotel:* ${p.galeria}`;
+  if(p.experiencias) m += `\n🌅 *Más cosas por hacer en ${p.destino}:* ${p.experiencias}`;
+  m += `\n\n📋 *Código:* ${codigoCot()}\n\n`
+    + `_Tarifa por persona en acomodación doble, precio de hoy (${fechaLarga(DATA.generado)}). El tiquete cambia a diario; lo confirmamos al separar._\n\n`
+    + `¿Tienes alguna duda o ajuste? Escríbenos y con gusto te ayudamos.\n\n`
+    + `🌍 *Trvely SAS* — ¡Hagamos realidad tu viaje!`;
+  return m;
+}
+
+// ---------- copiar (con respaldo execCommand) ----------
+function copiar(texto, btn, okClass='ok'){
+  const exito=()=>{ btn.classList.add(okClass); toast('Cotización copiada — pégala en el chat del cliente'); setTimeout(()=>btn.classList.remove(okClass),1400); };
+  const falla=()=>{ btn.classList.add('falla'); toast('No se pudo copiar automáticamente','err'); setTimeout(()=>btn.classList.remove('falla'),1600); };
+  if(navigator.clipboard && navigator.clipboard.writeText){
+    navigator.clipboard.writeText(texto).then(exito).catch(()=>respaldo(texto)?exito():falla());
+  } else { respaldo(texto)?exito():falla(); }
+}
+function respaldo(texto){
+  try{ const ta=document.createElement('textarea'); ta.value=texto; ta.style.position='fixed'; ta.style.opacity='0';
+    document.body.appendChild(ta); ta.select(); const ok=document.execCommand('copy'); document.body.removeChild(ta); return ok;
+  }catch(e){ return false; }
+}
+let toastT;
+function toast(msg, tipo){ const t=document.getElementById('toast'); t.textContent=msg; t.className='toast ver'+(tipo==='err'?' err':'');
+  clearTimeout(toastT); toastT=setTimeout(()=>t.className='toast',2200); }
+
+// ---------- filtros de producto ----------
+function fechasVisibles(p){
+  if(!estado.mes) return p.fechas;
+  return p.fechas.filter(f=>{ const d=D(f[0]); return (d.getFullYear()+'-'+String(d.getMonth()+1).padStart(2,'0'))===estado.mes; });
+}
+function pasa(p){
+  if(estado.destino!=='todos' && slug(p.destino)!==estado.destino) return false;
+  if(estado.alim && slug(p.alimentacion)!==estado.alim) return false;
+  if(estado.q){ if(!norm(p.hotel).includes(estado.q) && !norm(p.destino).includes(estado.q) && !norm(p.alimentacion).includes(estado.q)) return false; }
+  return true;
+}
+
+// ---------- render ----------
+const cont=document.getElementById('lista');
+const cotRefs={};
+
+function pintarHotel(h){
+  h.planes.sort((a,b)=>a.desde-b.desde);
+  const art=document.createElement('article'); art.className='hotel';
+  let html=`<div class="hotel-cab"><h3>${h.hotel}</h3><span class="noches">${h.noches} noche${h.noches>1?'s':''}</span>`
+    + `<span class="destino-min">${h.destino}</span></div>`;
+  for(const pl of h.planes){
+    const p=pl.p, fechas=pl.fechas.slice().sort((a,b)=>a[0].localeCompare(b[0]));
+    const mejor=Math.min(...fechas.map(f=>f[2]));
+    const id='f'+Math.random().toString(36).slice(2,9);
+    const items=fechas.map((f,i)=>{
+      const es=f[2]===mejor, v=f[3];
+      const vt = (v&&v.ai) ? `<div class="fecha-vuelo">✈️ ${v.ai} ${horaAmPm(v.si)} → ${horaAmPm(v.li)} · vuelta ${horaAmPm(v.sr)} → ${horaAmPm(v.lr)}${(v.ei||v.er)?' · con escala':' · directo'}</div>` : '';
+      return `<div class="fecha-item${es?' mejor':''}">
+        <div class="fecha-top">
+          <span class="fecha-txt">${fechaCorta(f[0])} <small>→ ${fechaCorta(f[1])}</small></span>
+          <span class="fecha-precio">${COP(f[2])}</span>
+          <button class="copia-mini" data-cot="${id}:${i}" title="Copiar esta fecha">📋</button>
+        </div>${vt}</div>`;
+    }).join('');
+    html+=`<div class="plan">
+      <div class="plan-fila">
+        <div class="plan-info"><div class="plan-alim">${p.alimentacion}</div><div class="plan-hab">${p.habitacion||'Estándar'}</div></div>
+        <div class="plan-precio"><span class="desde">desde</span><span class="valor">${COP(pl.desde)}</span></div>
+        <div class="plan-acc">
+          <button class="btn-fechas" aria-expanded="false" aria-controls="${id}"><span class="flecha">▸</span> ${fechas.length} fecha${fechas.length>1?'s':''}</button>
+          <button class="btn-copiar" data-cot="${id}:mejor">📋 Copiar</button>
+        </div>
+      </div>
+      <div class="fechas" id="${id}">
+        <p class="fechas-nota">Precio por persona de cada salida. En <b style="color:var(--verde)">verde</b>, la más económica. El 📋 copia la cotización de esa fecha lista para el chat.</p>
+        <div class="fechas-grid">${items}</div>
+      </div></div>`;
+    cotRefs[id]={p, fechas, mejorFecha:fechas.reduce((m,f)=>f[2]<m[2]?f:m,fechas[0])};
+  }
+  art.innerHTML=html; return art;
+}
+
+function render(){
+  cont.innerHTML='';
+  // agrupar planes visibles por destino -> hotel
+  const porDestino={};
+  for(const p of P){
+    if(!pasa(p)) continue;
+    const fv=fechasVisibles(p); if(!fv.length) continue;
+    const desde=Math.min(...fv.map(f=>f[2]));
+    porDestino[p.destino]=porDestino[p.destino]||{};
+    porDestino[p.destino][p.hotel]=porDestino[p.destino][p.hotel]||{hotel:p.hotel,destino:p.destino,noches:p.noches,planes:[]};
+    porDestino[p.destino][p.hotel].planes.push({p, fechas:fv, desde});
+  }
+  let destinosOrd = destinos.filter(d=>porDestino[d]);
+  if(estado.destino!=='todos') destinosOrd = destinosOrd.filter(d=>slug(d)===estado.destino);
+
+  const minHotel=h=>Math.min(...h.planes.map(x=>x.desde));
+  const global = (estado.orden==='precio-asc'||estado.orden==='precio-desc'||estado.orden==='hotel') && estado.destino==='todos';
+  let nPlanes=0, nHoteles=0;
+  const contar=h=>{ nHoteles++; nPlanes+=h.planes.length; };
+
+  if(global){
+    let todos=[];
+    for(const d of destinosOrd) todos=todos.concat(Object.values(porDestino[d]));
+    if(estado.orden==='hotel') todos.sort((a,b)=>a.hotel.localeCompare(b.hotel));
+    else todos.sort((a,b)=>(estado.orden==='precio-asc'?1:-1)*(minHotel(a)-minHotel(b)));
+    todos.forEach(h=>{ cont.appendChild(pintarHotel(h)); contar(h); });
+  } else {
+    for(const d of destinosOrd){
+      const hoteles=Object.values(porDestino[d]);
+      if(estado.orden==='precio-desc') hoteles.sort((a,b)=>minHotel(b)-minHotel(a));
+      else if(estado.orden==='hotel') hoteles.sort((a,b)=>a.hotel.localeCompare(b.hotel));
+      else hoteles.sort((a,b)=>minHotel(a)-minHotel(b));
+      const sep=document.createElement('div'); sep.className='destino-sep';
+      const np=hoteles.reduce((s,h)=>s+h.planes.length,0);
+      sep.innerHTML=`<h2>${d}</h2><span class="n">${hoteles.length} hoteles · ${np} planes</span>`;
+      cont.appendChild(sep);
+      hoteles.forEach(h=>{ cont.appendChild(pintarHotel(h)); contar(h); });
+    }
+  }
+
+  document.getElementById('nada').style.display = nPlanes? 'none':'block';
+  const mesOpt = estado.mes? document.querySelector('#f-mes option[value="'+estado.mes+'"]') : null;
+  document.getElementById('conteo').innerHTML = `<b>${nPlanes}</b> planes · ${nHoteles} hoteles${mesOpt? ' · '+mesOpt.textContent : ''}`;
+
+  cont.querySelectorAll('.btn-fechas').forEach(btn=>btn.addEventListener('click',()=>{
+    const ex=btn.getAttribute('aria-expanded')==='true'; btn.setAttribute('aria-expanded',String(!ex));
+    document.getElementById(btn.getAttribute('aria-controls')).classList.toggle('abierto',!ex);
+  }));
+  cont.querySelectorAll('[data-cot]').forEach(btn=>btn.addEventListener('click',()=>{
+    const [id,which]=btn.dataset.cot.split(':'); const ref=cotRefs[id]; if(!ref) return;
+    const fecha = which==='mejor'? ref.mejorFecha : ref.fechas[+which];
+    copiar(cotizacion(ref.p, fecha), btn);
+  }));
+}
+render();
+</script>
+</body></html>
