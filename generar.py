@@ -65,6 +65,19 @@ def alias_map():
             pass
     return {}
 
+def excluir_inactivos(prods):
+    """Saca hoteles fuera de operacion (mantenimiento/cerrados) del cotizador. Kill switch de Producto,
+    independiente de PROD. hoteles_inactivos.json = ["KEVIN'S", ...] (por nombre de hotel)."""
+    p = os.path.join(REPO, 'hoteles_inactivos.json')
+    if not os.path.exists(p):
+        return prods, []
+    try:
+        inact = {norm(h) for h in json.load(open(p, encoding='utf-8'))}
+    except Exception:
+        return prods, []
+    fuera = sorted({x['hotel'] for x in prods if norm(x['hotel']) in inact})
+    return [x for x in prods if norm(x['hotel']) not in inact], fuera
+
 def mapear(prods, gal, exp, alias=None):
     """Anota galeria + experiencias en cada producto (reconoce las nuevas)."""
     alias = alias or {}
@@ -163,21 +176,19 @@ def main():
     modo = sys.argv[1] if len(sys.argv) > 1 else ""
     gal, exp, alias = galerias_map(), exp_vivas(), alias_map()
     if modo == "--full":
-        prods = extraer_prod()
-        cg, ce = mapear(prods, gal, exp, alias)
-        data = dict(generado=datetime.date.today().isoformat(), acomodacion="doble", productos=prods)
-        json.dump(data, open(SNAP, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+        data = dict(generado=datetime.date.today().isoformat(), acomodacion="doble", productos=extraer_prod())
     else:
         data = json.load(open(SNAP, encoding="utf-8"))
-        if modo == "--remap":
-            cg, ce = mapear(data["productos"], gal, exp, alias)
-            json.dump(data, open(SNAP, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
-        else:
-            cg = sum(1 for p in data["productos"] if p.get("galeria"))
-            ce = sum(1 for p in data["productos"] if p.get("experiencias"))
+    data["productos"], fuera = excluir_inactivos(data["productos"])
+    if modo in ("--full", "--remap"):
+        cg, ce = mapear(data["productos"], gal, exp, alias)
+        json.dump(data, open(SNAP, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+    else:
+        cg = sum(1 for p in data["productos"] if p.get("galeria"))
+        ce = sum(1 for p in data["productos"] if p.get("experiencias"))
     build_index(data)
     print(f"OK [{modo or 'build'}] · {len(data['productos'])} productos · {cg} con galeria · {ce} con experiencias "
-          f"· {len(gal)} galerias vistas · generado {data['generado']}")
+          f"· {len(gal)} galerias · fuera: {fuera or 'ninguno'} · generado {data['generado']}")
 
 if __name__ == "__main__":
     main()
