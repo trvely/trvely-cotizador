@@ -4,6 +4,8 @@
 <meta name="theme-color" content="#B41241">
 <title>Cotizador Trvely · tablero interno del asesor</title>
 <style>
+  @font-face{ font-family:'Extenda'; src:url('assets/extenda.ttf') format('truetype'); font-display:swap; }
+  @font-face{ font-family:'WhiteStar'; src:url('assets/whitestar.otf') format('opentype'); font-display:swap; }
   :root{
     --burg:#B41241; --burg-hondo:#7C0C2C; --beige:#F4E5D2; --crema:#FAF7F2; --nieve:#FFFFFF;
     --tinta:#1C1B1A; --gris:#8C8681; --gris-claro:#B7B1AB; --linea:#E9DFD4; --linea-fuerte:#DED2C4;
@@ -16,14 +18,22 @@
   button,input,select{font-family:inherit;}
   ::selection{background:var(--beige);}
 
-  /* ---------- BARRA SUPERIOR (una línea) ---------- */
-  .top{background:var(--burg); color:#fff; padding:9px 18px; display:flex; align-items:center; gap:12px; flex-wrap:wrap;}
-  .top .marca{font-weight:800; letter-spacing:.06em; font-size:14px;}
-  .top .marca b{color:var(--beige);}
-  .top .sub{font-size:11.5px; color:rgba(255,255,255,.82); font-weight:600;}
-  .top .vigencia{margin-left:auto; font-size:11px; font-weight:700; background:rgba(255,255,255,.14);
-                 padding:5px 11px; border-radius:20px; letter-spacing:.02em;}
-  .top .vigencia b{color:#fff;}
+  /* ---------- ENCABEZADO (con Triana, cálido pero compacto) ---------- */
+  .top{position:relative; overflow:hidden; color:#fff;
+       background:radial-gradient(130% 150% at 90% 0%, #93153B 0%, var(--burg) 44%, var(--burg-hondo) 100%);}
+  .top-caja{max-width:1280px; margin:0 auto; padding:15px 18px 13px; display:grid;
+            grid-template-columns:1fr auto; align-items:end; gap:14px;}
+  .top .logo{height:24px; opacity:.97; display:block; margin-bottom:9px;}
+  .top h1{font-family:'Extenda','Montserrat',sans-serif; font-weight:400; font-size:clamp(26px,3.6vw,40px);
+          letter-spacing:1px; line-height:.96;}
+  .top h1 .firma-h{font-family:'WhiteStar','Segoe Script',cursive; color:var(--beige); font-size:.62em;
+                   letter-spacing:0; margin-left:8px;}
+  .top .sub{font-size:12px; color:rgba(255,255,255,.86); font-weight:600; margin-top:8px;}
+  .top .vigencia{display:inline-block; margin-top:11px; font-size:11px; font-weight:700;
+                 background:rgba(255,255,255,.15); padding:5px 12px; border-radius:20px; letter-spacing:.02em;}
+  .top .vigencia b{color:var(--beige);}
+  .triana{align-self:end; width:150px; max-width:100%; margin-bottom:-13px;
+          filter:drop-shadow(0 16px 26px rgba(0,0,0,.32));}
 
   /* ---------- FILTROS (pegajosos) ---------- */
   .filtros{position:sticky; top:0; z-index:40; background:rgba(250,247,242,.97);
@@ -120,6 +130,20 @@
   .toast.ver{opacity:1; transform:translateX(-50%) translateY(0);}
   .toast.err{background:#8a6d1f;}
 
+  /* ---------- FOOTER (cielo real del Figma, como la Vitrina) ---------- */
+  footer{margin-top:30px; color:#fff; text-align:center; border-radius:30px 30px 0 0;
+         background:linear-gradient(180deg,rgba(228,19,70,0) 0,rgba(228,19,70,.55) 200px,#E41346 320px,#DF0B43 52%,#BD073B 78%,#A90635 100%),
+                    url('assets/cielo-footer.webp') top center/cover no-repeat, #E41346;
+         padding:60px 22px 24px;}
+  footer h2{font-family:'Extenda','Montserrat',sans-serif; font-weight:400; line-height:1.14;
+            font-size:clamp(26px,4.2vw,46px); letter-spacing:1px; max-width:720px; margin:0 auto;
+            text-shadow:0 3px 22px rgba(0,0,0,.28); text-wrap:balance;}
+  footer .firma-pie{font-family:'WhiteStar','Segoe Script',cursive; color:var(--beige);
+                    font-size:clamp(22px,3vw,34px); margin-top:6px;}
+  .pie-legal{max-width:1180px; margin:38px auto 0; border-top:1px solid rgba(255,255,255,.28);
+             padding-top:14px; display:flex; flex-wrap:wrap; gap:6px 20px; justify-content:space-between;
+             font-size:11px; opacity:.9; text-align:left;}
+
   @media (max-width:720px){
     main{padding-left:12px; padding-right:12px;}
     .plan-fila{grid-template-columns:1fr auto; grid-template-areas:'info precio' 'acc acc'; gap:6px 10px;}
@@ -127,18 +151,25 @@
     .plan-acc{grid-area:acc; display:flex; gap:8px;}
     .plan-acc .btn-fechas{flex:1;} .plan-acc .btn-copiar{flex:1;}
     .fechas-grid{grid-template-columns:1fr;}
-    .top .vigencia{margin-left:0; order:3; width:100%;}
+    .top-caja{grid-template-columns:1fr;}
+    .triana{display:none;}
   }
   @media (min-width:721px){ .plan-acc{display:contents;} }
   @media (prefers-reduced-motion:reduce){*{transition:none !important;}}
 </style></head>
 <body>
 
-<div class="top">
-  <span class="marca">tr<b>ѵ</b>ely · Cotizador</span>
-  <span class="sub">tablero interno del asesor · precios por persona en doble</span>
-  <span class="vigencia">Precios de <b id="vig-fecha">hoy</b> · el tiquete cambia a diario</span>
-</div>
+<header class="top">
+  <div class="top-caja">
+    <div class="top-txt">
+      <img class="logo" src="assets/logo-beige.png" alt="Trvely">
+      <h1>COTIZADOR<span class="firma-h">el precio real de cada fecha</span></h1>
+      <p class="sub">Tablero interno del asesor · por persona en acomodación doble</p>
+      <span class="vigencia">Precios de <b id="vig-fecha">hoy</b> · el tiquete cambia a diario</span>
+    </div>
+    <img class="triana" src="assets/triana.webp" alt="Triana, tu asesora Trvely" width="150">
+  </div>
+</header>
 
 <div class="filtros">
   <div class="filtros-caja">
@@ -166,6 +197,16 @@
   <div class="nada" id="nada"><strong>Sin resultados</strong>Quita algún filtro o cambia el mes.</div>
 </main>
 
+<footer>
+  <h2>¡AQUÍ COMIENZAN TUS MÁS GRANDES AVENTURAS!</h2>
+  <p class="firma-pie">a cotizar se dijo</p>
+  <div class="pie-legal">
+    <span>Trvely · Living the world · uso interno (asesores)</span>
+    <span>Precios de referencia por persona en doble · el tiquete cambia a diario</span>
+    <span id="pie-fecha"></span>
+  </div>
+</footer>
+
 <div class="toast" id="toast"></div>
 
 <script>
@@ -180,8 +221,9 @@ const slug = s => norm(s).replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'');
 const D = iso => new Date(iso+'T00:00:00');
 const fechaCorta = iso => { const d=D(iso); return `${DIAS[d.getDay()]} ${d.getDate()} ${MESES[d.getMonth()]}`; };
 
-document.getElementById('vig-fecha').textContent = fechaLarga(DATA.generado);
 function fechaLarga(iso){ const d=D(iso); return `${d.getDate()} ${MESES[d.getMonth()]}`; }
+document.getElementById('vig-fecha').textContent = fechaLarga(DATA.generado);
+document.getElementById('pie-fecha').textContent = 'Actualizado ' + fechaLarga(DATA.generado) + ' 2026';
 
 // ---------- estado ----------
 const estado = {destino:'todos', alim:'', mes:'', q:'', orden:'destino'};
