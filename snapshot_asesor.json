@@ -2632,7 +2632,9 @@
     "traslado": false,
     "asistencia": true
    },
-   "tours_incluidos": [],
+   "tours_incluidos": [
+    "Combo hotelero Portofino Caribe | Tour Bahía + Vuelta a la Isla + Acuario Mágico"
+   ],
    "traslados": [],
    "desde": 1697990,
    "hasta": 1837990,

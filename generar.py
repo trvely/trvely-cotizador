@@ -147,7 +147,7 @@ def extraer_prod():
             p["fechas"].append([str(ida), str(reg), int(round(precio)), vuelo])
     lista = []
     for cod, p in prods.items():
-        s = serv.get(cod, {}); p["tours_incluidos"] = s.get('TOUR', []); p["traslados"] = s.get('TRASLADO', [])
+        s = serv.get(cod, {}); p["tours_incluidos"] = s.get('TOUR', []) + s.get('COMBO', []); p["traslados"] = s.get('TRASLADO', [])
         pr = [f[2] for f in p["fechas"]]; p["desde"], p["hasta"], p["n_fechas"] = min(pr), max(pr), len(pr)
         lista.append(p)
     return lista
