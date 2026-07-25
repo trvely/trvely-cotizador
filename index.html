@@ -86,6 +86,23 @@
   .reglas-fina{margin-top:12px; padding-top:10px; border-top:1px dashed var(--linea);
                font-size:11.5px; color:var(--gris); line-height:1.6;}
   .reglas-fina b{color:var(--burg);}
+
+  /* ---------- LA VOZ DEL ASESOR (feedback) ---------- */
+  .voz{display:flex; align-items:center; justify-content:space-between; gap:14px; flex-wrap:wrap;
+       margin:14px 0 2px; padding:13px 18px; border-radius:12px;
+       background:linear-gradient(100deg, var(--beige), #FBEFE0); border:1px solid var(--linea-fuerte);}
+  .voz-txt{font-size:12.5px; color:var(--burg-hondo); line-height:1.5; max-width:70ch;}
+  .voz-txt b{color:var(--burg); font-size:13.5px;}
+  .voz-btn{flex:0 0 auto; background:var(--burg); color:#fff; text-decoration:none; border-radius:22px;
+           padding:10px 17px; font-size:12.5px; font-weight:800; white-space:nowrap;
+           transition:filter .15s, transform .15s;}
+  .voz-btn:hover{filter:brightness(1.09); transform:translateY(-1px);}
+  .fab-idea{position:fixed; right:18px; bottom:18px; z-index:70; display:inline-flex; align-items:center; gap:8px;
+            background:var(--burg); color:#fff; text-decoration:none; border-radius:26px; padding:12px 18px;
+            font-size:13px; font-weight:800; letter-spacing:.02em; box-shadow:0 10px 30px rgba(124,12,44,.34);
+            transition:filter .15s, transform .15s;}
+  .fab-idea:hover{filter:brightness(1.08); transform:translateY(-2px);}
+  @media (max-width:600px){ .fab-idea span{display:none;} .fab-idea{padding:13px;} }
   .stepper{display:inline-flex; align-items:center; gap:6px; border:1.5px solid var(--linea-fuerte);
            background:#fff; border-radius:10px; padding:3px 5px;}
   .stepper span{min-width:66px; text-align:center; font-size:12px; font-weight:700; color:var(--tinta);}
@@ -237,6 +254,11 @@
 </div>
 
 <main>
+  <div class="voz">
+    <div class="voz-txt"><b>En Trvely, tú eres lo más importante. 💛</b><br>
+      Este cotizador lo construimos contigo y para ti. ¿Qué le mejorarías? Tu idea llega directo a nosotros.</div>
+    <a class="voz-btn js-mail" href="#">✉️ Enviar mi idea</a>
+  </div>
   <section class="reglas">
     <button class="reglas-cab" id="reglas-btn" aria-expanded="false" aria-controls="reglas-cuerpo">
       <span>📋 Reglas de oro para reservar</span>
@@ -269,6 +291,8 @@
     <span id="pie-fecha"></span>
   </div>
 </footer>
+
+<a class="fab-idea js-mail" href="#" title="Proponer una mejora — tu voz construye Trvely">✉️ <span>Tu idea cuenta</span></a>
 
 <div class="toast" id="toast"></div>
 
@@ -341,6 +365,13 @@ document.querySelectorAll('[data-pax]').forEach(b=>b.addEventListener('click',()
   const ex=b.getAttribute('aria-expanded')==='true'; b.setAttribute('aria-expanded',String(!ex));
   document.getElementById('reglas-cuerpo').classList.toggle('abierto',!ex);
 }); })();
+// La voz del asesor: correo a contigo@trvely.com.co, ya redactado
+(function(){
+  const asunto='Mejora para el Cotizador Trvely';
+  const cuerpo='¡Hola equipo Trvely!\n\nUso el cotizador a diario y quiero proponer esta mejora:\n\n(escribe aquí tu idea)\n\nLo que más me sirve hoy es:\n\n\nGracias por escucharnos,\n(tu nombre)';
+  const href='mailto:contigo@trvely.com.co?subject='+encodeURIComponent(asunto)+'&body='+encodeURIComponent(cuerpo);
+  document.querySelectorAll('.js-mail').forEach(a=>a.setAttribute('href', href));
+})();
 
 // ---------- inclusiones -> texto (con tour nombrado real) ----------
 function incluyeTexto(p){
