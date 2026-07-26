@@ -226,6 +226,8 @@
   </div>
 </header>
 
+<div id="aviso-viejo" style="display:none;background:#B41241;color:#fff;text-align:center;padding:10px 16px;font-weight:700;font-size:.95rem;"></div>
+
 <div class="filtros">
   <div class="filtros-caja">
     <div class="fila1">
@@ -321,6 +323,16 @@ function fechaCompleta(iso){ const d=D(iso); return `${DIAS[d.getDay()]} ${d.get
 const _hora = DATA.generado_hora ? ' · ' + DATA.generado_hora : '';
 document.getElementById('vig-fecha').textContent = fechaCompleta(DATA.generado) + _hora;
 document.getElementById('pie-fecha').textContent = 'Última actualización: ' + fechaCompleta(DATA.generado) + _hora + (DATA.generado_hora ? ' (hora Colombia)' : '');
+
+// Vigía VISIBLE: se calcula en el navegador del asesor cada vez que abre la página,
+// así avisa aunque ningún robot haya corrido. Hueco legítimo máximo sin refresco:
+// sábado → martes tras lunes festivo = 3 días; más de 3.5 = algo está roto.
+const _edadDias = (Date.now() - D(DATA.generado).getTime()) / 864e5;
+if (_edadDias > 3.5) {
+  const _av = document.getElementById('aviso-viejo');
+  _av.style.display = 'block';
+  _av.textContent = '⚠️ Estos precios no se actualizan desde el ' + fechaCompleta(DATA.generado) + '. Antes de cotizar, confírmalos con tu líder comercial.';
+}
 
 // ---------- estado ----------
 const estado = {destino:'todos', alim:'', mes:'', q:'', orden:'destino', adultos:2, ninos:0};
