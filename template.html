@@ -318,8 +318,9 @@ const IMPUESTOS = {
 
 function fechaLarga(iso){ const d=D(iso); return `${d.getDate()} ${MESES[d.getMonth()]}`; }
 function fechaCompleta(iso){ const d=D(iso); return `${DIAS[d.getDay()]} ${d.getDate()} ${MESES[d.getMonth()]} ${d.getFullYear()}`; }
-document.getElementById('vig-fecha').textContent = fechaCompleta(DATA.generado);
-document.getElementById('pie-fecha').textContent = 'Última actualización: ' + fechaCompleta(DATA.generado);
+const _hora = DATA.generado_hora ? ' · ' + DATA.generado_hora : '';
+document.getElementById('vig-fecha').textContent = fechaCompleta(DATA.generado) + _hora;
+document.getElementById('pie-fecha').textContent = 'Última actualización: ' + fechaCompleta(DATA.generado) + _hora + (DATA.generado_hora ? ' (hora Colombia)' : '');
 
 // ---------- estado ----------
 const estado = {destino:'todos', alim:'', mes:'', q:'', orden:'destino', adultos:2, ninos:0};

@@ -176,7 +176,10 @@ def main():
     modo = sys.argv[1] if len(sys.argv) > 1 else ""
     gal, exp, alias = galerias_map(), exp_vivas(), alias_map()
     if modo == "--full":
-        data = dict(generado=datetime.date.today().isoformat(), acomodacion="doble", productos=extraer_prod())
+        # hora de Colombia (UTC-5), aunque el corte corra en la nube (UTC)
+        now_co = datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(hours=5)
+        data = dict(generado=now_co.strftime("%Y-%m-%d"), generado_hora=now_co.strftime("%H:%M"),
+                    acomodacion="doble", productos=extraer_prod())
     else:
         data = json.load(open(SNAP, encoding="utf-8"))
     data["productos"], fuera = excluir_inactivos(data["productos"])
