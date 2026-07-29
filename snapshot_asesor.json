@@ -1,6 +1,6 @@
 {
- "generado": "2026-07-28",
- "generado_hora": "11:45",
+ "generado": "2026-07-29",
+ "generado_hora": "09:00",
  "acomodacion": "doble",
  "productos": [
   {
@@ -11286,6 +11286,21 @@
      }
     ],
     [
+     "2026-10-11",
+     "2026-10-14",
+     2987990,
+     {
+      "ai": "Arajet",
+      "si": "09:45",
+      "li": "13:35",
+      "ar": "Arajet",
+      "sr": "18:40",
+      "lr": "20:20",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
      "2026-10-16",
      "2026-10-19",
      2920990,
@@ -11345,7 +11360,7 @@
    ],
    "desde": 2920990,
    "hasta": 3059990,
-   "n_fechas": 9,
+   "n_fechas": 10,
    "galeria": "https://galerias.trvely.com.co/coral-costa-caribe/",
    "experiencias": null
   },
@@ -11357,6 +11372,21 @@
    "noches": 3,
    "codigo": "LET-ANC-4D3N-DC-EST",
    "fechas": [
+    [
+     "2026-09-02",
+     "2026-09-05",
+     1628990,
+     {
+      "ai": "Avianca",
+      "si": "07:00",
+      "li": "09:05",
+      "ar": "Avianca",
+      "sr": "17:50",
+      "lr": "19:50",
+      "ei": false,
+      "er": false
+     }
+    ],
     [
      "2026-09-06",
      "2026-09-09",
@@ -11504,7 +11534,7 @@
    "traslados": [],
    "desde": 1621990,
    "hasta": 1628990,
-   "n_fechas": 9,
+   "n_fechas": 10,
    "galeria": "https://galerias.trvely.com.co/anaconda/",
    "experiencias": "https://experiencias.trvely.com.co/leticia/"
   },
@@ -11516,6 +11546,21 @@
    "noches": 3,
    "codigo": "LET-ANC-4D3N-DES-EST",
    "fechas": [
+    [
+     "2026-09-02",
+     "2026-09-05",
+     1458990,
+     {
+      "ai": "Avianca",
+      "si": "07:00",
+      "li": "09:05",
+      "ar": "Avianca",
+      "sr": "17:50",
+      "lr": "19:50",
+      "ei": false,
+      "er": false
+     }
+    ],
     [
      "2026-09-06",
      "2026-09-09",
@@ -11663,7 +11708,7 @@
    "traslados": [],
    "desde": 1451990,
    "hasta": 1458990,
-   "n_fechas": 9,
+   "n_fechas": 10,
    "galeria": "https://galerias.trvely.com.co/anaconda/",
    "experiencias": "https://experiencias.trvely.com.co/leticia/"
   },
@@ -11675,6 +11720,21 @@
    "noches": 3,
    "codigo": "LET-ANC-4D3N-PC-EST",
    "fechas": [
+    [
+     "2026-09-02",
+     "2026-09-05",
+     1828990,
+     {
+      "ai": "Avianca",
+      "si": "07:00",
+      "li": "09:05",
+      "ar": "Avianca",
+      "sr": "17:50",
+      "lr": "19:50",
+      "ei": false,
+      "er": false
+     }
+    ],
     [
      "2026-09-06",
      "2026-09-09",
@@ -11822,7 +11882,7 @@
    "traslados": [],
    "desde": 1820990,
    "hasta": 1828990,
-   "n_fechas": 9,
+   "n_fechas": 10,
    "galeria": "https://galerias.trvely.com.co/anaconda/",
    "experiencias": "https://experiencias.trvely.com.co/leticia/"
   },
@@ -13161,6 +13221,21 @@
      }
     ],
     [
+     "2026-10-11",
+     "2026-10-14",
+     2995990,
+     {
+      "ai": "Arajet",
+      "si": "09:45",
+      "li": "13:35",
+      "ar": "Arajet",
+      "sr": "18:40",
+      "lr": "20:20",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
      "2026-10-16",
      "2026-10-19",
      2927990,
@@ -13220,7 +13295,7 @@
    ],
    "desde": 2927990,
    "hasta": 3178990,
-   "n_fechas": 9,
+   "n_fechas": 10,
    "galeria": "https://galerias.trvely.com.co/whala-bocachica/",
    "experiencias": null
   },
@@ -13323,6 +13398,21 @@
      }
     ],
     [
+     "2026-10-11",
+     "2026-10-14",
+     2879990,
+     {
+      "ai": "Arajet",
+      "si": "09:45",
+      "li": "13:35",
+      "ar": "Arajet",
+      "sr": "18:40",
+      "lr": "20:20",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
      "2026-10-16",
      "2026-10-19",
      2812990,
@@ -13382,7 +13472,7 @@
    ],
    "desde": 2812990,
    "hasta": 3037990,
-   "n_fechas": 9,
+   "n_fechas": 10,
    "galeria": "https://galerias.trvely.com.co/whala-bocachica/",
    "experiencias": null
   },
@@ -13485,6 +13575,21 @@
      }
     ],
     [
+     "2026-10-11",
+     "2026-10-14",
+     2822990,
+     {
+      "ai": "Arajet",
+      "si": "09:45",
+      "li": "13:35",
+      "ar": "Arajet",
+      "sr": "18:40",
+      "lr": "20:20",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
      "2026-10-16",
      "2026-10-19",
      2754990,
@@ -13544,7 +13649,7 @@
    ],
    "desde": 2754990,
    "hasta": 2967990,
-   "n_fechas": 9,
+   "n_fechas": 10,
    "galeria": "https://galerias.trvely.com.co/whala-bocachica/",
    "experiencias": null
   },
@@ -13567,6 +13672,21 @@
       "ar": "JetSMART",
       "sr": "21:35",
       "lr": "23:05",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-09-13",
+     "2026-09-16",
+     1368990,
+     {
+      "ai": "JetSMART",
+      "si": "05:45",
+      "li": "07:24",
+      "ar": "JetSMART",
+      "sr": "20:50",
+      "lr": "22:20",
       "ei": false,
       "er": false
      }
@@ -13595,8 +13715,23 @@
       "si": "09:25",
       "li": "11:04",
       "ar": "JetSMART",
-      "sr": "10:15",
-      "lr": "11:45",
+      "sr": "22:15",
+      "lr": "23:45",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-14",
+     "2026-10-17",
+     1368990,
+     {
+      "ai": "JetSMART",
+      "si": "05:35",
+      "li": "07:14",
+      "ar": "JetSMART",
+      "sr": "21:55",
+      "lr": "23:25",
       "ei": false,
       "er": false
      }
@@ -13630,6 +13765,51 @@
       "ei": false,
       "er": false
      }
+    ],
+    [
+     "2026-10-27",
+     "2026-10-30",
+     1379990,
+     {
+      "ai": "JetSMART",
+      "si": "11:25",
+      "li": "13:04",
+      "ar": "JetSMART",
+      "sr": "13:45",
+      "lr": "15:15",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-04",
+     "2026-11-07",
+     1368990,
+     {
+      "ai": "JetSMART",
+      "si": "05:35",
+      "li": "07:11",
+      "ar": "JetSMART",
+      "sr": "15:40",
+      "lr": "17:10",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-11",
+     "2026-11-14",
+     1379990,
+     {
+      "ai": "JetSMART",
+      "si": "05:35",
+      "li": "07:11",
+      "ar": "JetSMART",
+      "sr": "15:40",
+      "lr": "17:10",
+      "ei": false,
+      "er": false
+     }
     ]
    ],
    "incluye": {
@@ -13647,7 +13827,7 @@
    ],
    "desde": 1368990,
    "hasta": 1433990,
-   "n_fechas": 5,
+   "n_fechas": 10,
    "galeria": "https://galerias.trvely.com.co/be-de-la-sierra/",
    "experiencias": "https://experiencias.trvely.com.co/santa-marta/"
   },
@@ -13670,6 +13850,21 @@
       "ar": "JetSMART",
       "sr": "21:35",
       "lr": "23:05",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-09-13",
+     "2026-09-16",
+     1480990,
+     {
+      "ai": "JetSMART",
+      "si": "05:45",
+      "li": "07:24",
+      "ar": "JetSMART",
+      "sr": "20:50",
+      "lr": "22:20",
       "ei": false,
       "er": false
      }
@@ -13698,8 +13893,23 @@
       "si": "09:25",
       "li": "11:04",
       "ar": "JetSMART",
-      "sr": "10:15",
-      "lr": "11:45",
+      "sr": "22:15",
+      "lr": "23:45",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-14",
+     "2026-10-17",
+     1480990,
+     {
+      "ai": "JetSMART",
+      "si": "05:35",
+      "li": "07:14",
+      "ar": "JetSMART",
+      "sr": "21:55",
+      "lr": "23:25",
       "ei": false,
       "er": false
      }
@@ -13733,6 +13943,51 @@
       "ei": false,
       "er": false
      }
+    ],
+    [
+     "2026-10-27",
+     "2026-10-30",
+     1491990,
+     {
+      "ai": "JetSMART",
+      "si": "11:25",
+      "li": "13:04",
+      "ar": "JetSMART",
+      "sr": "13:45",
+      "lr": "15:15",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-04",
+     "2026-11-07",
+     1480990,
+     {
+      "ai": "JetSMART",
+      "si": "05:35",
+      "li": "07:11",
+      "ar": "JetSMART",
+      "sr": "15:40",
+      "lr": "17:10",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-11",
+     "2026-11-14",
+     1491990,
+     {
+      "ai": "JetSMART",
+      "si": "05:35",
+      "li": "07:11",
+      "ar": "JetSMART",
+      "sr": "15:40",
+      "lr": "17:10",
+      "ei": false,
+      "er": false
+     }
     ]
    ],
    "incluye": {
@@ -13750,7 +14005,7 @@
    ],
    "desde": 1480990,
    "hasta": 1545990,
-   "n_fechas": 5,
+   "n_fechas": 10,
    "galeria": "https://galerias.trvely.com.co/be-de-la-sierra/",
    "experiencias": "https://experiencias.trvely.com.co/santa-marta/"
   },
@@ -13773,6 +14028,21 @@
       "ar": "JetSMART",
       "sr": "21:35",
       "lr": "23:05",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-09-13",
+     "2026-09-16",
+     1221990,
+     {
+      "ai": "JetSMART",
+      "si": "05:45",
+      "li": "07:24",
+      "ar": "JetSMART",
+      "sr": "20:50",
+      "lr": "22:20",
       "ei": false,
       "er": false
      }
@@ -13801,8 +14071,23 @@
       "si": "09:25",
       "li": "11:04",
       "ar": "JetSMART",
-      "sr": "10:15",
-      "lr": "11:45",
+      "sr": "22:15",
+      "lr": "23:45",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-14",
+     "2026-10-17",
+     1221990,
+     {
+      "ai": "JetSMART",
+      "si": "05:35",
+      "li": "07:14",
+      "ar": "JetSMART",
+      "sr": "21:55",
+      "lr": "23:25",
       "ei": false,
       "er": false
      }
@@ -13836,6 +14121,51 @@
       "ei": false,
       "er": false
      }
+    ],
+    [
+     "2026-10-27",
+     "2026-10-30",
+     1232990,
+     {
+      "ai": "JetSMART",
+      "si": "11:25",
+      "li": "13:04",
+      "ar": "JetSMART",
+      "sr": "13:45",
+      "lr": "15:15",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-04",
+     "2026-11-07",
+     1221990,
+     {
+      "ai": "JetSMART",
+      "si": "05:35",
+      "li": "07:11",
+      "ar": "JetSMART",
+      "sr": "15:40",
+      "lr": "17:10",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-11",
+     "2026-11-14",
+     1232990,
+     {
+      "ai": "JetSMART",
+      "si": "05:35",
+      "li": "07:11",
+      "ar": "JetSMART",
+      "sr": "15:40",
+      "lr": "17:10",
+      "ei": false,
+      "er": false
+     }
     ]
    ],
    "incluye": {
@@ -13853,7 +14183,7 @@
    ],
    "desde": 1221990,
    "hasta": 1286990,
-   "n_fechas": 5,
+   "n_fechas": 10,
    "galeria": "https://galerias.trvely.com.co/be-de-la-sierra/",
    "experiencias": "https://experiencias.trvely.com.co/santa-marta/"
   },
@@ -13876,6 +14206,21 @@
       "ar": "JetSMART",
       "sr": "21:35",
       "lr": "23:05",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-09-13",
+     "2026-09-16",
+     1333990,
+     {
+      "ai": "JetSMART",
+      "si": "05:45",
+      "li": "07:24",
+      "ar": "JetSMART",
+      "sr": "20:50",
+      "lr": "22:20",
       "ei": false,
       "er": false
      }
@@ -13904,8 +14249,23 @@
       "si": "09:25",
       "li": "11:04",
       "ar": "JetSMART",
-      "sr": "10:15",
-      "lr": "11:45",
+      "sr": "22:15",
+      "lr": "23:45",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-14",
+     "2026-10-17",
+     1333990,
+     {
+      "ai": "JetSMART",
+      "si": "05:35",
+      "li": "07:14",
+      "ar": "JetSMART",
+      "sr": "21:55",
+      "lr": "23:25",
       "ei": false,
       "er": false
      }
@@ -13939,6 +14299,51 @@
       "ei": false,
       "er": false
      }
+    ],
+    [
+     "2026-10-27",
+     "2026-10-30",
+     1344990,
+     {
+      "ai": "JetSMART",
+      "si": "11:25",
+      "li": "13:04",
+      "ar": "JetSMART",
+      "sr": "13:45",
+      "lr": "15:15",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-04",
+     "2026-11-07",
+     1333990,
+     {
+      "ai": "JetSMART",
+      "si": "05:35",
+      "li": "07:11",
+      "ar": "JetSMART",
+      "sr": "15:40",
+      "lr": "17:10",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-11",
+     "2026-11-14",
+     1344990,
+     {
+      "ai": "JetSMART",
+      "si": "05:35",
+      "li": "07:11",
+      "ar": "JetSMART",
+      "sr": "15:40",
+      "lr": "17:10",
+      "ei": false,
+      "er": false
+     }
     ]
    ],
    "incluye": {
@@ -13956,7 +14361,7 @@
    ],
    "desde": 1333990,
    "hasta": 1398990,
-   "n_fechas": 5,
+   "n_fechas": 10,
    "galeria": "https://galerias.trvely.com.co/be-de-la-sierra/",
    "experiencias": "https://experiencias.trvely.com.co/santa-marta/"
   },
@@ -13979,6 +14384,21 @@
       "ar": "JetSMART",
       "sr": "21:35",
       "lr": "23:05",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-09-13",
+     "2026-09-16",
+     1506990,
+     {
+      "ai": "JetSMART",
+      "si": "05:45",
+      "li": "07:24",
+      "ar": "JetSMART",
+      "sr": "20:50",
+      "lr": "22:20",
       "ei": false,
       "er": false
      }
@@ -14007,8 +14427,23 @@
       "si": "09:25",
       "li": "11:04",
       "ar": "JetSMART",
-      "sr": "10:15",
-      "lr": "11:45",
+      "sr": "22:15",
+      "lr": "23:45",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-14",
+     "2026-10-17",
+     1506990,
+     {
+      "ai": "JetSMART",
+      "si": "05:35",
+      "li": "07:14",
+      "ar": "JetSMART",
+      "sr": "21:55",
+      "lr": "23:25",
       "ei": false,
       "er": false
      }
@@ -14042,6 +14477,51 @@
       "ei": false,
       "er": false
      }
+    ],
+    [
+     "2026-10-27",
+     "2026-10-30",
+     1517990,
+     {
+      "ai": "JetSMART",
+      "si": "11:25",
+      "li": "13:04",
+      "ar": "JetSMART",
+      "sr": "13:45",
+      "lr": "15:15",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-04",
+     "2026-11-07",
+     1506990,
+     {
+      "ai": "JetSMART",
+      "si": "05:35",
+      "li": "07:11",
+      "ar": "JetSMART",
+      "sr": "15:40",
+      "lr": "17:10",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-11",
+     "2026-11-14",
+     1517990,
+     {
+      "ai": "JetSMART",
+      "si": "05:35",
+      "li": "07:11",
+      "ar": "JetSMART",
+      "sr": "15:40",
+      "lr": "17:10",
+      "ei": false,
+      "er": false
+     }
     ]
    ],
    "incluye": {
@@ -14059,7 +14539,7 @@
    ],
    "desde": 1506990,
    "hasta": 1571990,
-   "n_fechas": 5,
+   "n_fechas": 10,
    "galeria": "https://galerias.trvely.com.co/be-de-la-sierra/",
    "experiencias": "https://experiencias.trvely.com.co/santa-marta/"
   },
@@ -14082,6 +14562,21 @@
       "ar": "JetSMART",
       "sr": "21:35",
       "lr": "23:05",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-09-13",
+     "2026-09-16",
+     1626990,
+     {
+      "ai": "JetSMART",
+      "si": "05:45",
+      "li": "07:24",
+      "ar": "JetSMART",
+      "sr": "20:50",
+      "lr": "22:20",
       "ei": false,
       "er": false
      }
@@ -14110,8 +14605,23 @@
       "si": "09:25",
       "li": "11:04",
       "ar": "JetSMART",
-      "sr": "10:15",
-      "lr": "11:45",
+      "sr": "22:15",
+      "lr": "23:45",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-14",
+     "2026-10-17",
+     1627990,
+     {
+      "ai": "JetSMART",
+      "si": "05:35",
+      "li": "07:14",
+      "ar": "JetSMART",
+      "sr": "21:55",
+      "lr": "23:25",
       "ei": false,
       "er": false
      }
@@ -14145,6 +14655,51 @@
       "ei": false,
       "er": false
      }
+    ],
+    [
+     "2026-10-27",
+     "2026-10-30",
+     1637990,
+     {
+      "ai": "JetSMART",
+      "si": "11:25",
+      "li": "13:04",
+      "ar": "JetSMART",
+      "sr": "13:45",
+      "lr": "15:15",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-04",
+     "2026-11-07",
+     1626990,
+     {
+      "ai": "JetSMART",
+      "si": "05:35",
+      "li": "07:11",
+      "ar": "JetSMART",
+      "sr": "15:40",
+      "lr": "17:10",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-11",
+     "2026-11-14",
+     1637990,
+     {
+      "ai": "JetSMART",
+      "si": "05:35",
+      "li": "07:11",
+      "ar": "JetSMART",
+      "sr": "15:40",
+      "lr": "17:10",
+      "ei": false,
+      "er": false
+     }
     ]
    ],
    "incluye": {
@@ -14160,9 +14715,9 @@
    "traslados": [
     "Traslado aeropuerto SMR - hotel - aeropuerto"
    ],
-   "desde": 1627990,
+   "desde": 1626990,
    "hasta": 1696990,
-   "n_fechas": 5,
+   "n_fechas": 10,
    "galeria": "https://galerias.trvely.com.co/be-de-la-sierra/",
    "experiencias": "https://experiencias.trvely.com.co/santa-marta/"
   },
@@ -14185,6 +14740,21 @@
       "ar": "JetSMART",
       "sr": "21:35",
       "lr": "23:05",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-09-13",
+     "2026-09-16",
+     1095990,
+     {
+      "ai": "JetSMART",
+      "si": "05:45",
+      "li": "07:24",
+      "ar": "JetSMART",
+      "sr": "20:50",
+      "lr": "22:20",
       "ei": false,
       "er": false
      }
@@ -14213,8 +14783,23 @@
       "si": "09:25",
       "li": "11:04",
       "ar": "JetSMART",
-      "sr": "10:15",
-      "lr": "11:45",
+      "sr": "22:15",
+      "lr": "23:45",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-14",
+     "2026-10-17",
+     1102990,
+     {
+      "ai": "JetSMART",
+      "si": "05:35",
+      "li": "07:14",
+      "ar": "JetSMART",
+      "sr": "21:55",
+      "lr": "23:25",
       "ei": false,
       "er": false
      }
@@ -14248,6 +14833,51 @@
       "ei": false,
       "er": false
      }
+    ],
+    [
+     "2026-10-27",
+     "2026-10-30",
+     1106990,
+     {
+      "ai": "JetSMART",
+      "si": "11:25",
+      "li": "13:04",
+      "ar": "JetSMART",
+      "sr": "13:45",
+      "lr": "15:15",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-04",
+     "2026-11-07",
+     1102990,
+     {
+      "ai": "JetSMART",
+      "si": "05:35",
+      "li": "07:11",
+      "ar": "JetSMART",
+      "sr": "15:40",
+      "lr": "17:10",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-11",
+     "2026-11-14",
+     1106990,
+     {
+      "ai": "JetSMART",
+      "si": "05:35",
+      "li": "07:11",
+      "ar": "JetSMART",
+      "sr": "15:40",
+      "lr": "17:10",
+      "ei": false,
+      "er": false
+     }
     ]
    ],
    "incluye": {
@@ -14265,7 +14895,7 @@
    ],
    "desde": 1095990,
    "hasta": 1160990,
-   "n_fechas": 5,
+   "n_fechas": 10,
    "galeria": "https://galerias.trvely.com.co/delfin/",
    "experiencias": "https://experiencias.trvely.com.co/santa-marta/"
   },
@@ -14288,6 +14918,21 @@
       "ar": "JetSMART",
       "sr": "21:35",
       "lr": "23:05",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-09-13",
+     "2026-09-16",
+     1054990,
+     {
+      "ai": "JetSMART",
+      "si": "05:45",
+      "li": "07:24",
+      "ar": "JetSMART",
+      "sr": "20:50",
+      "lr": "22:20",
       "ei": false,
       "er": false
      }
@@ -14316,8 +14961,23 @@
       "si": "09:25",
       "li": "11:04",
       "ar": "JetSMART",
-      "sr": "10:15",
-      "lr": "11:45",
+      "sr": "22:15",
+      "lr": "23:45",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-14",
+     "2026-10-17",
+     1061990,
+     {
+      "ai": "JetSMART",
+      "si": "05:35",
+      "li": "07:14",
+      "ar": "JetSMART",
+      "sr": "21:55",
+      "lr": "23:25",
       "ei": false,
       "er": false
      }
@@ -14351,6 +15011,51 @@
       "ei": false,
       "er": false
      }
+    ],
+    [
+     "2026-10-27",
+     "2026-10-30",
+     1065990,
+     {
+      "ai": "JetSMART",
+      "si": "11:25",
+      "li": "13:04",
+      "ar": "JetSMART",
+      "sr": "13:45",
+      "lr": "15:15",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-04",
+     "2026-11-07",
+     1061990,
+     {
+      "ai": "JetSMART",
+      "si": "05:35",
+      "li": "07:11",
+      "ar": "JetSMART",
+      "sr": "15:40",
+      "lr": "17:10",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-11",
+     "2026-11-14",
+     1065990,
+     {
+      "ai": "JetSMART",
+      "si": "05:35",
+      "li": "07:11",
+      "ar": "JetSMART",
+      "sr": "15:40",
+      "lr": "17:10",
+      "ei": false,
+      "er": false
+     }
     ]
    ],
    "incluye": {
@@ -14368,7 +15073,7 @@
    ],
    "desde": 1054990,
    "hasta": 1119990,
-   "n_fechas": 5,
+   "n_fechas": 10,
    "galeria": "https://galerias.trvely.com.co/delfin/",
    "experiencias": "https://experiencias.trvely.com.co/santa-marta/"
   },
@@ -14391,6 +15096,21 @@
       "ar": "JetSMART",
       "sr": "21:35",
       "lr": "23:05",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-09-13",
+     "2026-09-16",
+     1198990,
+     {
+      "ai": "JetSMART",
+      "si": "05:45",
+      "li": "07:24",
+      "ar": "JetSMART",
+      "sr": "20:50",
+      "lr": "22:20",
       "ei": false,
       "er": false
      }
@@ -14419,8 +15139,23 @@
       "si": "09:25",
       "li": "11:04",
       "ar": "JetSMART",
-      "sr": "10:15",
-      "lr": "11:45",
+      "sr": "22:15",
+      "lr": "23:45",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-14",
+     "2026-10-17",
+     1205990,
+     {
+      "ai": "JetSMART",
+      "si": "05:35",
+      "li": "07:14",
+      "ar": "JetSMART",
+      "sr": "21:55",
+      "lr": "23:25",
       "ei": false,
       "er": false
      }
@@ -14454,6 +15189,51 @@
       "ei": false,
       "er": false
      }
+    ],
+    [
+     "2026-10-27",
+     "2026-10-30",
+     1209990,
+     {
+      "ai": "JetSMART",
+      "si": "11:25",
+      "li": "13:04",
+      "ar": "JetSMART",
+      "sr": "13:45",
+      "lr": "15:15",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-04",
+     "2026-11-07",
+     1204990,
+     {
+      "ai": "JetSMART",
+      "si": "05:35",
+      "li": "07:11",
+      "ar": "JetSMART",
+      "sr": "15:40",
+      "lr": "17:10",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-11",
+     "2026-11-14",
+     1209990,
+     {
+      "ai": "JetSMART",
+      "si": "05:35",
+      "li": "07:11",
+      "ar": "JetSMART",
+      "sr": "15:40",
+      "lr": "17:10",
+      "ei": false,
+      "er": false
+     }
     ]
    ],
    "incluye": {
@@ -14471,7 +15251,7 @@
    ],
    "desde": 1198990,
    "hasta": 1262990,
-   "n_fechas": 5,
+   "n_fechas": 10,
    "galeria": "https://galerias.trvely.com.co/delfin/",
    "experiencias": "https://experiencias.trvely.com.co/santa-marta/"
   },
@@ -14494,6 +15274,21 @@
       "ar": "JetSMART",
       "sr": "21:35",
       "lr": "23:05",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-09-13",
+     "2026-09-16",
+     1225990,
+     {
+      "ai": "JetSMART",
+      "si": "05:45",
+      "li": "07:24",
+      "ar": "JetSMART",
+      "sr": "20:50",
+      "lr": "22:20",
       "ei": false,
       "er": false
      }
@@ -14522,8 +15317,23 @@
       "si": "09:25",
       "li": "11:04",
       "ar": "JetSMART",
-      "sr": "10:15",
-      "lr": "11:45",
+      "sr": "22:15",
+      "lr": "23:45",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-14",
+     "2026-10-17",
+     1225990,
+     {
+      "ai": "JetSMART",
+      "si": "05:35",
+      "li": "07:14",
+      "ar": "JetSMART",
+      "sr": "21:55",
+      "lr": "23:25",
       "ei": false,
       "er": false
      }
@@ -14557,6 +15367,51 @@
       "ei": false,
       "er": false
      }
+    ],
+    [
+     "2026-10-27",
+     "2026-10-30",
+     1236990,
+     {
+      "ai": "JetSMART",
+      "si": "11:25",
+      "li": "13:04",
+      "ar": "JetSMART",
+      "sr": "13:45",
+      "lr": "15:15",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-04",
+     "2026-11-07",
+     1225990,
+     {
+      "ai": "JetSMART",
+      "si": "05:35",
+      "li": "07:11",
+      "ar": "JetSMART",
+      "sr": "15:40",
+      "lr": "17:10",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-11",
+     "2026-11-14",
+     1236990,
+     {
+      "ai": "JetSMART",
+      "si": "05:35",
+      "li": "07:11",
+      "ar": "JetSMART",
+      "sr": "15:40",
+      "lr": "17:10",
+      "ei": false,
+      "er": false
+     }
     ]
    ],
    "incluye": {
@@ -14574,7 +15429,7 @@
    ],
    "desde": 1225990,
    "hasta": 1289990,
-   "n_fechas": 5,
+   "n_fechas": 10,
    "galeria": "https://galerias.trvely.com.co/medellin-rodadero/",
    "experiencias": "https://experiencias.trvely.com.co/santa-marta/"
   },
@@ -14597,6 +15452,21 @@
       "ar": "JetSMART",
       "sr": "21:35",
       "lr": "23:05",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-09-13",
+     "2026-09-16",
+     1166990,
+     {
+      "ai": "JetSMART",
+      "si": "05:45",
+      "li": "07:24",
+      "ar": "JetSMART",
+      "sr": "20:50",
+      "lr": "22:20",
       "ei": false,
       "er": false
      }
@@ -14625,8 +15495,23 @@
       "si": "09:25",
       "li": "11:04",
       "ar": "JetSMART",
-      "sr": "10:15",
-      "lr": "11:45",
+      "sr": "22:15",
+      "lr": "23:45",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-14",
+     "2026-10-17",
+     1166990,
+     {
+      "ai": "JetSMART",
+      "si": "05:35",
+      "li": "07:14",
+      "ar": "JetSMART",
+      "sr": "21:55",
+      "lr": "23:25",
       "ei": false,
       "er": false
      }
@@ -14660,6 +15545,51 @@
       "ei": false,
       "er": false
      }
+    ],
+    [
+     "2026-10-27",
+     "2026-10-30",
+     1177990,
+     {
+      "ai": "JetSMART",
+      "si": "11:25",
+      "li": "13:04",
+      "ar": "JetSMART",
+      "sr": "13:45",
+      "lr": "15:15",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-04",
+     "2026-11-07",
+     1166990,
+     {
+      "ai": "JetSMART",
+      "si": "05:35",
+      "li": "07:11",
+      "ar": "JetSMART",
+      "sr": "15:40",
+      "lr": "17:10",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-11",
+     "2026-11-14",
+     1177990,
+     {
+      "ai": "JetSMART",
+      "si": "05:35",
+      "li": "07:11",
+      "ar": "JetSMART",
+      "sr": "15:40",
+      "lr": "17:10",
+      "ei": false,
+      "er": false
+     }
     ]
    ],
    "incluye": {
@@ -14677,7 +15607,7 @@
    ],
    "desde": 1166990,
    "hasta": 1231990,
-   "n_fechas": 5,
+   "n_fechas": 10,
    "galeria": "https://galerias.trvely.com.co/medellin-rodadero/",
    "experiencias": "https://experiencias.trvely.com.co/santa-marta/"
   },
@@ -14700,6 +15630,21 @@
       "ar": "JetSMART",
       "sr": "21:35",
       "lr": "23:05",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-09-13",
+     "2026-09-16",
+     1280990,
+     {
+      "ai": "JetSMART",
+      "si": "05:45",
+      "li": "07:24",
+      "ar": "JetSMART",
+      "sr": "20:50",
+      "lr": "22:20",
       "ei": false,
       "er": false
      }
@@ -14728,8 +15673,23 @@
       "si": "09:25",
       "li": "11:04",
       "ar": "JetSMART",
-      "sr": "10:15",
-      "lr": "11:45",
+      "sr": "22:15",
+      "lr": "23:45",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-14",
+     "2026-10-17",
+     1280990,
+     {
+      "ai": "JetSMART",
+      "si": "05:35",
+      "li": "07:14",
+      "ar": "JetSMART",
+      "sr": "21:55",
+      "lr": "23:25",
       "ei": false,
       "er": false
      }
@@ -14763,6 +15723,51 @@
       "ei": false,
       "er": false
      }
+    ],
+    [
+     "2026-10-27",
+     "2026-10-30",
+     1291990,
+     {
+      "ai": "JetSMART",
+      "si": "11:25",
+      "li": "13:04",
+      "ar": "JetSMART",
+      "sr": "13:45",
+      "lr": "15:15",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-04",
+     "2026-11-07",
+     1280990,
+     {
+      "ai": "JetSMART",
+      "si": "05:35",
+      "li": "07:11",
+      "ar": "JetSMART",
+      "sr": "15:40",
+      "lr": "17:10",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-11",
+     "2026-11-14",
+     1291990,
+     {
+      "ai": "JetSMART",
+      "si": "05:35",
+      "li": "07:11",
+      "ar": "JetSMART",
+      "sr": "15:40",
+      "lr": "17:10",
+      "ei": false,
+      "er": false
+     }
     ]
    ],
    "incluye": {
@@ -14780,7 +15785,7 @@
    ],
    "desde": 1280990,
    "hasta": 1345990,
-   "n_fechas": 5,
+   "n_fechas": 10,
    "galeria": "https://galerias.trvely.com.co/medellin-rodadero/",
    "experiencias": "https://experiencias.trvely.com.co/santa-marta/"
   },
@@ -14803,6 +15808,21 @@
       "ar": "JetSMART",
       "sr": "21:35",
       "lr": "23:05",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-09-13",
+     "2026-09-16",
+     1121990,
+     {
+      "ai": "JetSMART",
+      "si": "05:45",
+      "li": "07:24",
+      "ar": "JetSMART",
+      "sr": "20:50",
+      "lr": "22:20",
       "ei": false,
       "er": false
      }
@@ -14831,8 +15851,23 @@
       "si": "09:25",
       "li": "11:04",
       "ar": "JetSMART",
-      "sr": "10:15",
-      "lr": "11:45",
+      "sr": "22:15",
+      "lr": "23:45",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-14",
+     "2026-10-17",
+     1121990,
+     {
+      "ai": "JetSMART",
+      "si": "05:35",
+      "li": "07:14",
+      "ar": "JetSMART",
+      "sr": "21:55",
+      "lr": "23:25",
       "ei": false,
       "er": false
      }
@@ -14866,6 +15901,51 @@
       "ei": false,
       "er": false
      }
+    ],
+    [
+     "2026-10-27",
+     "2026-10-30",
+     1132990,
+     {
+      "ai": "JetSMART",
+      "si": "11:25",
+      "li": "13:04",
+      "ar": "JetSMART",
+      "sr": "13:45",
+      "lr": "15:15",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-04",
+     "2026-11-07",
+     1121990,
+     {
+      "ai": "JetSMART",
+      "si": "05:35",
+      "li": "07:11",
+      "ar": "JetSMART",
+      "sr": "15:40",
+      "lr": "17:10",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-11",
+     "2026-11-14",
+     1132990,
+     {
+      "ai": "JetSMART",
+      "si": "05:35",
+      "li": "07:11",
+      "ar": "JetSMART",
+      "sr": "15:40",
+      "lr": "17:10",
+      "ei": false,
+      "er": false
+     }
     ]
    ],
    "incluye": {
@@ -14883,7 +15963,7 @@
    ],
    "desde": 1121990,
    "hasta": 1186990,
-   "n_fechas": 5,
+   "n_fechas": 10,
    "galeria": "https://galerias.trvely.com.co/medellin-rodadero/",
    "experiencias": "https://experiencias.trvely.com.co/santa-marta/"
   },
@@ -14906,6 +15986,21 @@
       "ar": "JetSMART",
       "sr": "21:35",
       "lr": "23:05",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-09-13",
+     "2026-09-16",
+     1063990,
+     {
+      "ai": "JetSMART",
+      "si": "05:45",
+      "li": "07:24",
+      "ar": "JetSMART",
+      "sr": "20:50",
+      "lr": "22:20",
       "ei": false,
       "er": false
      }
@@ -14934,8 +16029,23 @@
       "si": "09:25",
       "li": "11:04",
       "ar": "JetSMART",
-      "sr": "10:15",
-      "lr": "11:45",
+      "sr": "22:15",
+      "lr": "23:45",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-14",
+     "2026-10-17",
+     1063990,
+     {
+      "ai": "JetSMART",
+      "si": "05:35",
+      "li": "07:14",
+      "ar": "JetSMART",
+      "sr": "21:55",
+      "lr": "23:25",
       "ei": false,
       "er": false
      }
@@ -14969,6 +16079,51 @@
       "ei": false,
       "er": false
      }
+    ],
+    [
+     "2026-10-27",
+     "2026-10-30",
+     1074990,
+     {
+      "ai": "JetSMART",
+      "si": "11:25",
+      "li": "13:04",
+      "ar": "JetSMART",
+      "sr": "13:45",
+      "lr": "15:15",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-04",
+     "2026-11-07",
+     1062990,
+     {
+      "ai": "JetSMART",
+      "si": "05:35",
+      "li": "07:11",
+      "ar": "JetSMART",
+      "sr": "15:40",
+      "lr": "17:10",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-11",
+     "2026-11-14",
+     1074990,
+     {
+      "ai": "JetSMART",
+      "si": "05:35",
+      "li": "07:11",
+      "ar": "JetSMART",
+      "sr": "15:40",
+      "lr": "17:10",
+      "ei": false,
+      "er": false
+     }
     ]
    ],
    "incluye": {
@@ -14984,9 +16139,9 @@
    "traslados": [
     "Traslado aeropuerto SMR - hotel - aeropuerto"
    ],
-   "desde": 1063990,
+   "desde": 1062990,
    "hasta": 1127990,
-   "n_fechas": 5,
+   "n_fechas": 10,
    "galeria": "https://galerias.trvely.com.co/medellin-rodadero/",
    "experiencias": "https://experiencias.trvely.com.co/santa-marta/"
   },
@@ -15009,6 +16164,21 @@
       "ar": "JetSMART",
       "sr": "21:35",
       "lr": "23:05",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-09-13",
+     "2026-09-16",
+     1176990,
+     {
+      "ai": "JetSMART",
+      "si": "05:45",
+      "li": "07:24",
+      "ar": "JetSMART",
+      "sr": "20:50",
+      "lr": "22:20",
       "ei": false,
       "er": false
      }
@@ -15037,8 +16207,23 @@
       "si": "09:25",
       "li": "11:04",
       "ar": "JetSMART",
-      "sr": "10:15",
-      "lr": "11:45",
+      "sr": "22:15",
+      "lr": "23:45",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-14",
+     "2026-10-17",
+     1177990,
+     {
+      "ai": "JetSMART",
+      "si": "05:35",
+      "li": "07:14",
+      "ar": "JetSMART",
+      "sr": "21:55",
+      "lr": "23:25",
       "ei": false,
       "er": false
      }
@@ -15072,6 +16257,51 @@
       "ei": false,
       "er": false
      }
+    ],
+    [
+     "2026-10-27",
+     "2026-10-30",
+     1187990,
+     {
+      "ai": "JetSMART",
+      "si": "11:25",
+      "li": "13:04",
+      "ar": "JetSMART",
+      "sr": "13:45",
+      "lr": "15:15",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-04",
+     "2026-11-07",
+     1176990,
+     {
+      "ai": "JetSMART",
+      "si": "05:35",
+      "li": "07:11",
+      "ar": "JetSMART",
+      "sr": "15:40",
+      "lr": "17:10",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-11",
+     "2026-11-14",
+     1187990,
+     {
+      "ai": "JetSMART",
+      "si": "05:35",
+      "li": "07:11",
+      "ar": "JetSMART",
+      "sr": "15:40",
+      "lr": "17:10",
+      "ei": false,
+      "er": false
+     }
     ]
    ],
    "incluye": {
@@ -15087,9 +16317,9 @@
    "traslados": [
     "Traslado aeropuerto SMR - hotel - aeropuerto"
    ],
-   "desde": 1177990,
+   "desde": 1176990,
    "hasta": 1241990,
-   "n_fechas": 5,
+   "n_fechas": 10,
    "galeria": "https://galerias.trvely.com.co/medellin-rodadero/",
    "experiencias": "https://experiencias.trvely.com.co/santa-marta/"
   },
@@ -15112,6 +16342,21 @@
       "ar": "JetSMART",
       "sr": "21:35",
       "lr": "23:05",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-09-13",
+     "2026-09-16",
+     972990,
+     {
+      "ai": "JetSMART",
+      "si": "05:45",
+      "li": "07:24",
+      "ar": "JetSMART",
+      "sr": "20:50",
+      "lr": "22:20",
       "ei": false,
       "er": false
      }
@@ -15140,8 +16385,23 @@
       "si": "09:25",
       "li": "11:04",
       "ar": "JetSMART",
-      "sr": "10:15",
-      "lr": "11:45",
+      "sr": "22:15",
+      "lr": "23:45",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-14",
+     "2026-10-17",
+     972990,
+     {
+      "ai": "JetSMART",
+      "si": "05:35",
+      "li": "07:14",
+      "ar": "JetSMART",
+      "sr": "21:55",
+      "lr": "23:25",
       "ei": false,
       "er": false
      }
@@ -15175,6 +16435,51 @@
       "ei": false,
       "er": false
      }
+    ],
+    [
+     "2026-10-27",
+     "2026-10-30",
+     983990,
+     {
+      "ai": "JetSMART",
+      "si": "11:25",
+      "li": "13:04",
+      "ar": "JetSMART",
+      "sr": "13:45",
+      "lr": "15:15",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-04",
+     "2026-11-07",
+     972990,
+     {
+      "ai": "JetSMART",
+      "si": "05:35",
+      "li": "07:11",
+      "ar": "JetSMART",
+      "sr": "15:40",
+      "lr": "17:10",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-11",
+     "2026-11-14",
+     983990,
+     {
+      "ai": "JetSMART",
+      "si": "05:35",
+      "li": "07:11",
+      "ar": "JetSMART",
+      "sr": "15:40",
+      "lr": "17:10",
+      "ei": false,
+      "er": false
+     }
     ]
    ],
    "incluye": {
@@ -15192,7 +16497,7 @@
    ],
    "desde": 972990,
    "hasta": 1037990,
-   "n_fechas": 5,
+   "n_fechas": 10,
    "galeria": "https://galerias.trvely.com.co/los-veleros/",
    "experiencias": "https://experiencias.trvely.com.co/santa-marta/"
   },
@@ -15215,6 +16520,21 @@
       "ar": "JetSMART",
       "sr": "21:35",
       "lr": "23:05",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-09-13",
+     "2026-09-16",
+     931990,
+     {
+      "ai": "JetSMART",
+      "si": "05:45",
+      "li": "07:24",
+      "ar": "JetSMART",
+      "sr": "20:50",
+      "lr": "22:20",
       "ei": false,
       "er": false
      }
@@ -15243,8 +16563,23 @@
       "si": "09:25",
       "li": "11:04",
       "ar": "JetSMART",
-      "sr": "10:15",
-      "lr": "11:45",
+      "sr": "22:15",
+      "lr": "23:45",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-14",
+     "2026-10-17",
+     931990,
+     {
+      "ai": "JetSMART",
+      "si": "05:35",
+      "li": "07:14",
+      "ar": "JetSMART",
+      "sr": "21:55",
+      "lr": "23:25",
       "ei": false,
       "er": false
      }
@@ -15278,6 +16613,51 @@
       "ei": false,
       "er": false
      }
+    ],
+    [
+     "2026-10-27",
+     "2026-10-30",
+     942990,
+     {
+      "ai": "JetSMART",
+      "si": "11:25",
+      "li": "13:04",
+      "ar": "JetSMART",
+      "sr": "13:45",
+      "lr": "15:15",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-04",
+     "2026-11-07",
+     931990,
+     {
+      "ai": "JetSMART",
+      "si": "05:35",
+      "li": "07:11",
+      "ar": "JetSMART",
+      "sr": "15:40",
+      "lr": "17:10",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-11",
+     "2026-11-14",
+     942990,
+     {
+      "ai": "JetSMART",
+      "si": "05:35",
+      "li": "07:11",
+      "ar": "JetSMART",
+      "sr": "15:40",
+      "lr": "17:10",
+      "ei": false,
+      "er": false
+     }
     ]
    ],
    "incluye": {
@@ -15295,7 +16675,7 @@
    ],
    "desde": 931990,
    "hasta": 996990,
-   "n_fechas": 5,
+   "n_fechas": 10,
    "galeria": "https://galerias.trvely.com.co/los-veleros/",
    "experiencias": "https://experiencias.trvely.com.co/santa-marta/"
   },
@@ -15318,6 +16698,21 @@
       "ar": "JetSMART",
       "sr": "21:35",
       "lr": "23:05",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-09-13",
+     "2026-09-16",
+     1034990,
+     {
+      "ai": "JetSMART",
+      "si": "05:45",
+      "li": "07:24",
+      "ar": "JetSMART",
+      "sr": "20:50",
+      "lr": "22:20",
       "ei": false,
       "er": false
      }
@@ -15346,8 +16741,23 @@
       "si": "09:25",
       "li": "11:04",
       "ar": "JetSMART",
-      "sr": "10:15",
-      "lr": "11:45",
+      "sr": "22:15",
+      "lr": "23:45",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-14",
+     "2026-10-17",
+     1034990,
+     {
+      "ai": "JetSMART",
+      "si": "05:35",
+      "li": "07:14",
+      "ar": "JetSMART",
+      "sr": "21:55",
+      "lr": "23:25",
       "ei": false,
       "er": false
      }
@@ -15381,6 +16791,51 @@
       "ei": false,
       "er": false
      }
+    ],
+    [
+     "2026-10-27",
+     "2026-10-30",
+     1044990,
+     {
+      "ai": "JetSMART",
+      "si": "11:25",
+      "li": "13:04",
+      "ar": "JetSMART",
+      "sr": "13:45",
+      "lr": "15:15",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-04",
+     "2026-11-07",
+     1033990,
+     {
+      "ai": "JetSMART",
+      "si": "05:35",
+      "li": "07:11",
+      "ar": "JetSMART",
+      "sr": "15:40",
+      "lr": "17:10",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-11",
+     "2026-11-14",
+     1044990,
+     {
+      "ai": "JetSMART",
+      "si": "05:35",
+      "li": "07:11",
+      "ar": "JetSMART",
+      "sr": "15:40",
+      "lr": "17:10",
+      "ei": false,
+      "er": false
+     }
     ]
    ],
    "incluye": {
@@ -15396,9 +16851,9 @@
    "traslados": [
     "Traslado aeropuerto SMR - hotel - aeropuerto"
    ],
-   "desde": 1034990,
+   "desde": 1033990,
    "hasta": 1098990,
-   "n_fechas": 5,
+   "n_fechas": 10,
    "galeria": "https://galerias.trvely.com.co/los-veleros/",
    "experiencias": "https://experiencias.trvely.com.co/santa-marta/"
   },
@@ -15421,6 +16876,21 @@
       "ar": "JetSMART",
       "sr": "21:35",
       "lr": "23:05",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-09-13",
+     "2026-09-16",
+     1016990,
+     {
+      "ai": "JetSMART",
+      "si": "05:45",
+      "li": "07:24",
+      "ar": "JetSMART",
+      "sr": "20:50",
+      "lr": "22:20",
       "ei": false,
       "er": false
      }
@@ -15449,8 +16919,23 @@
       "si": "09:25",
       "li": "11:04",
       "ar": "JetSMART",
-      "sr": "10:15",
-      "lr": "11:45",
+      "sr": "22:15",
+      "lr": "23:45",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-14",
+     "2026-10-17",
+     1016990,
+     {
+      "ai": "JetSMART",
+      "si": "05:35",
+      "li": "07:14",
+      "ar": "JetSMART",
+      "sr": "21:55",
+      "lr": "23:25",
       "ei": false,
       "er": false
      }
@@ -15484,6 +16969,51 @@
       "ei": false,
       "er": false
      }
+    ],
+    [
+     "2026-10-27",
+     "2026-10-30",
+     1027990,
+     {
+      "ai": "JetSMART",
+      "si": "11:25",
+      "li": "13:04",
+      "ar": "JetSMART",
+      "sr": "13:45",
+      "lr": "15:15",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-04",
+     "2026-11-07",
+     1016990,
+     {
+      "ai": "JetSMART",
+      "si": "05:35",
+      "li": "07:11",
+      "ar": "JetSMART",
+      "sr": "15:40",
+      "lr": "17:10",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-11",
+     "2026-11-14",
+     1027990,
+     {
+      "ai": "JetSMART",
+      "si": "05:35",
+      "li": "07:11",
+      "ar": "JetSMART",
+      "sr": "15:40",
+      "lr": "17:10",
+      "ei": false,
+      "er": false
+     }
     ]
    ],
    "incluye": {
@@ -15501,7 +17031,7 @@
    ],
    "desde": 1016990,
    "hasta": 1081990,
-   "n_fechas": 5,
+   "n_fechas": 10,
    "galeria": "https://galerias.trvely.com.co/portobahia/",
    "experiencias": "https://experiencias.trvely.com.co/santa-marta/"
   },
@@ -15524,6 +17054,21 @@
       "ar": "JetSMART",
       "sr": "21:35",
       "lr": "23:05",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-09-13",
+     "2026-09-16",
+     1095990,
+     {
+      "ai": "JetSMART",
+      "si": "05:45",
+      "li": "07:24",
+      "ar": "JetSMART",
+      "sr": "20:50",
+      "lr": "22:20",
       "ei": false,
       "er": false
      }
@@ -15552,8 +17097,23 @@
       "si": "09:25",
       "li": "11:04",
       "ar": "JetSMART",
-      "sr": "10:15",
-      "lr": "11:45",
+      "sr": "22:15",
+      "lr": "23:45",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-14",
+     "2026-10-17",
+     1095990,
+     {
+      "ai": "JetSMART",
+      "si": "05:35",
+      "li": "07:14",
+      "ar": "JetSMART",
+      "sr": "21:55",
+      "lr": "23:25",
       "ei": false,
       "er": false
      }
@@ -15587,6 +17147,51 @@
       "ei": false,
       "er": false
      }
+    ],
+    [
+     "2026-10-27",
+     "2026-10-30",
+     1106990,
+     {
+      "ai": "JetSMART",
+      "si": "11:25",
+      "li": "13:04",
+      "ar": "JetSMART",
+      "sr": "13:45",
+      "lr": "15:15",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-04",
+     "2026-11-07",
+     1095990,
+     {
+      "ai": "JetSMART",
+      "si": "05:35",
+      "li": "07:11",
+      "ar": "JetSMART",
+      "sr": "15:40",
+      "lr": "17:10",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-11",
+     "2026-11-14",
+     1106990,
+     {
+      "ai": "JetSMART",
+      "si": "05:35",
+      "li": "07:11",
+      "ar": "JetSMART",
+      "sr": "15:40",
+      "lr": "17:10",
+      "ei": false,
+      "er": false
+     }
     ]
    ],
    "incluye": {
@@ -15604,7 +17209,7 @@
    ],
    "desde": 1095990,
    "hasta": 1160990,
-   "n_fechas": 5,
+   "n_fechas": 10,
    "galeria": "https://galerias.trvely.com.co/portobahia/",
    "experiencias": "https://experiencias.trvely.com.co/santa-marta/"
   },
@@ -15627,6 +17232,21 @@
       "ar": "JetSMART",
       "sr": "21:35",
       "lr": "23:05",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-09-13",
+     "2026-09-16",
+     1118990,
+     {
+      "ai": "JetSMART",
+      "si": "05:45",
+      "li": "07:24",
+      "ar": "JetSMART",
+      "sr": "20:50",
+      "lr": "22:20",
       "ei": false,
       "er": false
      }
@@ -15655,8 +17275,23 @@
       "si": "09:25",
       "li": "11:04",
       "ar": "JetSMART",
-      "sr": "10:15",
-      "lr": "11:45",
+      "sr": "22:15",
+      "lr": "23:45",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-14",
+     "2026-10-17",
+     1118990,
+     {
+      "ai": "JetSMART",
+      "si": "05:35",
+      "li": "07:14",
+      "ar": "JetSMART",
+      "sr": "21:55",
+      "lr": "23:25",
       "ei": false,
       "er": false
      }
@@ -15690,6 +17325,51 @@
       "ei": false,
       "er": false
      }
+    ],
+    [
+     "2026-10-27",
+     "2026-10-30",
+     1129990,
+     {
+      "ai": "JetSMART",
+      "si": "11:25",
+      "li": "13:04",
+      "ar": "JetSMART",
+      "sr": "13:45",
+      "lr": "15:15",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-04",
+     "2026-11-07",
+     1118990,
+     {
+      "ai": "JetSMART",
+      "si": "05:35",
+      "li": "07:11",
+      "ar": "JetSMART",
+      "sr": "15:40",
+      "lr": "17:10",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-11",
+     "2026-11-14",
+     1129990,
+     {
+      "ai": "JetSMART",
+      "si": "05:35",
+      "li": "07:11",
+      "ar": "JetSMART",
+      "sr": "15:40",
+      "lr": "17:10",
+      "ei": false,
+      "er": false
+     }
     ]
    ],
    "incluye": {
@@ -15707,7 +17387,7 @@
    ],
    "desde": 1118990,
    "hasta": 1183990,
-   "n_fechas": 5,
+   "n_fechas": 10,
    "galeria": "https://galerias.trvely.com.co/sanha-plus/",
    "experiencias": "https://experiencias.trvely.com.co/santa-marta/"
   },
@@ -15730,6 +17410,21 @@
       "ar": "JetSMART",
       "sr": "21:35",
       "lr": "23:05",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-09-13",
+     "2026-09-16",
+     1376990,
+     {
+      "ai": "JetSMART",
+      "si": "05:45",
+      "li": "07:24",
+      "ar": "JetSMART",
+      "sr": "20:50",
+      "lr": "22:20",
       "ei": false,
       "er": false
      }
@@ -15758,8 +17453,23 @@
       "si": "09:25",
       "li": "11:04",
       "ar": "JetSMART",
-      "sr": "10:15",
-      "lr": "11:45",
+      "sr": "22:15",
+      "lr": "23:45",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-14",
+     "2026-10-17",
+     1377990,
+     {
+      "ai": "JetSMART",
+      "si": "05:35",
+      "li": "07:14",
+      "ar": "JetSMART",
+      "sr": "21:55",
+      "lr": "23:25",
       "ei": false,
       "er": false
      }
@@ -15793,6 +17503,51 @@
       "ei": false,
       "er": false
      }
+    ],
+    [
+     "2026-10-27",
+     "2026-10-30",
+     1387990,
+     {
+      "ai": "JetSMART",
+      "si": "11:25",
+      "li": "13:04",
+      "ar": "JetSMART",
+      "sr": "13:45",
+      "lr": "15:15",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-04",
+     "2026-11-07",
+     1376990,
+     {
+      "ai": "JetSMART",
+      "si": "05:35",
+      "li": "07:11",
+      "ar": "JetSMART",
+      "sr": "15:40",
+      "lr": "17:10",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-11",
+     "2026-11-14",
+     1387990,
+     {
+      "ai": "JetSMART",
+      "si": "05:35",
+      "li": "07:11",
+      "ar": "JetSMART",
+      "sr": "15:40",
+      "lr": "17:10",
+      "ei": false,
+      "er": false
+     }
     ]
    ],
    "incluye": {
@@ -15808,9 +17563,9 @@
    "traslados": [
     "Traslado aeropuerto SMR - hotel - aeropuerto"
    ],
-   "desde": 1377990,
+   "desde": 1376990,
    "hasta": 1441990,
-   "n_fechas": 5,
+   "n_fechas": 10,
    "galeria": "https://galerias.trvely.com.co/sanha-plus/",
    "experiencias": "https://experiencias.trvely.com.co/santa-marta/"
   },
@@ -15833,6 +17588,21 @@
       "ar": "JetSMART",
       "sr": "21:35",
       "lr": "23:05",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-09-13",
+     "2026-09-16",
+     1035990,
+     {
+      "ai": "JetSMART",
+      "si": "05:45",
+      "li": "07:24",
+      "ar": "JetSMART",
+      "sr": "20:50",
+      "lr": "22:20",
       "ei": false,
       "er": false
      }
@@ -15861,8 +17631,23 @@
       "si": "09:25",
       "li": "11:04",
       "ar": "JetSMART",
-      "sr": "10:15",
-      "lr": "11:45",
+      "sr": "22:15",
+      "lr": "23:45",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-14",
+     "2026-10-17",
+     1035990,
+     {
+      "ai": "JetSMART",
+      "si": "05:35",
+      "li": "07:14",
+      "ar": "JetSMART",
+      "sr": "21:55",
+      "lr": "23:25",
       "ei": false,
       "er": false
      }
@@ -15896,6 +17681,51 @@
       "ei": false,
       "er": false
      }
+    ],
+    [
+     "2026-10-27",
+     "2026-10-30",
+     1046990,
+     {
+      "ai": "JetSMART",
+      "si": "11:25",
+      "li": "13:04",
+      "ar": "JetSMART",
+      "sr": "13:45",
+      "lr": "15:15",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-04",
+     "2026-11-07",
+     1035990,
+     {
+      "ai": "JetSMART",
+      "si": "05:35",
+      "li": "07:11",
+      "ar": "JetSMART",
+      "sr": "15:40",
+      "lr": "17:10",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-11",
+     "2026-11-14",
+     1046990,
+     {
+      "ai": "JetSMART",
+      "si": "05:35",
+      "li": "07:11",
+      "ar": "JetSMART",
+      "sr": "15:40",
+      "lr": "17:10",
+      "ei": false,
+      "er": false
+     }
     ]
    ],
    "incluye": {
@@ -15913,7 +17743,7 @@
    ],
    "desde": 1035990,
    "hasta": 1100990,
-   "n_fechas": 5,
+   "n_fechas": 10,
    "galeria": "https://galerias.trvely.com.co/sansiraka/",
    "experiencias": "https://experiencias.trvely.com.co/santa-marta/"
   },
@@ -15936,6 +17766,21 @@
       "ar": "JetSMART",
       "sr": "21:35",
       "lr": "23:05",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-09-13",
+     "2026-09-16",
+     916990,
+     {
+      "ai": "JetSMART",
+      "si": "05:45",
+      "li": "07:24",
+      "ar": "JetSMART",
+      "sr": "20:50",
+      "lr": "22:20",
       "ei": false,
       "er": false
      }
@@ -15964,8 +17809,23 @@
       "si": "09:25",
       "li": "11:04",
       "ar": "JetSMART",
-      "sr": "10:15",
-      "lr": "11:45",
+      "sr": "22:15",
+      "lr": "23:45",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-14",
+     "2026-10-17",
+     916990,
+     {
+      "ai": "JetSMART",
+      "si": "05:35",
+      "li": "07:14",
+      "ar": "JetSMART",
+      "sr": "21:55",
+      "lr": "23:25",
       "ei": false,
       "er": false
      }
@@ -15999,6 +17859,51 @@
       "ei": false,
       "er": false
      }
+    ],
+    [
+     "2026-10-27",
+     "2026-10-30",
+     927990,
+     {
+      "ai": "JetSMART",
+      "si": "11:25",
+      "li": "13:04",
+      "ar": "JetSMART",
+      "sr": "13:45",
+      "lr": "15:15",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-04",
+     "2026-11-07",
+     916990,
+     {
+      "ai": "JetSMART",
+      "si": "05:35",
+      "li": "07:11",
+      "ar": "JetSMART",
+      "sr": "15:40",
+      "lr": "17:10",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-11",
+     "2026-11-14",
+     927990,
+     {
+      "ai": "JetSMART",
+      "si": "05:35",
+      "li": "07:11",
+      "ar": "JetSMART",
+      "sr": "15:40",
+      "lr": "17:10",
+      "ei": false,
+      "er": false
+     }
     ]
    ],
    "incluye": {
@@ -16016,7 +17921,7 @@
    ],
    "desde": 916990,
    "hasta": 981990,
-   "n_fechas": 5,
+   "n_fechas": 10,
    "galeria": "https://galerias.trvely.com.co/sansiraka/",
    "experiencias": "https://experiencias.trvely.com.co/santa-marta/"
   },
@@ -16039,6 +17944,21 @@
       "ar": "JetSMART",
       "sr": "21:35",
       "lr": "23:05",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-09-13",
+     "2026-09-16",
+     1156990,
+     {
+      "ai": "JetSMART",
+      "si": "05:45",
+      "li": "07:24",
+      "ar": "JetSMART",
+      "sr": "20:50",
+      "lr": "22:20",
       "ei": false,
       "er": false
      }
@@ -16067,8 +17987,23 @@
       "si": "09:25",
       "li": "11:04",
       "ar": "JetSMART",
-      "sr": "10:15",
-      "lr": "11:45",
+      "sr": "22:15",
+      "lr": "23:45",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-14",
+     "2026-10-17",
+     1156990,
+     {
+      "ai": "JetSMART",
+      "si": "05:35",
+      "li": "07:14",
+      "ar": "JetSMART",
+      "sr": "21:55",
+      "lr": "23:25",
       "ei": false,
       "er": false
      }
@@ -16102,6 +18037,51 @@
       "ei": false,
       "er": false
      }
+    ],
+    [
+     "2026-10-27",
+     "2026-10-30",
+     1167990,
+     {
+      "ai": "JetSMART",
+      "si": "11:25",
+      "li": "13:04",
+      "ar": "JetSMART",
+      "sr": "13:45",
+      "lr": "15:15",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-04",
+     "2026-11-07",
+     1156990,
+     {
+      "ai": "JetSMART",
+      "si": "05:35",
+      "li": "07:11",
+      "ar": "JetSMART",
+      "sr": "15:40",
+      "lr": "17:10",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-11",
+     "2026-11-14",
+     1167990,
+     {
+      "ai": "JetSMART",
+      "si": "05:35",
+      "li": "07:11",
+      "ar": "JetSMART",
+      "sr": "15:40",
+      "lr": "17:10",
+      "ei": false,
+      "er": false
+     }
     ]
    ],
    "incluye": {
@@ -16119,7 +18099,7 @@
    ],
    "desde": 1156990,
    "hasta": 1221990,
-   "n_fechas": 5,
+   "n_fechas": 10,
    "galeria": "https://galerias.trvely.com.co/sansiraka/",
    "experiencias": "https://experiencias.trvely.com.co/santa-marta/"
   },
@@ -16147,6 +18127,21 @@
      }
     ],
     [
+     "2026-09-13",
+     "2026-09-16",
+     972990,
+     {
+      "ai": "JetSMART",
+      "si": "05:45",
+      "li": "07:24",
+      "ar": "JetSMART",
+      "sr": "20:50",
+      "lr": "22:20",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
      "2026-09-20",
      "2026-09-23",
      1037990,
@@ -16170,8 +18165,23 @@
       "si": "09:25",
       "li": "11:04",
       "ar": "JetSMART",
-      "sr": "10:15",
-      "lr": "11:45",
+      "sr": "22:15",
+      "lr": "23:45",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-14",
+     "2026-10-17",
+     972990,
+     {
+      "ai": "JetSMART",
+      "si": "05:35",
+      "li": "07:14",
+      "ar": "JetSMART",
+      "sr": "21:55",
+      "lr": "23:25",
       "ei": false,
       "er": false
      }
@@ -16205,6 +18215,51 @@
       "ei": false,
       "er": false
      }
+    ],
+    [
+     "2026-10-27",
+     "2026-10-30",
+     983990,
+     {
+      "ai": "JetSMART",
+      "si": "11:25",
+      "li": "13:04",
+      "ar": "JetSMART",
+      "sr": "13:45",
+      "lr": "15:15",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-04",
+     "2026-11-07",
+     972990,
+     {
+      "ai": "JetSMART",
+      "si": "05:35",
+      "li": "07:11",
+      "ar": "JetSMART",
+      "sr": "15:40",
+      "lr": "17:10",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-11",
+     "2026-11-14",
+     983990,
+     {
+      "ai": "JetSMART",
+      "si": "05:35",
+      "li": "07:11",
+      "ar": "JetSMART",
+      "sr": "15:40",
+      "lr": "17:10",
+      "ei": false,
+      "er": false
+     }
     ]
    ],
    "incluye": {
@@ -16222,7 +18277,7 @@
    ],
    "desde": 972990,
    "hasta": 1037990,
-   "n_fechas": 5,
+   "n_fechas": 10,
    "galeria": "https://galerias.trvely.com.co/taybo-beach/",
    "experiencias": "https://experiencias.trvely.com.co/santa-marta/"
   },
@@ -16250,6 +18305,21 @@
      }
     ],
     [
+     "2026-09-13",
+     "2026-09-16",
+     931990,
+     {
+      "ai": "JetSMART",
+      "si": "05:45",
+      "li": "07:24",
+      "ar": "JetSMART",
+      "sr": "20:50",
+      "lr": "22:20",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
      "2026-09-20",
      "2026-09-23",
      996990,
@@ -16273,8 +18343,23 @@
       "si": "09:25",
       "li": "11:04",
       "ar": "JetSMART",
-      "sr": "10:15",
-      "lr": "11:45",
+      "sr": "22:15",
+      "lr": "23:45",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-14",
+     "2026-10-17",
+     931990,
+     {
+      "ai": "JetSMART",
+      "si": "05:35",
+      "li": "07:14",
+      "ar": "JetSMART",
+      "sr": "21:55",
+      "lr": "23:25",
       "ei": false,
       "er": false
      }
@@ -16308,6 +18393,51 @@
       "ei": false,
       "er": false
      }
+    ],
+    [
+     "2026-10-27",
+     "2026-10-30",
+     942990,
+     {
+      "ai": "JetSMART",
+      "si": "11:25",
+      "li": "13:04",
+      "ar": "JetSMART",
+      "sr": "13:45",
+      "lr": "15:15",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-04",
+     "2026-11-07",
+     931990,
+     {
+      "ai": "JetSMART",
+      "si": "05:35",
+      "li": "07:11",
+      "ar": "JetSMART",
+      "sr": "15:40",
+      "lr": "17:10",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-11",
+     "2026-11-14",
+     942990,
+     {
+      "ai": "JetSMART",
+      "si": "05:35",
+      "li": "07:11",
+      "ar": "JetSMART",
+      "sr": "15:40",
+      "lr": "17:10",
+      "ei": false,
+      "er": false
+     }
     ]
    ],
    "incluye": {
@@ -16325,7 +18455,7 @@
    ],
    "desde": 931990,
    "hasta": 996990,
-   "n_fechas": 5,
+   "n_fechas": 10,
    "galeria": "https://galerias.trvely.com.co/taybo-beach/",
    "experiencias": "https://experiencias.trvely.com.co/santa-marta/"
   },
@@ -16348,6 +18478,21 @@
       "ar": "JetSMART",
       "sr": "21:35",
       "lr": "23:05",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-09-13",
+     "2026-09-16",
+     972990,
+     {
+      "ai": "JetSMART",
+      "si": "05:45",
+      "li": "07:24",
+      "ar": "JetSMART",
+      "sr": "20:50",
+      "lr": "22:20",
       "ei": false,
       "er": false
      }
@@ -16376,8 +18521,23 @@
       "si": "09:25",
       "li": "11:04",
       "ar": "JetSMART",
-      "sr": "10:15",
-      "lr": "11:45",
+      "sr": "22:15",
+      "lr": "23:45",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-14",
+     "2026-10-17",
+     972990,
+     {
+      "ai": "JetSMART",
+      "si": "05:35",
+      "li": "07:14",
+      "ar": "JetSMART",
+      "sr": "21:55",
+      "lr": "23:25",
       "ei": false,
       "er": false
      }
@@ -16411,6 +18571,51 @@
       "ei": false,
       "er": false
      }
+    ],
+    [
+     "2026-10-27",
+     "2026-10-30",
+     983990,
+     {
+      "ai": "JetSMART",
+      "si": "11:25",
+      "li": "13:04",
+      "ar": "JetSMART",
+      "sr": "13:45",
+      "lr": "15:15",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-04",
+     "2026-11-07",
+     972990,
+     {
+      "ai": "JetSMART",
+      "si": "05:35",
+      "li": "07:11",
+      "ar": "JetSMART",
+      "sr": "15:40",
+      "lr": "17:10",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-11",
+     "2026-11-14",
+     983990,
+     {
+      "ai": "JetSMART",
+      "si": "05:35",
+      "li": "07:11",
+      "ar": "JetSMART",
+      "sr": "15:40",
+      "lr": "17:10",
+      "ei": false,
+      "er": false
+     }
     ]
    ],
    "incluye": {
@@ -16428,7 +18633,7 @@
    ],
    "desde": 972990,
    "hasta": 1037990,
-   "n_fechas": 5,
+   "n_fechas": 10,
    "galeria": "https://galerias.trvely.com.co/taybo-kai/",
    "experiencias": "https://experiencias.trvely.com.co/santa-marta/"
   },
@@ -16451,6 +18656,21 @@
       "ar": "JetSMART",
       "sr": "21:35",
       "lr": "23:05",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-09-13",
+     "2026-09-16",
+     931990,
+     {
+      "ai": "JetSMART",
+      "si": "05:45",
+      "li": "07:24",
+      "ar": "JetSMART",
+      "sr": "20:50",
+      "lr": "22:20",
       "ei": false,
       "er": false
      }
@@ -16479,8 +18699,23 @@
       "si": "09:25",
       "li": "11:04",
       "ar": "JetSMART",
-      "sr": "10:15",
-      "lr": "11:45",
+      "sr": "22:15",
+      "lr": "23:45",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-14",
+     "2026-10-17",
+     931990,
+     {
+      "ai": "JetSMART",
+      "si": "05:35",
+      "li": "07:14",
+      "ar": "JetSMART",
+      "sr": "21:55",
+      "lr": "23:25",
       "ei": false,
       "er": false
      }
@@ -16514,6 +18749,51 @@
       "ei": false,
       "er": false
      }
+    ],
+    [
+     "2026-10-27",
+     "2026-10-30",
+     942990,
+     {
+      "ai": "JetSMART",
+      "si": "11:25",
+      "li": "13:04",
+      "ar": "JetSMART",
+      "sr": "13:45",
+      "lr": "15:15",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-04",
+     "2026-11-07",
+     931990,
+     {
+      "ai": "JetSMART",
+      "si": "05:35",
+      "li": "07:11",
+      "ar": "JetSMART",
+      "sr": "15:40",
+      "lr": "17:10",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-11",
+     "2026-11-14",
+     942990,
+     {
+      "ai": "JetSMART",
+      "si": "05:35",
+      "li": "07:11",
+      "ar": "JetSMART",
+      "sr": "15:40",
+      "lr": "17:10",
+      "ei": false,
+      "er": false
+     }
     ]
    ],
    "incluye": {
@@ -16531,7 +18811,7 @@
    ],
    "desde": 931990,
    "hasta": 996990,
-   "n_fechas": 5,
+   "n_fechas": 10,
    "galeria": "https://galerias.trvely.com.co/taybo-kai/",
    "experiencias": "https://experiencias.trvely.com.co/santa-marta/"
   },
