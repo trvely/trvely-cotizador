@@ -1,6 +1,6 @@
 {
- "generado": "2026-07-29",
- "generado_hora": "09:05",
+ "generado": "2026-07-30",
+ "generado_hora": "08:51",
  "acomodacion": "doble",
  "productos": [
   {
@@ -11016,6 +11016,21 @@
      }
     ],
     [
+     "2026-09-13",
+     "2026-09-16",
+     3062990,
+     {
+      "ai": "Arajet",
+      "si": "09:45",
+      "li": "13:35",
+      "ar": "Arajet",
+      "sr": "18:40",
+      "lr": "20:20",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
      "2026-10-11",
      "2026-10-14",
      2991990,
@@ -11090,7 +11105,7 @@
    ],
    "desde": 2826990,
    "hasta": 3062990,
-   "n_fechas": 9,
+   "n_fechas": 10,
    "galeria": "https://galerias.trvely.com.co/coral-costa-caribe/",
    "experiencias": null
   },
@@ -12936,6 +12951,21 @@
      }
     ],
     [
+     "2026-09-13",
+     "2026-09-16",
+     3070990,
+     {
+      "ai": "Arajet",
+      "si": "09:45",
+      "li": "13:35",
+      "ar": "Arajet",
+      "sr": "18:40",
+      "lr": "20:20",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
      "2026-10-11",
      "2026-10-14",
      2998990,
@@ -13010,7 +13040,7 @@
    ],
    "desde": 2833990,
    "hasta": 3181990,
-   "n_fechas": 9,
+   "n_fechas": 10,
    "galeria": "https://galerias.trvely.com.co/whala-bocachica/",
    "experiencias": null
   },
@@ -13098,6 +13128,21 @@
      }
     ],
     [
+     "2026-09-13",
+     "2026-09-16",
+     2954990,
+     {
+      "ai": "Arajet",
+      "si": "09:45",
+      "li": "13:35",
+      "ar": "Arajet",
+      "sr": "18:40",
+      "lr": "20:20",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
      "2026-10-11",
      "2026-10-14",
      2883990,
@@ -13172,7 +13217,7 @@
    ],
    "desde": 2718990,
    "hasta": 3040990,
-   "n_fechas": 9,
+   "n_fechas": 10,
    "galeria": "https://galerias.trvely.com.co/whala-bocachica/",
    "experiencias": null
   },
@@ -13260,6 +13305,21 @@
      }
     ],
     [
+     "2026-09-13",
+     "2026-09-16",
+     2897990,
+     {
+      "ai": "Arajet",
+      "si": "09:45",
+      "li": "13:35",
+      "ar": "Arajet",
+      "sr": "18:40",
+      "lr": "20:20",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
      "2026-10-11",
      "2026-10-14",
      2825990,
@@ -13334,7 +13394,7 @@
    ],
    "desde": 2660990,
    "hasta": 2970990,
-   "n_fechas": 9,
+   "n_fechas": 10,
    "galeria": "https://galerias.trvely.com.co/whala-bocachica/",
    "experiencias": null
   },
