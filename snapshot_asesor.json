@@ -1,6 +1,6 @@
 {
- "generado": "2026-07-30",
- "generado_hora": "10:23",
+ "generado": "2026-07-31",
+ "generado_hora": "08:58",
  "acomodacion": "doble",
  "productos": [
   {
@@ -11887,6 +11887,114 @@
    "experiencias": "https://experiencias.trvely.com.co/leticia/"
   },
   {
+   "destino": "Leticia",
+   "hotel": "UTUANE",
+   "alimentacion": "Desayuno y Cena",
+   "habitacion": "Estandar",
+   "noches": 3,
+   "codigo": "LET-UTN-4D3N-DC-EST",
+   "fechas": [
+    [
+     "2026-09-12",
+     "2026-09-15",
+     1649990,
+     {
+      "ai": "Avianca",
+      "si": "06:50",
+      "li": "08:55",
+      "ar": "Avianca",
+      "sr": "17:50",
+      "lr": "19:50",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-09-26",
+     "2026-09-29",
+     1644990,
+     {
+      "ai": "Avianca",
+      "si": "06:50",
+      "li": "08:55",
+      "ar": "Avianca",
+      "sr": "17:50",
+      "lr": "19:50",
+      "ei": false,
+      "er": false
+     }
+    ]
+   ],
+   "incluye": {
+    "tiquete": true,
+    "alojamiento": true,
+    "tours": false,
+    "traslado": false,
+    "asistencia": true
+   },
+   "tours_incluidos": [],
+   "traslados": [],
+   "desde": 1644990,
+   "hasta": 1649990,
+   "n_fechas": 2,
+   "galeria": "https://galerias.trvely.com.co/utuane/",
+   "experiencias": "https://experiencias.trvely.com.co/leticia/"
+  },
+  {
+   "destino": "Leticia",
+   "hotel": "UTUANE",
+   "alimentacion": "Desayuno",
+   "habitacion": "Estandar",
+   "noches": 3,
+   "codigo": "LET-UTN-4D3N-DES-EST",
+   "fechas": [
+    [
+     "2026-09-12",
+     "2026-09-15",
+     1517990,
+     {
+      "ai": "Avianca",
+      "si": "06:50",
+      "li": "08:55",
+      "ar": "Avianca",
+      "sr": "17:50",
+      "lr": "19:50",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-09-26",
+     "2026-09-29",
+     1513990,
+     {
+      "ai": "Avianca",
+      "si": "06:50",
+      "li": "08:55",
+      "ar": "Avianca",
+      "sr": "17:50",
+      "lr": "19:50",
+      "ei": false,
+      "er": false
+     }
+    ]
+   ],
+   "incluye": {
+    "tiquete": true,
+    "alojamiento": true,
+    "tours": false,
+    "traslado": false,
+    "asistencia": true
+   },
+   "tours_incluidos": [],
+   "traslados": [],
+   "desde": 1513990,
+   "hasta": 1517990,
+   "n_fechas": 2,
+   "galeria": "https://galerias.trvely.com.co/utuane/",
+   "experiencias": "https://experiencias.trvely.com.co/leticia/"
+  },
+  {
    "destino": "Medellín",
    "hotel": "SAUCES DEL ESTADIO",
    "alimentacion": "Desayuno",
@@ -18813,6 +18921,540 @@
    "hasta": 863990,
    "n_fechas": 10,
    "galeria": "https://galerias.trvely.com.co/taybo-kai/",
+   "experiencias": "https://experiencias.trvely.com.co/santa-marta/"
+  },
+  {
+   "destino": "Santa Marta",
+   "hotel": "VADAMAR",
+   "alimentacion": "Desayuno y Cena",
+   "habitacion": "Estandar",
+   "noches": 3,
+   "codigo": "SMR-VDM-4D3N-DC-EST",
+   "fechas": [
+    [
+     "2026-09-12",
+     "2026-09-15",
+     1144990,
+     {
+      "ai": "Wingo",
+      "si": "05:30",
+      "li": "07:05",
+      "ar": "Wingo",
+      "sr": "21:56",
+      "lr": "23:25",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-09-14",
+     "2026-09-17",
+     1144990,
+     {
+      "ai": "Wingo",
+      "si": "10:45",
+      "li": "12:20",
+      "ar": "Wingo",
+      "sr": "17:31",
+      "lr": "19:00",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-13",
+     "2026-10-16",
+     1171990,
+     {
+      "ai": "Wingo",
+      "si": "10:05",
+      "li": "11:40",
+      "ar": "Wingo",
+      "sr": "20:31",
+      "lr": "22:00",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-20",
+     "2026-10-23",
+     1144990,
+     {
+      "ai": "Wingo",
+      "si": "10:05",
+      "li": "11:40",
+      "ar": "Wingo",
+      "sr": "20:31",
+      "lr": "22:00",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-24",
+     "2026-10-27",
+     1144990,
+     {
+      "ai": "Wingo",
+      "si": "05:30",
+      "li": "07:05",
+      "ar": "Wingo",
+      "sr": "17:34",
+      "lr": "19:05",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-27",
+     "2026-10-30",
+     1144990,
+     {
+      "ai": "Wingo",
+      "si": "10:05",
+      "li": "11:40",
+      "ar": "Wingo",
+      "sr": "20:34",
+      "lr": "22:05",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-03",
+     "2026-11-06",
+     1171990,
+     {
+      "ai": "Wingo",
+      "si": "10:05",
+      "li": "11:40",
+      "ar": "Wingo",
+      "sr": "20:34",
+      "lr": "22:05",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-07",
+     "2026-11-10",
+     1144990,
+     {
+      "ai": "Wingo",
+      "si": "05:20",
+      "li": "06:55",
+      "ar": "Wingo",
+      "sr": "22:04",
+      "lr": "23:35",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-10",
+     "2026-11-13",
+     1144990,
+     {
+      "ai": "Wingo",
+      "si": "10:05",
+      "li": "11:40",
+      "ar": "Wingo",
+      "sr": "20:34",
+      "lr": "22:05",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-16",
+     "2026-11-19",
+     1185990,
+     {
+      "ai": "Wingo",
+      "si": "10:40",
+      "li": "12:15",
+      "ar": "Wingo",
+      "sr": "17:34",
+      "lr": "19:05",
+      "ei": false,
+      "er": false
+     }
+    ]
+   ],
+   "incluye": {
+    "tiquete": true,
+    "alojamiento": true,
+    "tours": false,
+    "traslado": true,
+    "asistencia": true
+   },
+   "tours_incluidos": [
+    "Tour Playa Blanca con almuerzo"
+   ],
+   "traslados": [
+    "Traslado aeropuerto SMR - hotel - aeropuerto"
+   ],
+   "desde": 1144990,
+   "hasta": 1185990,
+   "n_fechas": 10,
+   "galeria": "https://galerias.trvely.com.co/vadamar/",
+   "experiencias": "https://experiencias.trvely.com.co/santa-marta/"
+  },
+  {
+   "destino": "Santa Marta",
+   "hotel": "VADAMAR",
+   "alimentacion": "Desayuno",
+   "habitacion": "Estandar",
+   "noches": 3,
+   "codigo": "SMR-VDM-4D3N-DES-EST",
+   "fechas": [
+    [
+     "2026-09-12",
+     "2026-09-15",
+     1103990,
+     {
+      "ai": "Wingo",
+      "si": "05:30",
+      "li": "07:05",
+      "ar": "Wingo",
+      "sr": "21:56",
+      "lr": "23:25",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-09-14",
+     "2026-09-17",
+     1103990,
+     {
+      "ai": "Wingo",
+      "si": "10:45",
+      "li": "12:20",
+      "ar": "Wingo",
+      "sr": "17:31",
+      "lr": "19:00",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-13",
+     "2026-10-16",
+     1130990,
+     {
+      "ai": "Wingo",
+      "si": "10:05",
+      "li": "11:40",
+      "ar": "Wingo",
+      "sr": "20:31",
+      "lr": "22:00",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-20",
+     "2026-10-23",
+     1103990,
+     {
+      "ai": "Wingo",
+      "si": "10:05",
+      "li": "11:40",
+      "ar": "Wingo",
+      "sr": "20:31",
+      "lr": "22:00",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-24",
+     "2026-10-27",
+     1103990,
+     {
+      "ai": "Wingo",
+      "si": "05:30",
+      "li": "07:05",
+      "ar": "Wingo",
+      "sr": "17:34",
+      "lr": "19:05",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-27",
+     "2026-10-30",
+     1103990,
+     {
+      "ai": "Wingo",
+      "si": "10:05",
+      "li": "11:40",
+      "ar": "Wingo",
+      "sr": "20:34",
+      "lr": "22:05",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-03",
+     "2026-11-06",
+     1130990,
+     {
+      "ai": "Wingo",
+      "si": "10:05",
+      "li": "11:40",
+      "ar": "Wingo",
+      "sr": "20:34",
+      "lr": "22:05",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-07",
+     "2026-11-10",
+     1103990,
+     {
+      "ai": "Wingo",
+      "si": "05:20",
+      "li": "06:55",
+      "ar": "Wingo",
+      "sr": "22:04",
+      "lr": "23:35",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-10",
+     "2026-11-13",
+     1103990,
+     {
+      "ai": "Wingo",
+      "si": "10:05",
+      "li": "11:40",
+      "ar": "Wingo",
+      "sr": "20:34",
+      "lr": "22:05",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-16",
+     "2026-11-19",
+     1144990,
+     {
+      "ai": "Wingo",
+      "si": "10:40",
+      "li": "12:15",
+      "ar": "Wingo",
+      "sr": "17:34",
+      "lr": "19:05",
+      "ei": false,
+      "er": false
+     }
+    ]
+   ],
+   "incluye": {
+    "tiquete": true,
+    "alojamiento": true,
+    "tours": false,
+    "traslado": true,
+    "asistencia": true
+   },
+   "tours_incluidos": [
+    "Tour Playa Blanca con almuerzo"
+   ],
+   "traslados": [
+    "Traslado aeropuerto SMR - hotel - aeropuerto"
+   ],
+   "desde": 1103990,
+   "hasta": 1144990,
+   "n_fechas": 10,
+   "galeria": "https://galerias.trvely.com.co/vadamar/",
+   "experiencias": "https://experiencias.trvely.com.co/santa-marta/"
+  },
+  {
+   "destino": "Santa Marta",
+   "hotel": "VADAMAR",
+   "alimentacion": "Desayuno, almuerzo y cena",
+   "habitacion": "Estandar",
+   "noches": 3,
+   "codigo": "SMR-VDM-4D3N-PC-EST",
+   "fechas": [
+    [
+     "2026-09-12",
+     "2026-09-15",
+     1246990,
+     {
+      "ai": "Wingo",
+      "si": "05:30",
+      "li": "07:05",
+      "ar": "Wingo",
+      "sr": "21:56",
+      "lr": "23:25",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-09-14",
+     "2026-09-17",
+     1246990,
+     {
+      "ai": "Wingo",
+      "si": "10:45",
+      "li": "12:20",
+      "ar": "Wingo",
+      "sr": "17:31",
+      "lr": "19:00",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-13",
+     "2026-10-16",
+     1274990,
+     {
+      "ai": "Wingo",
+      "si": "10:05",
+      "li": "11:40",
+      "ar": "Wingo",
+      "sr": "20:31",
+      "lr": "22:00",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-20",
+     "2026-10-23",
+     1246990,
+     {
+      "ai": "Wingo",
+      "si": "10:05",
+      "li": "11:40",
+      "ar": "Wingo",
+      "sr": "20:31",
+      "lr": "22:00",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-24",
+     "2026-10-27",
+     1246990,
+     {
+      "ai": "Wingo",
+      "si": "05:30",
+      "li": "07:05",
+      "ar": "Wingo",
+      "sr": "17:34",
+      "lr": "19:05",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-27",
+     "2026-10-30",
+     1246990,
+     {
+      "ai": "Wingo",
+      "si": "10:05",
+      "li": "11:40",
+      "ar": "Wingo",
+      "sr": "20:34",
+      "lr": "22:05",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-03",
+     "2026-11-06",
+     1274990,
+     {
+      "ai": "Wingo",
+      "si": "10:05",
+      "li": "11:40",
+      "ar": "Wingo",
+      "sr": "20:34",
+      "lr": "22:05",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-07",
+     "2026-11-10",
+     1246990,
+     {
+      "ai": "Wingo",
+      "si": "05:20",
+      "li": "06:55",
+      "ar": "Wingo",
+      "sr": "22:04",
+      "lr": "23:35",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-10",
+     "2026-11-13",
+     1246990,
+     {
+      "ai": "Wingo",
+      "si": "10:05",
+      "li": "11:40",
+      "ar": "Wingo",
+      "sr": "20:34",
+      "lr": "22:05",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-16",
+     "2026-11-19",
+     1287990,
+     {
+      "ai": "Wingo",
+      "si": "10:40",
+      "li": "12:15",
+      "ar": "Wingo",
+      "sr": "17:34",
+      "lr": "19:05",
+      "ei": false,
+      "er": false
+     }
+    ]
+   ],
+   "incluye": {
+    "tiquete": true,
+    "alojamiento": true,
+    "tours": false,
+    "traslado": true,
+    "asistencia": true
+   },
+   "tours_incluidos": [
+    "Tour Playa Blanca con almuerzo"
+   ],
+   "traslados": [
+    "Traslado aeropuerto SMR - hotel - aeropuerto"
+   ],
+   "desde": 1246990,
+   "hasta": 1287990,
+   "n_fechas": 10,
+   "galeria": "https://galerias.trvely.com.co/vadamar/",
    "experiencias": "https://experiencias.trvely.com.co/santa-marta/"
   },
   {
