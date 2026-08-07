@@ -1,6 +1,6 @@
 {
- "generado": "2026-08-06",
- "generado_hora": "09:20",
+ "generado": "2026-08-07",
+ "generado_hora": "09:19",
  "acomodacion": "doble",
  "productos": [
   {
@@ -7760,8 +7760,8 @@
    ],
    "traslados": [
     "Traslado In-Out Cartagena",
-    "Traslado Aeropuerto CTG -> Hotel Cartagena",
-    "Traslado Hotel Cartagena -> Aeropuerto CTG"
+    "Traslado Hotel Cartagena -> Aeropuerto CTG",
+    "Traslado Aeropuerto CTG -> Hotel Cartagena"
    ],
    "desde": 1567990,
    "hasta": 1578990,
@@ -8300,8 +8300,8 @@
    ],
    "traslados": [
     "Traslado In-Out Cartagena",
-    "Traslado Hotel Cartagena -> Aeropuerto CTG",
-    "Traslado Aeropuerto CTG -> Hotel Cartagena"
+    "Traslado Aeropuerto CTG -> Hotel Cartagena",
+    "Traslado Hotel Cartagena -> Aeropuerto CTG"
    ],
    "desde": 2255990,
    "hasta": 2269990,
@@ -9020,8 +9020,8 @@
    ],
    "traslados": [
     "Traslado In-Out Cartagena",
-    "Traslado Hotel Cartagena -> Aeropuerto CTG",
-    "Traslado Aeropuerto CTG -> Hotel Cartagena"
+    "Traslado Aeropuerto CTG -> Hotel Cartagena",
+    "Traslado Hotel Cartagena -> Aeropuerto CTG"
    ],
    "desde": 1691990,
    "hasta": 1705990,
@@ -9200,8 +9200,8 @@
    ],
    "traslados": [
     "Traslado In-Out Cartagena",
-    "Traslado Hotel Cartagena -> Aeropuerto CTG",
-    "Traslado Aeropuerto CTG -> Hotel Cartagena"
+    "Traslado Aeropuerto CTG -> Hotel Cartagena",
+    "Traslado Hotel Cartagena -> Aeropuerto CTG"
    ],
    "desde": 1361990,
    "hasta": 1389990,
@@ -10460,8 +10460,8 @@
    ],
    "traslados": [
     "Traslado In-Out Cartagena",
-    "Traslado Aeropuerto CTG -> Hotel Cartagena",
-    "Traslado Hotel Cartagena -> Aeropuerto CTG"
+    "Traslado Hotel Cartagena -> Aeropuerto CTG",
+    "Traslado Aeropuerto CTG -> Hotel Cartagena"
    ],
    "desde": 1594990,
    "hasta": 1606990,
@@ -10820,8 +10820,8 @@
    ],
    "traslados": [
     "Traslado In-Out Cartagena",
-    "Traslado Aeropuerto CTG -> Hotel Cartagena",
-    "Traslado Hotel Cartagena -> Aeropuerto CTG"
+    "Traslado Hotel Cartagena -> Aeropuerto CTG",
+    "Traslado Aeropuerto CTG -> Hotel Cartagena"
    ],
    "desde": 1125990,
    "hasta": 1183990,
@@ -11198,7 +11198,7 @@
     [
      "2026-08-28",
      "2026-08-31",
-     3091990,
+     3084990,
      {
       "ai": "Arajet",
       "si": "11:05",
@@ -11213,7 +11213,7 @@
     [
      "2026-08-30",
      "2026-09-02",
-     3110990,
+     3103990,
      {
       "ai": "Avianca",
       "si": "08:15",
@@ -11228,7 +11228,7 @@
     [
      "2026-09-04",
      "2026-09-07",
-     3104990,
+     3097990,
      {
       "ai": "Avianca",
       "si": "08:15",
@@ -11243,7 +11243,7 @@
     [
      "2026-09-13",
      "2026-09-16",
-     3104990,
+     3097990,
      {
       "ai": "Avianca",
       "si": "08:15",
@@ -11258,7 +11258,7 @@
     [
      "2026-09-18",
      "2026-09-21",
-     3104990,
+     3097990,
      {
       "ai": "Avianca",
       "si": "08:15",
@@ -11273,7 +11273,7 @@
     [
      "2026-09-25",
      "2026-09-28",
-     3104990,
+     3097990,
      {
       "ai": "Avianca",
       "si": "08:15",
@@ -11288,7 +11288,7 @@
     [
      "2026-10-11",
      "2026-10-14",
-     3104990,
+     3097990,
      {
       "ai": "Avianca",
       "si": "08:15",
@@ -11303,7 +11303,7 @@
     [
      "2026-10-16",
      "2026-10-19",
-     3104990,
+     3097990,
      {
       "ai": "Avianca",
       "si": "08:15",
@@ -11318,7 +11318,7 @@
     [
      "2026-10-23",
      "2026-10-26",
-     3082990,
+     3075990,
      {
       "ai": "Arajet",
       "si": "11:05",
@@ -11343,8 +11343,8 @@
     "Traslado privado SDQ - Juan Dolio",
     "Traslado privado Juan Dolio - SDQ"
    ],
-   "desde": 3082990,
-   "hasta": 3110990,
+   "desde": 3075990,
+   "hasta": 3103990,
    "n_fechas": 9,
    "galeria": "https://galerias.trvely.com.co/coral-costa-caribe/",
    "experiencias": null
@@ -12157,16 +12157,16 @@
   },
   {
    "destino": "Punta Cana",
-   "hotel": "HM ALMA DE BAYAHIBE",
+   "hotel": "CATALONIA ROYAL BAVARO",
    "alimentacion": "Todo incluido",
-   "habitacion": "Estandar",
+   "habitacion": "Junior Suite Superior",
    "noches": 4,
-   "codigo": "PUJ-HMH-5D4N-TI-STD",
+   "codigo": "PUJ-CRB-5D4N-TI-JSS",
    "fechas": [
     [
      "2026-08-31",
      "2026-09-04",
-     3854990,
+     4138990,
      {
       "ai": "Avianca",
       "si": "07:35",
@@ -12181,7 +12181,7 @@
     [
      "2026-09-28",
      "2026-10-02",
-     3748990,
+     4070990,
      {
       "ai": "Avianca",
       "si": "07:35",
@@ -12196,7 +12196,7 @@
     [
      "2026-09-29",
      "2026-10-03",
-     3510990,
+     3831990,
      {
       "ai": "Wingo",
       "si": "09:10",
@@ -12211,7 +12211,7 @@
     [
      "2026-10-14",
      "2026-10-18",
-     3751990,
+     4072990,
      {
       "ai": "Wingo",
       "si": "09:10",
@@ -12226,7 +12226,7 @@
     [
      "2026-10-17",
      "2026-10-21",
-     3640990,
+     3961990,
      {
       "ai": "Wingo",
       "si": "09:10",
@@ -12241,7 +12241,7 @@
     [
      "2026-10-18",
      "2026-10-22",
-     3695990,
+     4017990,
      {
       "ai": "Wingo",
       "si": "09:10",
@@ -12256,7 +12256,7 @@
     [
      "2026-10-20",
      "2026-10-24",
-     3510990,
+     3832990,
      {
       "ai": "Wingo",
       "si": "09:10",
@@ -12271,7 +12271,7 @@
     [
      "2026-10-21",
      "2026-10-25",
-     3751990,
+     4072990,
      {
       "ai": "Wingo",
       "si": "09:10",
@@ -12286,7 +12286,7 @@
     [
      "2026-10-27",
      "2026-10-31",
-     3560990,
+     3882990,
      {
       "ai": "Wingo",
       "si": "09:10",
@@ -12301,7 +12301,2485 @@
     [
      "2026-10-28",
      "2026-11-01",
-     3861990,
+     4183990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:57",
+      "ar": "Wingo",
+      "sr": "13:46",
+      "lr": "15:30",
+      "ei": false,
+      "er": false
+     }
+    ]
+   ],
+   "incluye": {
+    "tiquete": true,
+    "alojamiento": true,
+    "tours": false,
+    "traslado": false,
+    "asistencia": true
+   },
+   "tours_incluidos": [],
+   "traslados": [
+    "Traslado privado PUJ - hotel Punta Cana",
+    "Traslado privado hotel Punta Cana - PUJ"
+   ],
+   "desde": 3831990,
+   "hasta": 4183990,
+   "n_fechas": 10,
+   "galeria": "https://galerias.trvely.com.co/catalonia-royal-bavaro/",
+   "experiencias": null
+  },
+  {
+   "destino": "Punta Cana",
+   "hotel": "CATALONIA ROYAL BAVARO",
+   "alimentacion": "Todo incluido",
+   "habitacion": "Privileged Deluxe Junior Suite",
+   "noches": 4,
+   "codigo": "PUJ-CRB-5D4N-TI-PDJS",
+   "fechas": [
+    [
+     "2026-08-31",
+     "2026-09-04",
+     4307990,
+     {
+      "ai": "Avianca",
+      "si": "07:35",
+      "li": "11:25",
+      "ar": "Avianca",
+      "sr": "12:50",
+      "lr": "14:35",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-09-28",
+     "2026-10-02",
+     4249990,
+     {
+      "ai": "Avianca",
+      "si": "07:35",
+      "li": "11:25",
+      "ar": "Avianca",
+      "sr": "12:50",
+      "lr": "14:35",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-09-29",
+     "2026-10-03",
+     4010990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:55",
+      "ar": "Wingo",
+      "sr": "13:42",
+      "lr": "15:25",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-14",
+     "2026-10-18",
+     4251990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:55",
+      "ar": "Wingo",
+      "sr": "13:42",
+      "lr": "15:25",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-17",
+     "2026-10-21",
+     4140990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:55",
+      "ar": "Wingo",
+      "sr": "13:42",
+      "lr": "15:25",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-18",
+     "2026-10-22",
+     4195990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:55",
+      "ar": "Wingo",
+      "sr": "15:02",
+      "lr": "16:45",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-20",
+     "2026-10-24",
+     4011990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:55",
+      "ar": "Wingo",
+      "sr": "13:42",
+      "lr": "15:25",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-21",
+     "2026-10-25",
+     4251990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:55",
+      "ar": "Wingo",
+      "sr": "13:46",
+      "lr": "15:30",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-27",
+     "2026-10-31",
+     4061990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:57",
+      "ar": "Wingo",
+      "sr": "13:46",
+      "lr": "15:30",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-28",
+     "2026-11-01",
+     4362990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:57",
+      "ar": "Wingo",
+      "sr": "13:46",
+      "lr": "15:30",
+      "ei": false,
+      "er": false
+     }
+    ]
+   ],
+   "incluye": {
+    "tiquete": true,
+    "alojamiento": true,
+    "tours": false,
+    "traslado": false,
+    "asistencia": true
+   },
+   "tours_incluidos": [],
+   "traslados": [
+    "Traslado privado PUJ - hotel Punta Cana",
+    "Traslado privado hotel Punta Cana - PUJ"
+   ],
+   "desde": 4010990,
+   "hasta": 4362990,
+   "n_fechas": 10,
+   "galeria": "https://galerias.trvely.com.co/catalonia-royal-bavaro/",
+   "experiencias": null
+  },
+  {
+   "destino": "Punta Cana",
+   "hotel": "CATALONIA ROYAL BAVARO",
+   "alimentacion": "Todo incluido",
+   "habitacion": "Privileged Deluxe & Swimming Pool",
+   "noches": 4,
+   "codigo": "PUJ-CRB-5D4N-TI-PDSP",
+   "fechas": [
+    [
+     "2026-08-31",
+     "2026-09-04",
+     4839990,
+     {
+      "ai": "Avianca",
+      "si": "07:35",
+      "li": "11:25",
+      "ar": "Avianca",
+      "sr": "12:50",
+      "lr": "14:35",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-09-28",
+     "2026-10-02",
+     4807990,
+     {
+      "ai": "Avianca",
+      "si": "07:35",
+      "li": "11:25",
+      "ar": "Avianca",
+      "sr": "12:50",
+      "lr": "14:35",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-09-29",
+     "2026-10-03",
+     4547990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:55",
+      "ar": "Wingo",
+      "sr": "13:42",
+      "lr": "15:25",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-14",
+     "2026-10-18",
+     4809990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:55",
+      "ar": "Wingo",
+      "sr": "13:42",
+      "lr": "15:25",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-17",
+     "2026-10-21",
+     4677990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:55",
+      "ar": "Wingo",
+      "sr": "13:42",
+      "lr": "15:25",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-18",
+     "2026-10-22",
+     4742990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:55",
+      "ar": "Wingo",
+      "sr": "15:02",
+      "lr": "16:45",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-20",
+     "2026-10-24",
+     4547990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:55",
+      "ar": "Wingo",
+      "sr": "13:42",
+      "lr": "15:25",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-21",
+     "2026-10-25",
+     4809990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:55",
+      "ar": "Wingo",
+      "sr": "13:46",
+      "lr": "15:30",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-27",
+     "2026-10-31",
+     4597990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:57",
+      "ar": "Wingo",
+      "sr": "13:46",
+      "lr": "15:30",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-28",
+     "2026-11-01",
+     4942990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:57",
+      "ar": "Wingo",
+      "sr": "13:46",
+      "lr": "15:30",
+      "ei": false,
+      "er": false
+     }
+    ]
+   ],
+   "incluye": {
+    "tiquete": true,
+    "alojamiento": true,
+    "tours": false,
+    "traslado": false,
+    "asistencia": true
+   },
+   "tours_incluidos": [],
+   "traslados": [
+    "Traslado privado PUJ - hotel Punta Cana",
+    "Traslado privado hotel Punta Cana - PUJ"
+   ],
+   "desde": 4547990,
+   "hasta": 4942990,
+   "n_fechas": 10,
+   "galeria": "https://galerias.trvely.com.co/catalonia-royal-bavaro/",
+   "experiencias": null
+  },
+  {
+   "destino": "Punta Cana",
+   "hotel": "CATALONIA ROYAL BAVARO",
+   "alimentacion": "Todo incluido",
+   "habitacion": "Privileged Duplex Suite & Swimming Pool",
+   "noches": 4,
+   "codigo": "PUJ-CRB-5D4N-TI-PDXSP",
+   "fechas": [
+    [
+     "2026-08-31",
+     "2026-09-04",
+     5546990,
+     {
+      "ai": "Avianca",
+      "si": "07:35",
+      "li": "11:25",
+      "ar": "Avianca",
+      "sr": "12:50",
+      "lr": "14:35",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-09-28",
+     "2026-10-02",
+     5558990,
+     {
+      "ai": "Avianca",
+      "si": "07:35",
+      "li": "11:25",
+      "ar": "Avianca",
+      "sr": "12:50",
+      "lr": "14:35",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-09-29",
+     "2026-10-03",
+     5271990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:55",
+      "ar": "Wingo",
+      "sr": "13:42",
+      "lr": "15:25",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-14",
+     "2026-10-18",
+     5561990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:55",
+      "ar": "Wingo",
+      "sr": "13:42",
+      "lr": "15:25",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-17",
+     "2026-10-21",
+     5427990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:55",
+      "ar": "Wingo",
+      "sr": "13:42",
+      "lr": "15:25",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-18",
+     "2026-10-22",
+     5494990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:55",
+      "ar": "Wingo",
+      "sr": "15:02",
+      "lr": "16:45",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-20",
+     "2026-10-24",
+     5272990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:55",
+      "ar": "Wingo",
+      "sr": "13:42",
+      "lr": "15:25",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-21",
+     "2026-10-25",
+     5561990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:55",
+      "ar": "Wingo",
+      "sr": "13:46",
+      "lr": "15:30",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-27",
+     "2026-10-31",
+     5332990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:57",
+      "ar": "Wingo",
+      "sr": "13:46",
+      "lr": "15:30",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-28",
+     "2026-11-01",
+     5693990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:57",
+      "ar": "Wingo",
+      "sr": "13:46",
+      "lr": "15:30",
+      "ei": false,
+      "er": false
+     }
+    ]
+   ],
+   "incluye": {
+    "tiquete": true,
+    "alojamiento": true,
+    "tours": false,
+    "traslado": false,
+    "asistencia": true
+   },
+   "tours_incluidos": [],
+   "traslados": [
+    "Traslado privado PUJ - hotel Punta Cana",
+    "Traslado privado hotel Punta Cana - PUJ"
+   ],
+   "desde": 5271990,
+   "hasta": 5693990,
+   "n_fechas": 10,
+   "galeria": "https://galerias.trvely.com.co/catalonia-royal-bavaro/",
+   "experiencias": null
+  },
+  {
+   "destino": "Punta Cana",
+   "hotel": "CATALONIA ROYAL BAVARO",
+   "alimentacion": "Todo incluido",
+   "habitacion": "Premium Junior Suite",
+   "noches": 4,
+   "codigo": "PUJ-CRB-5D4N-TI-PJS",
+   "fechas": [
+    [
+     "2026-08-31",
+     "2026-09-04",
+     4222990,
+     {
+      "ai": "Avianca",
+      "si": "07:35",
+      "li": "11:25",
+      "ar": "Avianca",
+      "sr": "12:50",
+      "lr": "14:35",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-09-28",
+     "2026-10-02",
+     4160990,
+     {
+      "ai": "Avianca",
+      "si": "07:35",
+      "li": "11:25",
+      "ar": "Avianca",
+      "sr": "12:50",
+      "lr": "14:35",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-09-29",
+     "2026-10-03",
+     3921990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:55",
+      "ar": "Wingo",
+      "sr": "13:42",
+      "lr": "15:25",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-14",
+     "2026-10-18",
+     4162990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:55",
+      "ar": "Wingo",
+      "sr": "13:42",
+      "lr": "15:25",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-17",
+     "2026-10-21",
+     4051990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:55",
+      "ar": "Wingo",
+      "sr": "13:42",
+      "lr": "15:25",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-18",
+     "2026-10-22",
+     4106990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:55",
+      "ar": "Wingo",
+      "sr": "15:02",
+      "lr": "16:45",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-20",
+     "2026-10-24",
+     3921990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:55",
+      "ar": "Wingo",
+      "sr": "13:42",
+      "lr": "15:25",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-21",
+     "2026-10-25",
+     4162990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:55",
+      "ar": "Wingo",
+      "sr": "13:46",
+      "lr": "15:30",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-27",
+     "2026-10-31",
+     3971990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:57",
+      "ar": "Wingo",
+      "sr": "13:46",
+      "lr": "15:30",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-28",
+     "2026-11-01",
+     4272990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:57",
+      "ar": "Wingo",
+      "sr": "13:46",
+      "lr": "15:30",
+      "ei": false,
+      "er": false
+     }
+    ]
+   ],
+   "incluye": {
+    "tiquete": true,
+    "alojamiento": true,
+    "tours": false,
+    "traslado": false,
+    "asistencia": true
+   },
+   "tours_incluidos": [],
+   "traslados": [
+    "Traslado privado PUJ - hotel Punta Cana",
+    "Traslado privado hotel Punta Cana - PUJ"
+   ],
+   "desde": 3921990,
+   "hasta": 4272990,
+   "n_fechas": 10,
+   "galeria": "https://galerias.trvely.com.co/catalonia-royal-bavaro/",
+   "experiencias": null
+  },
+  {
+   "destino": "Punta Cana",
+   "hotel": "CATALONIA ROYAL BAVARO",
+   "alimentacion": "Todo incluido",
+   "habitacion": "Privileged Romance Deluxe Junior Suite",
+   "noches": 4,
+   "codigo": "PUJ-CRB-5D4N-TI-PRDJS",
+   "fechas": [
+    [
+     "2026-08-31",
+     "2026-09-04",
+     4433990,
+     {
+      "ai": "Avianca",
+      "si": "07:35",
+      "li": "11:25",
+      "ar": "Avianca",
+      "sr": "12:50",
+      "lr": "14:35",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-09-28",
+     "2026-10-02",
+     4383990,
+     {
+      "ai": "Avianca",
+      "si": "07:35",
+      "li": "11:25",
+      "ar": "Avianca",
+      "sr": "12:50",
+      "lr": "14:35",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-09-29",
+     "2026-10-03",
+     4144990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:55",
+      "ar": "Wingo",
+      "sr": "13:42",
+      "lr": "15:25",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-14",
+     "2026-10-18",
+     4385990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:55",
+      "ar": "Wingo",
+      "sr": "13:42",
+      "lr": "15:25",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-17",
+     "2026-10-21",
+     4274990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:55",
+      "ar": "Wingo",
+      "sr": "13:42",
+      "lr": "15:25",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-18",
+     "2026-10-22",
+     4330990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:55",
+      "ar": "Wingo",
+      "sr": "15:02",
+      "lr": "16:45",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-20",
+     "2026-10-24",
+     4145990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:55",
+      "ar": "Wingo",
+      "sr": "13:42",
+      "lr": "15:25",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-21",
+     "2026-10-25",
+     4385990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:55",
+      "ar": "Wingo",
+      "sr": "13:46",
+      "lr": "15:30",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-27",
+     "2026-10-31",
+     4195990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:57",
+      "ar": "Wingo",
+      "sr": "13:46",
+      "lr": "15:30",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-28",
+     "2026-11-01",
+     4496990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:57",
+      "ar": "Wingo",
+      "sr": "13:46",
+      "lr": "15:30",
+      "ei": false,
+      "er": false
+     }
+    ]
+   ],
+   "incluye": {
+    "tiquete": true,
+    "alojamiento": true,
+    "tours": false,
+    "traslado": false,
+    "asistencia": true
+   },
+   "tours_incluidos": [],
+   "traslados": [
+    "Traslado privado PUJ - hotel Punta Cana",
+    "Traslado privado hotel Punta Cana - PUJ"
+   ],
+   "desde": 4144990,
+   "hasta": 4496990,
+   "n_fechas": 10,
+   "galeria": "https://galerias.trvely.com.co/catalonia-royal-bavaro/",
+   "experiencias": null
+  },
+  {
+   "destino": "Punta Cana",
+   "hotel": "CATALONIA ROYAL LA ROMANA",
+   "alimentacion": "Todo incluido",
+   "habitacion": "Deluxe Junior Suite",
+   "noches": 4,
+   "codigo": "PUJ-CRLR-5D4N-TI-DJS",
+   "fechas": [
+    [
+     "2026-08-31",
+     "2026-09-04",
+     5859990,
+     {
+      "ai": "Avianca",
+      "si": "07:35",
+      "li": "11:25",
+      "ar": "Avianca",
+      "sr": "12:50",
+      "lr": "14:35",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-09-28",
+     "2026-10-02",
+     5751990,
+     {
+      "ai": "Avianca",
+      "si": "07:35",
+      "li": "11:25",
+      "ar": "Avianca",
+      "sr": "12:50",
+      "lr": "14:35",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-09-29",
+     "2026-10-03",
+     5464990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:55",
+      "ar": "Wingo",
+      "sr": "13:42",
+      "lr": "15:25",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-14",
+     "2026-10-18",
+     5754990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:55",
+      "ar": "Wingo",
+      "sr": "13:42",
+      "lr": "15:25",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-17",
+     "2026-10-21",
+     5621990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:55",
+      "ar": "Wingo",
+      "sr": "13:42",
+      "lr": "15:25",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-18",
+     "2026-10-22",
+     5687990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:55",
+      "ar": "Wingo",
+      "sr": "15:02",
+      "lr": "16:45",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-20",
+     "2026-10-24",
+     5465990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:55",
+      "ar": "Wingo",
+      "sr": "13:42",
+      "lr": "15:25",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-21",
+     "2026-10-25",
+     5754990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:55",
+      "ar": "Wingo",
+      "sr": "13:46",
+      "lr": "15:30",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-27",
+     "2026-10-31",
+     5525990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:57",
+      "ar": "Wingo",
+      "sr": "13:46",
+      "lr": "15:30",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-28",
+     "2026-11-01",
+     5887990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:57",
+      "ar": "Wingo",
+      "sr": "13:46",
+      "lr": "15:30",
+      "ei": false,
+      "er": false
+     }
+    ]
+   ],
+   "incluye": {
+    "tiquete": true,
+    "alojamiento": true,
+    "tours": false,
+    "traslado": false,
+    "asistencia": true
+   },
+   "tours_incluidos": [],
+   "traslados": [
+    "Traslado privado PUJ - hotel Punta Cana",
+    "Traslado privado hotel Punta Cana - PUJ"
+   ],
+   "desde": 5464990,
+   "hasta": 5887990,
+   "n_fechas": 10,
+   "galeria": null,
+   "experiencias": null
+  },
+  {
+   "destino": "Punta Cana",
+   "hotel": "CATALONIA ROYAL LA ROMANA",
+   "alimentacion": "Todo incluido",
+   "habitacion": "Duplex Suite & Swimming Pool",
+   "noches": 4,
+   "codigo": "PUJ-CRLR-5D4N-TI-DXSP",
+   "fechas": [
+    [
+     "2026-08-31",
+     "2026-09-04",
+     6359990,
+     {
+      "ai": "Avianca",
+      "si": "07:35",
+      "li": "11:25",
+      "ar": "Avianca",
+      "sr": "12:50",
+      "lr": "14:35",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-09-28",
+     "2026-10-02",
+     6274990,
+     {
+      "ai": "Avianca",
+      "si": "07:35",
+      "li": "11:25",
+      "ar": "Avianca",
+      "sr": "12:50",
+      "lr": "14:35",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-09-29",
+     "2026-10-03",
+     5988990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:55",
+      "ar": "Wingo",
+      "sr": "13:42",
+      "lr": "15:25",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-14",
+     "2026-10-18",
+     6277990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:55",
+      "ar": "Wingo",
+      "sr": "13:42",
+      "lr": "15:25",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-17",
+     "2026-10-21",
+     6144990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:55",
+      "ar": "Wingo",
+      "sr": "13:42",
+      "lr": "15:25",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-18",
+     "2026-10-22",
+     6210990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:55",
+      "ar": "Wingo",
+      "sr": "15:02",
+      "lr": "16:45",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-20",
+     "2026-10-24",
+     5988990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:55",
+      "ar": "Wingo",
+      "sr": "13:42",
+      "lr": "15:25",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-21",
+     "2026-10-25",
+     6277990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:55",
+      "ar": "Wingo",
+      "sr": "13:46",
+      "lr": "15:30",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-27",
+     "2026-10-31",
+     6048990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:57",
+      "ar": "Wingo",
+      "sr": "13:46",
+      "lr": "15:30",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-28",
+     "2026-11-01",
+     6410990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:57",
+      "ar": "Wingo",
+      "sr": "13:46",
+      "lr": "15:30",
+      "ei": false,
+      "er": false
+     }
+    ]
+   ],
+   "incluye": {
+    "tiquete": true,
+    "alojamiento": true,
+    "tours": false,
+    "traslado": false,
+    "asistencia": true
+   },
+   "tours_incluidos": [],
+   "traslados": [
+    "Traslado privado PUJ - hotel Punta Cana",
+    "Traslado privado hotel Punta Cana - PUJ"
+   ],
+   "desde": 5988990,
+   "hasta": 6410990,
+   "n_fechas": 10,
+   "galeria": null,
+   "experiencias": null
+  },
+  {
+   "destino": "Punta Cana",
+   "hotel": "CATALONIA ROYAL LA ROMANA",
+   "alimentacion": "Todo incluido",
+   "habitacion": "Romance Deluxe",
+   "noches": 4,
+   "codigo": "PUJ-CRLR-5D4N-TI-RD",
+   "fechas": [
+    [
+     "2026-08-31",
+     "2026-09-04",
+     5931990,
+     {
+      "ai": "Avianca",
+      "si": "07:35",
+      "li": "11:25",
+      "ar": "Avianca",
+      "sr": "12:50",
+      "lr": "14:35",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-09-28",
+     "2026-10-02",
+     5826990,
+     {
+      "ai": "Avianca",
+      "si": "07:35",
+      "li": "11:25",
+      "ar": "Avianca",
+      "sr": "12:50",
+      "lr": "14:35",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-09-29",
+     "2026-10-03",
+     5539990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:55",
+      "ar": "Wingo",
+      "sr": "13:42",
+      "lr": "15:25",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-14",
+     "2026-10-18",
+     5829990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:55",
+      "ar": "Wingo",
+      "sr": "13:42",
+      "lr": "15:25",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-17",
+     "2026-10-21",
+     5695990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:55",
+      "ar": "Wingo",
+      "sr": "13:42",
+      "lr": "15:25",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-18",
+     "2026-10-22",
+     5762990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:55",
+      "ar": "Wingo",
+      "sr": "15:02",
+      "lr": "16:45",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-20",
+     "2026-10-24",
+     5540990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:55",
+      "ar": "Wingo",
+      "sr": "13:42",
+      "lr": "15:25",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-21",
+     "2026-10-25",
+     5829990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:55",
+      "ar": "Wingo",
+      "sr": "13:46",
+      "lr": "15:30",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-27",
+     "2026-10-31",
+     5600990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:57",
+      "ar": "Wingo",
+      "sr": "13:46",
+      "lr": "15:30",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-28",
+     "2026-11-01",
+     5961990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:57",
+      "ar": "Wingo",
+      "sr": "13:46",
+      "lr": "15:30",
+      "ei": false,
+      "er": false
+     }
+    ]
+   ],
+   "incluye": {
+    "tiquete": true,
+    "alojamiento": true,
+    "tours": false,
+    "traslado": false,
+    "asistencia": true
+   },
+   "tours_incluidos": [],
+   "traslados": [
+    "Traslado privado PUJ - hotel Punta Cana",
+    "Traslado privado hotel Punta Cana - PUJ"
+   ],
+   "desde": 5539990,
+   "hasta": 5961990,
+   "n_fechas": 10,
+   "galeria": null,
+   "experiencias": null
+  },
+  {
+   "destino": "Punta Cana",
+   "hotel": "CATALONIA ROYAL LA ROMANA",
+   "alimentacion": "Todo incluido",
+   "habitacion": "Romance Deluxe Swim Up",
+   "noches": 4,
+   "codigo": "PUJ-CRLR-5D4N-TI-RDSU",
+   "fechas": [
+    [
+     "2026-08-31",
+     "2026-09-04",
+     6288990,
+     {
+      "ai": "Avianca",
+      "si": "07:35",
+      "li": "11:25",
+      "ar": "Avianca",
+      "sr": "12:50",
+      "lr": "14:35",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-09-28",
+     "2026-10-02",
+     6200990,
+     {
+      "ai": "Avianca",
+      "si": "07:35",
+      "li": "11:25",
+      "ar": "Avianca",
+      "sr": "12:50",
+      "lr": "14:35",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-09-29",
+     "2026-10-03",
+     5913990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:55",
+      "ar": "Wingo",
+      "sr": "13:42",
+      "lr": "15:25",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-14",
+     "2026-10-18",
+     6202990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:55",
+      "ar": "Wingo",
+      "sr": "13:42",
+      "lr": "15:25",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-17",
+     "2026-10-21",
+     6069990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:55",
+      "ar": "Wingo",
+      "sr": "13:42",
+      "lr": "15:25",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-18",
+     "2026-10-22",
+     6135990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:55",
+      "ar": "Wingo",
+      "sr": "15:02",
+      "lr": "16:45",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-20",
+     "2026-10-24",
+     5914990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:55",
+      "ar": "Wingo",
+      "sr": "13:42",
+      "lr": "15:25",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-21",
+     "2026-10-25",
+     6202990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:55",
+      "ar": "Wingo",
+      "sr": "13:46",
+      "lr": "15:30",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-27",
+     "2026-10-31",
+     5974990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:57",
+      "ar": "Wingo",
+      "sr": "13:46",
+      "lr": "15:30",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-28",
+     "2026-11-01",
+     6335990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:57",
+      "ar": "Wingo",
+      "sr": "13:46",
+      "lr": "15:30",
+      "ei": false,
+      "er": false
+     }
+    ]
+   ],
+   "incluye": {
+    "tiquete": true,
+    "alojamiento": true,
+    "tours": false,
+    "traslado": false,
+    "asistencia": true
+   },
+   "tours_incluidos": [],
+   "traslados": [
+    "Traslado privado PUJ - hotel Punta Cana",
+    "Traslado privado hotel Punta Cana - PUJ"
+   ],
+   "desde": 5913990,
+   "hasta": 6335990,
+   "n_fechas": 10,
+   "galeria": null,
+   "experiencias": null
+  },
+  {
+   "destino": "Punta Cana",
+   "hotel": "CATALONIA ROYAL LA ROMANA",
+   "alimentacion": "Todo incluido",
+   "habitacion": "Superior Junior Suite",
+   "noches": 4,
+   "codigo": "PUJ-CRLR-5D4N-TI-SJS",
+   "fechas": [
+    [
+     "2026-08-31",
+     "2026-09-04",
+     5717990,
+     {
+      "ai": "Avianca",
+      "si": "07:35",
+      "li": "11:25",
+      "ar": "Avianca",
+      "sr": "12:50",
+      "lr": "14:35",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-09-28",
+     "2026-10-02",
+     5602990,
+     {
+      "ai": "Avianca",
+      "si": "07:35",
+      "li": "11:25",
+      "ar": "Avianca",
+      "sr": "12:50",
+      "lr": "14:35",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-09-29",
+     "2026-10-03",
+     5315990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:55",
+      "ar": "Wingo",
+      "sr": "13:42",
+      "lr": "15:25",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-14",
+     "2026-10-18",
+     5604990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:55",
+      "ar": "Wingo",
+      "sr": "13:42",
+      "lr": "15:25",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-17",
+     "2026-10-21",
+     5471990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:55",
+      "ar": "Wingo",
+      "sr": "13:42",
+      "lr": "15:25",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-18",
+     "2026-10-22",
+     5537990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:55",
+      "ar": "Wingo",
+      "sr": "15:02",
+      "lr": "16:45",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-20",
+     "2026-10-24",
+     5316990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:55",
+      "ar": "Wingo",
+      "sr": "13:42",
+      "lr": "15:25",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-21",
+     "2026-10-25",
+     5604990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:55",
+      "ar": "Wingo",
+      "sr": "13:46",
+      "lr": "15:30",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-27",
+     "2026-10-31",
+     5376990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:57",
+      "ar": "Wingo",
+      "sr": "13:46",
+      "lr": "15:30",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-28",
+     "2026-11-01",
+     5737990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:57",
+      "ar": "Wingo",
+      "sr": "13:46",
+      "lr": "15:30",
+      "ei": false,
+      "er": false
+     }
+    ]
+   ],
+   "incluye": {
+    "tiquete": true,
+    "alojamiento": true,
+    "tours": false,
+    "traslado": false,
+    "asistencia": true
+   },
+   "tours_incluidos": [],
+   "traslados": [
+    "Traslado privado PUJ - hotel Punta Cana",
+    "Traslado privado hotel Punta Cana - PUJ"
+   ],
+   "desde": 5315990,
+   "hasta": 5737990,
+   "n_fechas": 10,
+   "galeria": null,
+   "experiencias": null
+  },
+  {
+   "destino": "Punta Cana",
+   "hotel": "CATALONIA ROYAL LA ROMANA",
+   "alimentacion": "Todo incluido",
+   "habitacion": "Superior Junior Suite Swim Up",
+   "noches": 4,
+   "codigo": "PUJ-CRLR-5D4N-TI-SJSSU",
+   "fechas": [
+    [
+     "2026-08-31",
+     "2026-09-04",
+     6216990,
+     {
+      "ai": "Avianca",
+      "si": "07:35",
+      "li": "11:25",
+      "ar": "Avianca",
+      "sr": "12:50",
+      "lr": "14:35",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-09-28",
+     "2026-10-02",
+     6125990,
+     {
+      "ai": "Avianca",
+      "si": "07:35",
+      "li": "11:25",
+      "ar": "Avianca",
+      "sr": "12:50",
+      "lr": "14:35",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-09-29",
+     "2026-10-03",
+     5838990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:55",
+      "ar": "Wingo",
+      "sr": "13:42",
+      "lr": "15:25",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-14",
+     "2026-10-18",
+     6127990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:55",
+      "ar": "Wingo",
+      "sr": "13:42",
+      "lr": "15:25",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-17",
+     "2026-10-21",
+     5994990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:55",
+      "ar": "Wingo",
+      "sr": "13:42",
+      "lr": "15:25",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-18",
+     "2026-10-22",
+     6060990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:55",
+      "ar": "Wingo",
+      "sr": "15:02",
+      "lr": "16:45",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-20",
+     "2026-10-24",
+     5839990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:55",
+      "ar": "Wingo",
+      "sr": "13:42",
+      "lr": "15:25",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-21",
+     "2026-10-25",
+     6127990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:55",
+      "ar": "Wingo",
+      "sr": "13:46",
+      "lr": "15:30",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-27",
+     "2026-10-31",
+     5899990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:57",
+      "ar": "Wingo",
+      "sr": "13:46",
+      "lr": "15:30",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-28",
+     "2026-11-01",
+     6260990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:57",
+      "ar": "Wingo",
+      "sr": "13:46",
+      "lr": "15:30",
+      "ei": false,
+      "er": false
+     }
+    ]
+   ],
+   "incluye": {
+    "tiquete": true,
+    "alojamiento": true,
+    "tours": false,
+    "traslado": false,
+    "asistencia": true
+   },
+   "tours_incluidos": [],
+   "traslados": [
+    "Traslado privado PUJ - hotel Punta Cana",
+    "Traslado privado hotel Punta Cana - PUJ"
+   ],
+   "desde": 5838990,
+   "hasta": 6260990,
+   "n_fechas": 10,
+   "galeria": null,
+   "experiencias": null
+  },
+  {
+   "destino": "Punta Cana",
+   "hotel": "CATALONIA ROYAL LA ROMANA",
+   "alimentacion": "Todo incluido",
+   "habitacion": "Superior Swim Up",
+   "noches": 4,
+   "codigo": "PUJ-CRLR-5D4N-TI-SSU",
+   "fechas": [
+    [
+     "2026-08-31",
+     "2026-09-04",
+     6145990,
+     {
+      "ai": "Avianca",
+      "si": "07:35",
+      "li": "11:25",
+      "ar": "Avianca",
+      "sr": "12:50",
+      "lr": "14:35",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-09-28",
+     "2026-10-02",
+     6050990,
+     {
+      "ai": "Avianca",
+      "si": "07:35",
+      "li": "11:25",
+      "ar": "Avianca",
+      "sr": "12:50",
+      "lr": "14:35",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-09-29",
+     "2026-10-03",
+     5763990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:55",
+      "ar": "Wingo",
+      "sr": "13:42",
+      "lr": "15:25",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-14",
+     "2026-10-18",
+     6053990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:55",
+      "ar": "Wingo",
+      "sr": "13:42",
+      "lr": "15:25",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-17",
+     "2026-10-21",
+     5920990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:55",
+      "ar": "Wingo",
+      "sr": "13:42",
+      "lr": "15:25",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-18",
+     "2026-10-22",
+     5986990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:55",
+      "ar": "Wingo",
+      "sr": "15:02",
+      "lr": "16:45",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-20",
+     "2026-10-24",
+     5764990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:55",
+      "ar": "Wingo",
+      "sr": "13:42",
+      "lr": "15:25",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-21",
+     "2026-10-25",
+     6053990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:55",
+      "ar": "Wingo",
+      "sr": "13:46",
+      "lr": "15:30",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-27",
+     "2026-10-31",
+     5824990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:57",
+      "ar": "Wingo",
+      "sr": "13:46",
+      "lr": "15:30",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-28",
+     "2026-11-01",
+     6186990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:57",
+      "ar": "Wingo",
+      "sr": "13:46",
+      "lr": "15:30",
+      "ei": false,
+      "er": false
+     }
+    ]
+   ],
+   "incluye": {
+    "tiquete": true,
+    "alojamiento": true,
+    "tours": false,
+    "traslado": false,
+    "asistencia": true
+   },
+   "tours_incluidos": [],
+   "traslados": [
+    "Traslado privado PUJ - hotel Punta Cana",
+    "Traslado privado hotel Punta Cana - PUJ"
+   ],
+   "desde": 5763990,
+   "hasta": 6186990,
+   "n_fechas": 10,
+   "galeria": null,
+   "experiencias": null
+  },
+  {
+   "destino": "Punta Cana",
+   "hotel": "CATALONIA ROYAL LA ROMANA",
+   "alimentacion": "Todo incluido",
+   "habitacion": "Superior",
+   "noches": 4,
+   "codigo": "PUJ-CRLR-5D4N-TI-SUP",
+   "fechas": [
+    [
+     "2026-08-31",
+     "2026-09-04",
+     5503990,
+     {
+      "ai": "Avianca",
+      "si": "07:35",
+      "li": "11:25",
+      "ar": "Avianca",
+      "sr": "12:50",
+      "lr": "14:35",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-09-28",
+     "2026-10-02",
+     5377990,
+     {
+      "ai": "Avianca",
+      "si": "07:35",
+      "li": "11:25",
+      "ar": "Avianca",
+      "sr": "12:50",
+      "lr": "14:35",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-09-29",
+     "2026-10-03",
+     5091990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:55",
+      "ar": "Wingo",
+      "sr": "13:42",
+      "lr": "15:25",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-14",
+     "2026-10-18",
+     5380990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:55",
+      "ar": "Wingo",
+      "sr": "13:42",
+      "lr": "15:25",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-17",
+     "2026-10-21",
+     5247990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:55",
+      "ar": "Wingo",
+      "sr": "13:42",
+      "lr": "15:25",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-18",
+     "2026-10-22",
+     5313990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:55",
+      "ar": "Wingo",
+      "sr": "15:02",
+      "lr": "16:45",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-20",
+     "2026-10-24",
+     5092990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:55",
+      "ar": "Wingo",
+      "sr": "13:42",
+      "lr": "15:25",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-21",
+     "2026-10-25",
+     5380990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:55",
+      "ar": "Wingo",
+      "sr": "13:46",
+      "lr": "15:30",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-27",
+     "2026-10-31",
+     5151990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:57",
+      "ar": "Wingo",
+      "sr": "13:46",
+      "lr": "15:30",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-28",
+     "2026-11-01",
+     5513990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:57",
+      "ar": "Wingo",
+      "sr": "13:46",
+      "lr": "15:30",
+      "ei": false,
+      "er": false
+     }
+    ]
+   ],
+   "incluye": {
+    "tiquete": true,
+    "alojamiento": true,
+    "tours": false,
+    "traslado": false,
+    "asistencia": true
+   },
+   "tours_incluidos": [],
+   "traslados": [
+    "Traslado privado PUJ - hotel Punta Cana",
+    "Traslado privado hotel Punta Cana - PUJ"
+   ],
+   "desde": 5091990,
+   "hasta": 5513990,
+   "n_fechas": 10,
+   "galeria": null,
+   "experiencias": null
+  },
+  {
+   "destino": "Punta Cana",
+   "hotel": "HM ALMA DE BAYAHIBE",
+   "alimentacion": "Todo incluido",
+   "habitacion": "Estandar",
+   "noches": 4,
+   "codigo": "PUJ-HMH-5D4N-TI-STD",
+   "fechas": [
+    [
+     "2026-08-31",
+     "2026-09-04",
+     3846990,
+     {
+      "ai": "Avianca",
+      "si": "07:35",
+      "li": "11:25",
+      "ar": "Avianca",
+      "sr": "12:50",
+      "lr": "14:35",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-09-28",
+     "2026-10-02",
+     3741990,
+     {
+      "ai": "Avianca",
+      "si": "07:35",
+      "li": "11:25",
+      "ar": "Avianca",
+      "sr": "12:50",
+      "lr": "14:35",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-09-29",
+     "2026-10-03",
+     3502990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:55",
+      "ar": "Wingo",
+      "sr": "13:42",
+      "lr": "15:25",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-14",
+     "2026-10-18",
+     3744990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:55",
+      "ar": "Wingo",
+      "sr": "13:42",
+      "lr": "15:25",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-17",
+     "2026-10-21",
+     3633990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:55",
+      "ar": "Wingo",
+      "sr": "13:42",
+      "lr": "15:25",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-18",
+     "2026-10-22",
+     3688990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:55",
+      "ar": "Wingo",
+      "sr": "15:02",
+      "lr": "16:45",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-20",
+     "2026-10-24",
+     3503990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:55",
+      "ar": "Wingo",
+      "sr": "13:42",
+      "lr": "15:25",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-21",
+     "2026-10-25",
+     3744990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:55",
+      "ar": "Wingo",
+      "sr": "13:46",
+      "lr": "15:30",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-27",
+     "2026-10-31",
+     3553990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:57",
+      "ar": "Wingo",
+      "sr": "13:46",
+      "lr": "15:30",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-10-28",
+     "2026-11-01",
+     3854990,
      {
       "ai": "Wingo",
       "si": "09:10",
@@ -12327,8 +14805,8 @@
     "Traslado privado PUJ - hotel Punta Cana",
     "Traslado privado hotel Punta Cana - PUJ"
    ],
-   "desde": 3510990,
-   "hasta": 3861990,
+   "desde": 3502990,
+   "hasta": 3854990,
    "n_fechas": 10,
    "galeria": "https://galerias.trvely.com.co/hm-alma-de-bayahibe/",
    "experiencias": null
@@ -12344,7 +14822,7 @@
     [
      "2026-08-31",
      "2026-09-04",
-     3799990,
+     3792990,
      {
       "ai": "Avianca",
       "si": "07:35",
@@ -12359,7 +14837,7 @@
     [
      "2026-09-28",
      "2026-10-02",
-     3698990,
+     3691990,
      {
       "ai": "Avianca",
       "si": "07:35",
@@ -12374,7 +14852,7 @@
     [
      "2026-09-29",
      "2026-10-03",
-     3459990,
+     3452990,
      {
       "ai": "Wingo",
       "si": "09:10",
@@ -12389,7 +14867,7 @@
     [
      "2026-10-14",
      "2026-10-18",
-     3700990,
+     3693990,
      {
       "ai": "Wingo",
       "si": "09:10",
@@ -12404,7 +14882,7 @@
     [
      "2026-10-17",
      "2026-10-21",
-     3589990,
+     3582990,
      {
       "ai": "Wingo",
       "si": "09:10",
@@ -12419,7 +14897,7 @@
     [
      "2026-10-18",
      "2026-10-22",
-     3644990,
+     3637990,
      {
       "ai": "Wingo",
       "si": "09:10",
@@ -12434,7 +14912,7 @@
     [
      "2026-10-20",
      "2026-10-24",
-     3460990,
+     3453990,
      {
       "ai": "Wingo",
       "si": "09:10",
@@ -12449,7 +14927,7 @@
     [
      "2026-10-21",
      "2026-10-25",
-     3700990,
+     3693990,
      {
       "ai": "Wingo",
       "si": "09:10",
@@ -12464,7 +14942,7 @@
     [
      "2026-10-27",
      "2026-10-31",
-     3509990,
+     3503990,
      {
       "ai": "Wingo",
       "si": "09:10",
@@ -12479,7 +14957,7 @@
     [
      "2026-10-28",
      "2026-11-01",
-     3811990,
+     3804990,
      {
       "ai": "Wingo",
       "si": "09:10",
@@ -12505,8 +14983,8 @@
     "Traslado privado PUJ - hotel Punta Cana",
     "Traslado privado hotel Punta Cana - PUJ"
    ],
-   "desde": 3459990,
-   "hasta": 3811990,
+   "desde": 3452990,
+   "hasta": 3804990,
    "n_fechas": 10,
    "galeria": "https://galerias.trvely.com.co/whala-bavaro/",
    "experiencias": null
@@ -12522,7 +15000,7 @@
     [
      "2026-08-31",
      "2026-09-04",
-     3872990,
+     3864990,
      {
       "ai": "Avianca",
       "si": "07:35",
@@ -12537,7 +15015,7 @@
     [
      "2026-09-28",
      "2026-10-02",
-     3768990,
+     3761990,
      {
       "ai": "Avianca",
       "si": "07:35",
@@ -12552,7 +15030,7 @@
     [
      "2026-09-29",
      "2026-10-03",
-     3529990,
+     3522990,
      {
       "ai": "Wingo",
       "si": "09:10",
@@ -12567,7 +15045,7 @@
     [
      "2026-10-14",
      "2026-10-18",
-     3770990,
+     3763990,
      {
       "ai": "Wingo",
       "si": "09:10",
@@ -12582,7 +15060,7 @@
     [
      "2026-10-17",
      "2026-10-21",
-     3659990,
+     3652990,
      {
       "ai": "Wingo",
       "si": "09:10",
@@ -12597,7 +15075,7 @@
     [
      "2026-10-18",
      "2026-10-22",
-     3714990,
+     3707990,
      {
       "ai": "Wingo",
       "si": "09:10",
@@ -12612,7 +15090,7 @@
     [
      "2026-10-20",
      "2026-10-24",
-     3530990,
+     3523990,
      {
       "ai": "Wingo",
       "si": "09:10",
@@ -12627,7 +15105,7 @@
     [
      "2026-10-21",
      "2026-10-25",
-     3770990,
+     3763990,
      {
       "ai": "Wingo",
       "si": "09:10",
@@ -12642,7 +15120,7 @@
     [
      "2026-10-27",
      "2026-10-31",
-     3580990,
+     3572990,
      {
       "ai": "Wingo",
       "si": "09:10",
@@ -12657,7 +15135,7 @@
     [
      "2026-10-28",
      "2026-11-01",
-     3881990,
+     3874990,
      {
       "ai": "Wingo",
       "si": "09:10",
@@ -12683,8 +15161,8 @@
     "Traslado privado PUJ - hotel Punta Cana",
     "Traslado privado hotel Punta Cana - PUJ"
    ],
-   "desde": 3529990,
-   "hasta": 3881990,
+   "desde": 3522990,
+   "hasta": 3874990,
    "n_fechas": 10,
    "galeria": "https://galerias.trvely.com.co/whala-bavaro/",
    "experiencias": null
@@ -13181,7 +15659,7 @@
     [
      "2026-08-28",
      "2026-08-31",
-     3254990,
+     3246990,
      {
       "ai": "Arajet",
       "si": "11:05",
@@ -13196,7 +15674,7 @@
     [
      "2026-08-30",
      "2026-09-02",
-     3221990,
+     3214990,
      {
       "ai": "Avianca",
       "si": "08:15",
@@ -13211,7 +15689,7 @@
     [
      "2026-09-04",
      "2026-09-07",
-     3112990,
+     3105990,
      {
       "ai": "Avianca",
       "si": "08:15",
@@ -13226,7 +15704,7 @@
     [
      "2026-09-13",
      "2026-09-16",
-     3112990,
+     3105990,
      {
       "ai": "Avianca",
       "si": "08:15",
@@ -13241,7 +15719,7 @@
     [
      "2026-09-18",
      "2026-09-21",
-     3112990,
+     3105990,
      {
       "ai": "Avianca",
       "si": "08:15",
@@ -13256,7 +15734,7 @@
     [
      "2026-09-25",
      "2026-09-28",
-     3112990,
+     3105990,
      {
       "ai": "Avianca",
       "si": "08:15",
@@ -13271,7 +15749,7 @@
     [
      "2026-10-11",
      "2026-10-14",
-     3112990,
+     3105990,
      {
       "ai": "Avianca",
       "si": "08:15",
@@ -13286,7 +15764,7 @@
     [
      "2026-10-16",
      "2026-10-19",
-     3112990,
+     3105990,
      {
       "ai": "Avianca",
       "si": "08:15",
@@ -13301,7 +15779,7 @@
     [
      "2026-10-23",
      "2026-10-26",
-     3089990,
+     3082990,
      {
       "ai": "Arajet",
       "si": "11:05",
@@ -13326,8 +15804,8 @@
     "Traslado privado SDQ - Boca Chica",
     "Traslado privado Boca Chica - SDQ"
    ],
-   "desde": 3089990,
-   "hasta": 3254990,
+   "desde": 3082990,
+   "hasta": 3246990,
    "n_fechas": 9,
    "galeria": "https://galerias.trvely.com.co/whala-bocachica/",
    "experiencias": null
@@ -13343,7 +15821,7 @@
     [
      "2026-08-28",
      "2026-08-31",
-     3114990,
+     3107990,
      {
       "ai": "Arajet",
       "si": "11:05",
@@ -13358,7 +15836,7 @@
     [
      "2026-08-30",
      "2026-09-02",
-     3090990,
+     3083990,
      {
       "ai": "Avianca",
       "si": "08:15",
@@ -13373,7 +15851,7 @@
     [
      "2026-09-04",
      "2026-09-07",
-     2997990,
+     2991990,
      {
       "ai": "Avianca",
       "si": "08:15",
@@ -13388,7 +15866,7 @@
     [
      "2026-09-13",
      "2026-09-16",
-     2997990,
+     2991990,
      {
       "ai": "Avianca",
       "si": "08:15",
@@ -13403,7 +15881,7 @@
     [
      "2026-09-18",
      "2026-09-21",
-     2997990,
+     2991990,
      {
       "ai": "Avianca",
       "si": "08:15",
@@ -13418,7 +15896,7 @@
     [
      "2026-09-25",
      "2026-09-28",
-     2997990,
+     2991990,
      {
       "ai": "Avianca",
       "si": "08:15",
@@ -13433,7 +15911,7 @@
     [
      "2026-10-11",
      "2026-10-14",
-     2997990,
+     2991990,
      {
       "ai": "Avianca",
       "si": "08:15",
@@ -13448,7 +15926,7 @@
     [
      "2026-10-16",
      "2026-10-19",
-     2997990,
+     2991990,
      {
       "ai": "Avianca",
       "si": "08:15",
@@ -13463,7 +15941,7 @@
     [
      "2026-10-23",
      "2026-10-26",
-     2975990,
+     2969990,
      {
       "ai": "Arajet",
       "si": "11:05",
@@ -13488,8 +15966,8 @@
     "Traslado privado SDQ - Boca Chica",
     "Traslado privado Boca Chica - SDQ"
    ],
-   "desde": 2975990,
-   "hasta": 3114990,
+   "desde": 2969990,
+   "hasta": 3107990,
    "n_fechas": 9,
    "galeria": "https://galerias.trvely.com.co/whala-bocachica/",
    "experiencias": null
@@ -13505,7 +15983,7 @@
     [
      "2026-08-28",
      "2026-08-31",
-     3045990,
+     3038990,
      {
       "ai": "Arajet",
       "si": "11:05",
@@ -13520,7 +15998,7 @@
     [
      "2026-08-30",
      "2026-09-02",
-     3025990,
+     3018990,
      {
       "ai": "Avianca",
       "si": "08:15",
@@ -13535,7 +16013,7 @@
     [
      "2026-09-04",
      "2026-09-07",
-     2940990,
+     2934990,
      {
       "ai": "Avianca",
       "si": "08:15",
@@ -13550,7 +16028,7 @@
     [
      "2026-09-13",
      "2026-09-16",
-     2940990,
+     2934990,
      {
       "ai": "Avianca",
       "si": "08:15",
@@ -13565,7 +16043,7 @@
     [
      "2026-09-18",
      "2026-09-21",
-     2940990,
+     2934990,
      {
       "ai": "Avianca",
       "si": "08:15",
@@ -13580,7 +16058,7 @@
     [
      "2026-09-25",
      "2026-09-28",
-     2940990,
+     2934990,
      {
       "ai": "Avianca",
       "si": "08:15",
@@ -13595,7 +16073,7 @@
     [
      "2026-10-11",
      "2026-10-14",
-     2940990,
+     2934990,
      {
       "ai": "Avianca",
       "si": "08:15",
@@ -13610,7 +16088,7 @@
     [
      "2026-10-16",
      "2026-10-19",
-     2940990,
+     2934990,
      {
       "ai": "Avianca",
       "si": "08:15",
@@ -13625,7 +16103,7 @@
     [
      "2026-10-23",
      "2026-10-26",
-     2918990,
+     2912990,
      {
       "ai": "Arajet",
       "si": "11:05",
@@ -13650,8 +16128,8 @@
     "Traslado privado SDQ - Boca Chica",
     "Traslado privado Boca Chica - SDQ"
    ],
-   "desde": 2918990,
-   "hasta": 3045990,
+   "desde": 2912990,
+   "hasta": 3038990,
    "n_fechas": 9,
    "galeria": "https://galerias.trvely.com.co/whala-bocachica/",
    "experiencias": null
