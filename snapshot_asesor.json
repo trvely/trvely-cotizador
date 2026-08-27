@@ -1,6 +1,6 @@
 {
  "generado": "2026-08-27",
- "generado_hora": "08:36",
+ "generado_hora": "17:57",
  "acomodacion": "doble",
  "productos": [
   {
@@ -9233,7 +9233,7 @@
     [
      "2026-10-12",
      "2026-10-15",
-     3221990,
+     3232990,
      {
       "ai": "Avianca",
       "si": "08:15",
@@ -9248,7 +9248,7 @@
     [
      "2026-10-25",
      "2026-10-28",
-     2966990,
+     2977990,
      {
       "ai": "Arajet",
       "si": "10:05",
@@ -9273,8 +9273,8 @@
     "Traslado privado SDQ - Juan Dolio",
     "Traslado privado Juan Dolio - SDQ"
    ],
-   "desde": 2966990,
-   "hasta": 3221990,
+   "desde": 2977990,
+   "hasta": 3232990,
    "n_fechas": 2,
    "galeria": "https://galerias.trvely.com.co/coral-costa-caribe/",
    "experiencias": null
@@ -9961,7 +9961,7 @@
     [
      "2026-09-29",
      "2026-10-03",
-     3743990,
+     3757990,
      {
       "ai": "Wingo",
       "si": "09:10",
@@ -9976,7 +9976,7 @@
     [
      "2026-10-27",
      "2026-10-31",
-     3687990,
+     3701990,
      {
       "ai": "Wingo",
       "si": "09:10",
@@ -9991,7 +9991,7 @@
     [
      "2026-11-01",
      "2026-11-05",
-     3642990,
+     3657990,
      {
       "ai": "Wingo",
       "si": "09:10",
@@ -10006,7 +10006,7 @@
     [
      "2026-11-20",
      "2026-11-24",
-     3808990,
+     3823990,
      {
       "ai": "Wingo",
       "si": "09:10",
@@ -10021,7 +10021,7 @@
     [
      "2026-11-21",
      "2026-11-25",
-     3697990,
+     3712990,
      {
       "ai": "Wingo",
       "si": "08:25",
@@ -10047,8 +10047,8 @@
     "Traslado privado PUJ - hotel Punta Cana",
     "Traslado privado hotel Punta Cana - PUJ"
    ],
-   "desde": 3642990,
-   "hasta": 3808990,
+   "desde": 3657990,
+   "hasta": 3823990,
    "n_fechas": 5,
    "galeria": "https://galerias.trvely.com.co/hm-alma-de-bayahibe/",
    "experiencias": null
@@ -10064,7 +10064,7 @@
     [
      "2026-09-29",
      "2026-10-03",
-     3538990,
+     3549990,
      {
       "ai": "Wingo",
       "si": "09:10",
@@ -10079,7 +10079,7 @@
     [
      "2026-10-27",
      "2026-10-31",
-     3482990,
+     3494990,
      {
       "ai": "Wingo",
       "si": "09:10",
@@ -10094,7 +10094,7 @@
     [
      "2026-11-01",
      "2026-11-05",
-     3453990,
+     3466990,
      {
       "ai": "Wingo",
       "si": "09:10",
@@ -10109,7 +10109,7 @@
     [
      "2026-11-20",
      "2026-11-24",
-     3620990,
+     3632990,
      {
       "ai": "Wingo",
       "si": "09:10",
@@ -10124,7 +10124,7 @@
     [
      "2026-11-21",
      "2026-11-25",
-     3509990,
+     3521990,
      {
       "ai": "Wingo",
       "si": "08:25",
@@ -10150,8 +10150,8 @@
     "Traslado privado PUJ - hotel Punta Cana",
     "Traslado privado hotel Punta Cana - PUJ"
    ],
-   "desde": 3453990,
-   "hasta": 3620990,
+   "desde": 3466990,
+   "hasta": 3632990,
    "n_fechas": 5,
    "galeria": "https://galerias.trvely.com.co/whala-bavaro/",
    "experiencias": null
@@ -10167,7 +10167,7 @@
     [
      "2026-09-29",
      "2026-10-03",
-     3606990,
+     3618990,
      {
       "ai": "Wingo",
       "si": "09:10",
@@ -10182,7 +10182,7 @@
     [
      "2026-10-27",
      "2026-10-31",
-     3550990,
+     3563990,
      {
       "ai": "Wingo",
       "si": "09:10",
@@ -10197,7 +10197,7 @@
     [
      "2026-11-01",
      "2026-11-05",
-     3528990,
+     3542990,
      {
       "ai": "Wingo",
       "si": "09:10",
@@ -10212,7 +10212,7 @@
     [
      "2026-11-20",
      "2026-11-24",
-     3695990,
+     3708990,
      {
       "ai": "Wingo",
       "si": "09:10",
@@ -10227,7 +10227,7 @@
     [
      "2026-11-21",
      "2026-11-25",
-     3583990,
+     3597990,
      {
       "ai": "Wingo",
       "si": "08:25",
@@ -10253,8 +10253,8 @@
     "Traslado privado PUJ - hotel Punta Cana",
     "Traslado privado hotel Punta Cana - PUJ"
    ],
-   "desde": 3528990,
-   "hasta": 3695990,
+   "desde": 3542990,
+   "hasta": 3708990,
    "n_fechas": 5,
    "galeria": "https://galerias.trvely.com.co/whala-bavaro/",
    "experiencias": null
@@ -10661,7 +10661,7 @@
     [
      "2026-10-12",
      "2026-10-15",
-     3287990,
+     3298990,
      {
       "ai": "Avianca",
       "si": "08:15",
@@ -10676,7 +10676,7 @@
     [
      "2026-10-25",
      "2026-10-28",
-     3031990,
+     3043990,
      {
       "ai": "Arajet",
       "si": "10:05",
@@ -10701,8 +10701,8 @@
     "Traslado privado SDQ - Boca Chica",
     "Traslado privado Boca Chica - SDQ"
    ],
-   "desde": 3031990,
-   "hasta": 3287990,
+   "desde": 3043990,
+   "hasta": 3298990,
    "n_fechas": 2,
    "galeria": "https://galerias.trvely.com.co/whala-bocachica/",
    "experiencias": null
@@ -10718,7 +10718,7 @@
     [
      "2026-10-12",
      "2026-10-15",
-     3176990,
+     3186990,
      {
       "ai": "Avianca",
       "si": "08:15",
@@ -10733,7 +10733,7 @@
     [
      "2026-10-25",
      "2026-10-28",
-     2921990,
+     2931990,
      {
       "ai": "Arajet",
       "si": "10:05",
@@ -10758,8 +10758,8 @@
     "Traslado privado SDQ - Boca Chica",
     "Traslado privado Boca Chica - SDQ"
    ],
-   "desde": 2921990,
-   "hasta": 3176990,
+   "desde": 2931990,
+   "hasta": 3186990,
    "n_fechas": 2,
    "galeria": "https://galerias.trvely.com.co/whala-bocachica/",
    "experiencias": null
@@ -10775,7 +10775,7 @@
     [
      "2026-10-12",
      "2026-10-15",
-     3121990,
+     3130990,
      {
       "ai": "Avianca",
       "si": "08:15",
@@ -10790,7 +10790,7 @@
     [
      "2026-10-25",
      "2026-10-28",
-     2865990,
+     2875990,
      {
       "ai": "Arajet",
       "si": "10:05",
@@ -10815,8 +10815,8 @@
     "Traslado privado SDQ - Boca Chica",
     "Traslado privado Boca Chica - SDQ"
    ],
-   "desde": 2865990,
-   "hasta": 3121990,
+   "desde": 2875990,
+   "hasta": 3130990,
    "n_fechas": 2,
    "galeria": "https://galerias.trvely.com.co/whala-bocachica/",
    "experiencias": null
