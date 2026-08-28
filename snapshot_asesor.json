@@ -1,6 +1,6 @@
 {
  "generado": "2026-08-28",
- "generado_hora": "12:41",
+ "generado_hora": "14:37",
  "acomodacion": "doble",
  "productos": [
   {
@@ -9799,6 +9799,1434 @@
    "n_fechas": 9,
    "galeria": "https://galerias.trvely.com.co/sauces-del-estadio/",
    "experiencias": "https://experiencias.trvely.com.co/medellin/"
+  },
+  {
+   "destino": "Punta Cana",
+   "hotel": "CATALONIA ROYAL BAVARO",
+   "alimentacion": "Todo incluido",
+   "habitacion": "Junior Suite Superior",
+   "noches": 4,
+   "codigo": "PUJ-CRB-5D4N-TI-JSS",
+   "fechas": [
+    [
+     "2026-10-17",
+     "2026-10-21",
+     4033990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:55",
+      "ar": "Wingo",
+      "sr": "13:42",
+      "lr": "15:25",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-01",
+     "2026-11-05",
+     4114990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:57",
+      "ar": "Wingo",
+      "sr": "15:06",
+      "lr": "16:50",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-03",
+     "2026-11-07",
+     4336990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:57",
+      "ar": "Wingo",
+      "sr": "13:46",
+      "lr": "15:30",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-21",
+     "2026-11-25",
+     4169990,
+     {
+      "ai": "Wingo",
+      "si": "08:25",
+      "li": "12:12",
+      "ar": "Wingo",
+      "sr": "13:46",
+      "lr": "15:30",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-22",
+     "2026-11-26",
+     4281990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:57",
+      "ar": "Wingo",
+      "sr": "15:06",
+      "lr": "16:50",
+      "ei": false,
+      "er": false
+     }
+    ]
+   ],
+   "incluye": {
+    "tiquete": true,
+    "alojamiento": true,
+    "tours": false,
+    "traslado": true,
+    "asistencia": true
+   },
+   "tours_incluidos": [],
+   "traslados": [
+    "Traslado privado PUJ - hotel Punta Cana",
+    "Traslado privado hotel Punta Cana - PUJ"
+   ],
+   "desde": 4033990,
+   "hasta": 4336990,
+   "n_fechas": 5,
+   "galeria": "https://galerias.trvely.com.co/catalonia-royal-bavaro/",
+   "experiencias": null
+  },
+  {
+   "destino": "Punta Cana",
+   "hotel": "CATALONIA ROYAL BAVARO",
+   "alimentacion": "Todo incluido",
+   "habitacion": "Privileged Deluxe Junior Suite",
+   "noches": 4,
+   "codigo": "PUJ-CRB-5D4N-TI-PDJS",
+   "fechas": [
+    [
+     "2026-10-17",
+     "2026-10-21",
+     4211990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:55",
+      "ar": "Wingo",
+      "sr": "13:42",
+      "lr": "15:25",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-01",
+     "2026-11-05",
+     4302990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:57",
+      "ar": "Wingo",
+      "sr": "15:06",
+      "lr": "16:50",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-03",
+     "2026-11-07",
+     4524990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:57",
+      "ar": "Wingo",
+      "sr": "13:46",
+      "lr": "15:30",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-21",
+     "2026-11-25",
+     4357990,
+     {
+      "ai": "Wingo",
+      "si": "08:25",
+      "li": "12:12",
+      "ar": "Wingo",
+      "sr": "13:46",
+      "lr": "15:30",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-22",
+     "2026-11-26",
+     4468990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:57",
+      "ar": "Wingo",
+      "sr": "15:06",
+      "lr": "16:50",
+      "ei": false,
+      "er": false
+     }
+    ]
+   ],
+   "incluye": {
+    "tiquete": true,
+    "alojamiento": true,
+    "tours": false,
+    "traslado": true,
+    "asistencia": true
+   },
+   "tours_incluidos": [],
+   "traslados": [
+    "Traslado privado PUJ - hotel Punta Cana",
+    "Traslado privado hotel Punta Cana - PUJ"
+   ],
+   "desde": 4211990,
+   "hasta": 4524990,
+   "n_fechas": 5,
+   "galeria": "https://galerias.trvely.com.co/catalonia-royal-bavaro/",
+   "experiencias": null
+  },
+  {
+   "destino": "Punta Cana",
+   "hotel": "CATALONIA ROYAL BAVARO",
+   "alimentacion": "Todo incluido",
+   "habitacion": "Privileged Deluxe & Swimming Pool",
+   "noches": 4,
+   "codigo": "PUJ-CRB-5D4N-TI-PDSP",
+   "fechas": [
+    [
+     "2026-10-17",
+     "2026-10-21",
+     4758990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:55",
+      "ar": "Wingo",
+      "sr": "13:42",
+      "lr": "15:25",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-01",
+     "2026-11-05",
+     4902990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:57",
+      "ar": "Wingo",
+      "sr": "15:06",
+      "lr": "16:50",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-03",
+     "2026-11-07",
+     5168990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:57",
+      "ar": "Wingo",
+      "sr": "13:46",
+      "lr": "15:30",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-21",
+     "2026-11-25",
+     4968990,
+     {
+      "ai": "Wingo",
+      "si": "08:25",
+      "li": "12:12",
+      "ar": "Wingo",
+      "sr": "13:46",
+      "lr": "15:30",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-22",
+     "2026-11-26",
+     5101990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:57",
+      "ar": "Wingo",
+      "sr": "15:06",
+      "lr": "16:50",
+      "ei": false,
+      "er": false
+     }
+    ]
+   ],
+   "incluye": {
+    "tiquete": true,
+    "alojamiento": true,
+    "tours": false,
+    "traslado": true,
+    "asistencia": true
+   },
+   "tours_incluidos": [],
+   "traslados": [
+    "Traslado privado PUJ - hotel Punta Cana",
+    "Traslado privado hotel Punta Cana - PUJ"
+   ],
+   "desde": 4758990,
+   "hasta": 5168990,
+   "n_fechas": 5,
+   "galeria": "https://galerias.trvely.com.co/catalonia-royal-bavaro/",
+   "experiencias": null
+  },
+  {
+   "destino": "Punta Cana",
+   "hotel": "CATALONIA ROYAL BAVARO",
+   "alimentacion": "Todo incluido",
+   "habitacion": "Privileged Duplex Suite & Swimming Pool",
+   "noches": 4,
+   "codigo": "PUJ-CRB-5D4N-TI-PDXSP",
+   "fechas": [
+    [
+     "2026-10-17",
+     "2026-10-21",
+     5506990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:55",
+      "ar": "Wingo",
+      "sr": "13:42",
+      "lr": "15:25",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-01",
+     "2026-11-05",
+     5690990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:57",
+      "ar": "Wingo",
+      "sr": "15:06",
+      "lr": "16:50",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-03",
+     "2026-11-07",
+     5956990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:57",
+      "ar": "Wingo",
+      "sr": "13:46",
+      "lr": "15:30",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-21",
+     "2026-11-25",
+     5756990,
+     {
+      "ai": "Wingo",
+      "si": "08:25",
+      "li": "12:12",
+      "ar": "Wingo",
+      "sr": "13:46",
+      "lr": "15:30",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-22",
+     "2026-11-26",
+     5890990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:57",
+      "ar": "Wingo",
+      "sr": "15:06",
+      "lr": "16:50",
+      "ei": false,
+      "er": false
+     }
+    ]
+   ],
+   "incluye": {
+    "tiquete": true,
+    "alojamiento": true,
+    "tours": false,
+    "traslado": true,
+    "asistencia": true
+   },
+   "tours_incluidos": [],
+   "traslados": [
+    "Traslado privado PUJ - hotel Punta Cana",
+    "Traslado privado hotel Punta Cana - PUJ"
+   ],
+   "desde": 5506990,
+   "hasta": 5956990,
+   "n_fechas": 5,
+   "galeria": "https://galerias.trvely.com.co/catalonia-royal-bavaro/",
+   "experiencias": null
+  },
+  {
+   "destino": "Punta Cana",
+   "hotel": "CATALONIA ROYAL BAVARO",
+   "alimentacion": "Todo incluido",
+   "habitacion": "Premium Junior Suite",
+   "noches": 4,
+   "codigo": "PUJ-CRB-5D4N-TI-PJS",
+   "fechas": [
+    [
+     "2026-10-17",
+     "2026-10-21",
+     4122990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:55",
+      "ar": "Wingo",
+      "sr": "13:42",
+      "lr": "15:25",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-01",
+     "2026-11-05",
+     4208990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:57",
+      "ar": "Wingo",
+      "sr": "15:06",
+      "lr": "16:50",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-03",
+     "2026-11-07",
+     4430990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:57",
+      "ar": "Wingo",
+      "sr": "13:46",
+      "lr": "15:30",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-21",
+     "2026-11-25",
+     4263990,
+     {
+      "ai": "Wingo",
+      "si": "08:25",
+      "li": "12:12",
+      "ar": "Wingo",
+      "sr": "13:46",
+      "lr": "15:30",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-22",
+     "2026-11-26",
+     4374990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:57",
+      "ar": "Wingo",
+      "sr": "15:06",
+      "lr": "16:50",
+      "ei": false,
+      "er": false
+     }
+    ]
+   ],
+   "incluye": {
+    "tiquete": true,
+    "alojamiento": true,
+    "tours": false,
+    "traslado": true,
+    "asistencia": true
+   },
+   "tours_incluidos": [],
+   "traslados": [
+    "Traslado privado PUJ - hotel Punta Cana",
+    "Traslado privado hotel Punta Cana - PUJ"
+   ],
+   "desde": 4122990,
+   "hasta": 4430990,
+   "n_fechas": 5,
+   "galeria": "https://galerias.trvely.com.co/catalonia-royal-bavaro/",
+   "experiencias": null
+  },
+  {
+   "destino": "Punta Cana",
+   "hotel": "CATALONIA ROYAL BAVARO",
+   "alimentacion": "Todo incluido",
+   "habitacion": "Privileged Romance Deluxe Junior Suite",
+   "noches": 4,
+   "codigo": "PUJ-CRB-5D4N-TI-PRDJS",
+   "fechas": [
+    [
+     "2026-10-17",
+     "2026-10-21",
+     4344990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:55",
+      "ar": "Wingo",
+      "sr": "13:42",
+      "lr": "15:25",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-01",
+     "2026-11-05",
+     4442990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:57",
+      "ar": "Wingo",
+      "sr": "15:06",
+      "lr": "16:50",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-03",
+     "2026-11-07",
+     4664990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:57",
+      "ar": "Wingo",
+      "sr": "13:46",
+      "lr": "15:30",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-21",
+     "2026-11-25",
+     4498990,
+     {
+      "ai": "Wingo",
+      "si": "08:25",
+      "li": "12:12",
+      "ar": "Wingo",
+      "sr": "13:46",
+      "lr": "15:30",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-22",
+     "2026-11-26",
+     4609990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:57",
+      "ar": "Wingo",
+      "sr": "15:06",
+      "lr": "16:50",
+      "ei": false,
+      "er": false
+     }
+    ]
+   ],
+   "incluye": {
+    "tiquete": true,
+    "alojamiento": true,
+    "tours": false,
+    "traslado": true,
+    "asistencia": true
+   },
+   "tours_incluidos": [],
+   "traslados": [
+    "Traslado privado PUJ - hotel Punta Cana",
+    "Traslado privado hotel Punta Cana - PUJ"
+   ],
+   "desde": 4344990,
+   "hasta": 4664990,
+   "n_fechas": 5,
+   "galeria": "https://galerias.trvely.com.co/catalonia-royal-bavaro/",
+   "experiencias": null
+  },
+  {
+   "destino": "Punta Cana",
+   "hotel": "CATALONIA ROYAL LA ROMANA",
+   "alimentacion": "Todo incluido",
+   "habitacion": "Deluxe Junior Suite",
+   "noches": 4,
+   "codigo": "PUJ-CRLR-5D4N-TI-DJS",
+   "fechas": [
+    [
+     "2026-10-17",
+     "2026-10-21",
+     5676990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:55",
+      "ar": "Wingo",
+      "sr": "13:42",
+      "lr": "15:25",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-01",
+     "2026-11-05",
+     5856990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:57",
+      "ar": "Wingo",
+      "sr": "15:06",
+      "lr": "16:50",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-03",
+     "2026-11-07",
+     6122990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:57",
+      "ar": "Wingo",
+      "sr": "13:46",
+      "lr": "15:30",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-21",
+     "2026-11-25",
+     5922990,
+     {
+      "ai": "Wingo",
+      "si": "08:25",
+      "li": "12:12",
+      "ar": "Wingo",
+      "sr": "13:46",
+      "lr": "15:30",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-22",
+     "2026-11-26",
+     6055990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:57",
+      "ar": "Wingo",
+      "sr": "15:06",
+      "lr": "16:50",
+      "ei": false,
+      "er": false
+     }
+    ]
+   ],
+   "incluye": {
+    "tiquete": true,
+    "alojamiento": true,
+    "tours": false,
+    "traslado": true,
+    "asistencia": true
+   },
+   "tours_incluidos": [],
+   "traslados": [
+    "Traslado privado PUJ - hotel Punta Cana",
+    "Traslado privado hotel Punta Cana - PUJ"
+   ],
+   "desde": 5676990,
+   "hasta": 6122990,
+   "n_fechas": 5,
+   "galeria": "https://galerias.trvely.com.co/catalonia-royal-la-romana/",
+   "experiencias": null
+  },
+  {
+   "destino": "Punta Cana",
+   "hotel": "CATALONIA ROYAL LA ROMANA",
+   "alimentacion": "Todo incluido",
+   "habitacion": "Duplex Suite & Swimming Pool",
+   "noches": 4,
+   "codigo": "PUJ-CRLR-5D4N-TI-DXSP",
+   "fechas": [
+    [
+     "2026-10-17",
+     "2026-10-21",
+     6163990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:55",
+      "ar": "Wingo",
+      "sr": "13:42",
+      "lr": "15:25",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-01",
+     "2026-11-05",
+     6323990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:57",
+      "ar": "Wingo",
+      "sr": "15:06",
+      "lr": "16:50",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-03",
+     "2026-11-07",
+     6590990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:57",
+      "ar": "Wingo",
+      "sr": "13:46",
+      "lr": "15:30",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-21",
+     "2026-11-25",
+     6390990,
+     {
+      "ai": "Wingo",
+      "si": "08:25",
+      "li": "12:12",
+      "ar": "Wingo",
+      "sr": "13:46",
+      "lr": "15:30",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-22",
+     "2026-11-26",
+     6523990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:57",
+      "ar": "Wingo",
+      "sr": "15:06",
+      "lr": "16:50",
+      "ei": false,
+      "er": false
+     }
+    ]
+   ],
+   "incluye": {
+    "tiquete": true,
+    "alojamiento": true,
+    "tours": false,
+    "traslado": true,
+    "asistencia": true
+   },
+   "tours_incluidos": [],
+   "traslados": [
+    "Traslado privado PUJ - hotel Punta Cana",
+    "Traslado privado hotel Punta Cana - PUJ"
+   ],
+   "desde": 6163990,
+   "hasta": 6590990,
+   "n_fechas": 5,
+   "galeria": "https://galerias.trvely.com.co/catalonia-royal-la-romana/",
+   "experiencias": null
+  },
+  {
+   "destino": "Punta Cana",
+   "hotel": "CATALONIA ROYAL LA ROMANA",
+   "alimentacion": "Todo incluido",
+   "habitacion": "Romance Deluxe",
+   "noches": 4,
+   "codigo": "PUJ-CRLR-5D4N-TI-RD",
+   "fechas": [
+    [
+     "2026-10-17",
+     "2026-10-21",
+     5746990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:55",
+      "ar": "Wingo",
+      "sr": "13:42",
+      "lr": "15:25",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-01",
+     "2026-11-05",
+     5922990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:57",
+      "ar": "Wingo",
+      "sr": "15:06",
+      "lr": "16:50",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-03",
+     "2026-11-07",
+     6189990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:57",
+      "ar": "Wingo",
+      "sr": "13:46",
+      "lr": "15:30",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-21",
+     "2026-11-25",
+     5989990,
+     {
+      "ai": "Wingo",
+      "si": "08:25",
+      "li": "12:12",
+      "ar": "Wingo",
+      "sr": "13:46",
+      "lr": "15:30",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-22",
+     "2026-11-26",
+     6122990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:57",
+      "ar": "Wingo",
+      "sr": "15:06",
+      "lr": "16:50",
+      "ei": false,
+      "er": false
+     }
+    ]
+   ],
+   "incluye": {
+    "tiquete": true,
+    "alojamiento": true,
+    "tours": false,
+    "traslado": true,
+    "asistencia": true
+   },
+   "tours_incluidos": [],
+   "traslados": [
+    "Traslado privado PUJ - hotel Punta Cana",
+    "Traslado privado hotel Punta Cana - PUJ"
+   ],
+   "desde": 5746990,
+   "hasta": 6189990,
+   "n_fechas": 5,
+   "galeria": "https://galerias.trvely.com.co/catalonia-royal-la-romana/",
+   "experiencias": null
+  },
+  {
+   "destino": "Punta Cana",
+   "hotel": "CATALONIA ROYAL LA ROMANA",
+   "alimentacion": "Todo incluido",
+   "habitacion": "Romance Deluxe Swim Up",
+   "noches": 4,
+   "codigo": "PUJ-CRLR-5D4N-TI-RDSU",
+   "fechas": [
+    [
+     "2026-10-17",
+     "2026-10-21",
+     6094990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:55",
+      "ar": "Wingo",
+      "sr": "13:42",
+      "lr": "15:25",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-01",
+     "2026-11-05",
+     6256990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:57",
+      "ar": "Wingo",
+      "sr": "15:06",
+      "lr": "16:50",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-03",
+     "2026-11-07",
+     6523990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:57",
+      "ar": "Wingo",
+      "sr": "13:46",
+      "lr": "15:30",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-21",
+     "2026-11-25",
+     6323990,
+     {
+      "ai": "Wingo",
+      "si": "08:25",
+      "li": "12:12",
+      "ar": "Wingo",
+      "sr": "13:46",
+      "lr": "15:30",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-22",
+     "2026-11-26",
+     6456990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:57",
+      "ar": "Wingo",
+      "sr": "15:06",
+      "lr": "16:50",
+      "ei": false,
+      "er": false
+     }
+    ]
+   ],
+   "incluye": {
+    "tiquete": true,
+    "alojamiento": true,
+    "tours": false,
+    "traslado": true,
+    "asistencia": true
+   },
+   "tours_incluidos": [],
+   "traslados": [
+    "Traslado privado PUJ - hotel Punta Cana",
+    "Traslado privado hotel Punta Cana - PUJ"
+   ],
+   "desde": 6094990,
+   "hasta": 6523990,
+   "n_fechas": 5,
+   "galeria": "https://galerias.trvely.com.co/catalonia-royal-la-romana/",
+   "experiencias": null
+  },
+  {
+   "destino": "Punta Cana",
+   "hotel": "CATALONIA ROYAL LA ROMANA",
+   "alimentacion": "Todo incluido",
+   "habitacion": "Superior Junior Suite",
+   "noches": 4,
+   "codigo": "PUJ-CRLR-5D4N-TI-SJS",
+   "fechas": [
+    [
+     "2026-10-17",
+     "2026-10-21",
+     5537990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:55",
+      "ar": "Wingo",
+      "sr": "13:42",
+      "lr": "15:25",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-01",
+     "2026-11-05",
+     5722990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:57",
+      "ar": "Wingo",
+      "sr": "15:06",
+      "lr": "16:50",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-03",
+     "2026-11-07",
+     5988990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:57",
+      "ar": "Wingo",
+      "sr": "13:46",
+      "lr": "15:30",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-21",
+     "2026-11-25",
+     5789990,
+     {
+      "ai": "Wingo",
+      "si": "08:25",
+      "li": "12:12",
+      "ar": "Wingo",
+      "sr": "13:46",
+      "lr": "15:30",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-22",
+     "2026-11-26",
+     5922990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:57",
+      "ar": "Wingo",
+      "sr": "15:06",
+      "lr": "16:50",
+      "ei": false,
+      "er": false
+     }
+    ]
+   ],
+   "incluye": {
+    "tiquete": true,
+    "alojamiento": true,
+    "tours": false,
+    "traslado": true,
+    "asistencia": true
+   },
+   "tours_incluidos": [],
+   "traslados": [
+    "Traslado privado PUJ - hotel Punta Cana",
+    "Traslado privado hotel Punta Cana - PUJ"
+   ],
+   "desde": 5537990,
+   "hasta": 5988990,
+   "n_fechas": 5,
+   "galeria": "https://galerias.trvely.com.co/catalonia-royal-la-romana/",
+   "experiencias": null
+  },
+  {
+   "destino": "Punta Cana",
+   "hotel": "CATALONIA ROYAL LA ROMANA",
+   "alimentacion": "Todo incluido",
+   "habitacion": "Superior Junior Suite Swim Up",
+   "noches": 4,
+   "codigo": "PUJ-CRLR-5D4N-TI-SJSSU",
+   "fechas": [
+    [
+     "2026-10-17",
+     "2026-10-21",
+     6024990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:55",
+      "ar": "Wingo",
+      "sr": "13:42",
+      "lr": "15:25",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-01",
+     "2026-11-05",
+     6190990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:57",
+      "ar": "Wingo",
+      "sr": "15:06",
+      "lr": "16:50",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-03",
+     "2026-11-07",
+     6456990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:57",
+      "ar": "Wingo",
+      "sr": "13:46",
+      "lr": "15:30",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-21",
+     "2026-11-25",
+     6256990,
+     {
+      "ai": "Wingo",
+      "si": "08:25",
+      "li": "12:12",
+      "ar": "Wingo",
+      "sr": "13:46",
+      "lr": "15:30",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-22",
+     "2026-11-26",
+     6389990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:57",
+      "ar": "Wingo",
+      "sr": "15:06",
+      "lr": "16:50",
+      "ei": false,
+      "er": false
+     }
+    ]
+   ],
+   "incluye": {
+    "tiquete": true,
+    "alojamiento": true,
+    "tours": false,
+    "traslado": true,
+    "asistencia": true
+   },
+   "tours_incluidos": [],
+   "traslados": [
+    "Traslado privado PUJ - hotel Punta Cana",
+    "Traslado privado hotel Punta Cana - PUJ"
+   ],
+   "desde": 6024990,
+   "hasta": 6456990,
+   "n_fechas": 5,
+   "galeria": "https://galerias.trvely.com.co/catalonia-royal-la-romana/",
+   "experiencias": null
+  },
+  {
+   "destino": "Punta Cana",
+   "hotel": "CATALONIA ROYAL LA ROMANA",
+   "alimentacion": "Todo incluido",
+   "habitacion": "Superior Swim Up",
+   "noches": 4,
+   "codigo": "PUJ-CRLR-5D4N-TI-SSU",
+   "fechas": [
+    [
+     "2026-10-17",
+     "2026-10-21",
+     5954990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:55",
+      "ar": "Wingo",
+      "sr": "13:42",
+      "lr": "15:25",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-01",
+     "2026-11-05",
+     6123990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:57",
+      "ar": "Wingo",
+      "sr": "15:06",
+      "lr": "16:50",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-03",
+     "2026-11-07",
+     6389990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:57",
+      "ar": "Wingo",
+      "sr": "13:46",
+      "lr": "15:30",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-21",
+     "2026-11-25",
+     6189990,
+     {
+      "ai": "Wingo",
+      "si": "08:25",
+      "li": "12:12",
+      "ar": "Wingo",
+      "sr": "13:46",
+      "lr": "15:30",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-22",
+     "2026-11-26",
+     6323990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:57",
+      "ar": "Wingo",
+      "sr": "15:06",
+      "lr": "16:50",
+      "ei": false,
+      "er": false
+     }
+    ]
+   ],
+   "incluye": {
+    "tiquete": true,
+    "alojamiento": true,
+    "tours": false,
+    "traslado": true,
+    "asistencia": true
+   },
+   "tours_incluidos": [],
+   "traslados": [
+    "Traslado privado PUJ - hotel Punta Cana",
+    "Traslado privado hotel Punta Cana - PUJ"
+   ],
+   "desde": 5954990,
+   "hasta": 6389990,
+   "n_fechas": 5,
+   "galeria": "https://galerias.trvely.com.co/catalonia-royal-la-romana/",
+   "experiencias": null
+  },
+  {
+   "destino": "Punta Cana",
+   "hotel": "CATALONIA ROYAL LA ROMANA",
+   "alimentacion": "Todo incluido",
+   "habitacion": "Superior",
+   "noches": 4,
+   "codigo": "PUJ-CRLR-5D4N-TI-SUP",
+   "fechas": [
+    [
+     "2026-10-17",
+     "2026-10-21",
+     5328990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:55",
+      "ar": "Wingo",
+      "sr": "13:42",
+      "lr": "15:25",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-01",
+     "2026-11-05",
+     5522990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:57",
+      "ar": "Wingo",
+      "sr": "15:06",
+      "lr": "16:50",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-03",
+     "2026-11-07",
+     5788990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:57",
+      "ar": "Wingo",
+      "sr": "13:46",
+      "lr": "15:30",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-21",
+     "2026-11-25",
+     5588990,
+     {
+      "ai": "Wingo",
+      "si": "08:25",
+      "li": "12:12",
+      "ar": "Wingo",
+      "sr": "13:46",
+      "lr": "15:30",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-22",
+     "2026-11-26",
+     5721990,
+     {
+      "ai": "Wingo",
+      "si": "09:10",
+      "li": "12:57",
+      "ar": "Wingo",
+      "sr": "15:06",
+      "lr": "16:50",
+      "ei": false,
+      "er": false
+     }
+    ]
+   ],
+   "incluye": {
+    "tiquete": true,
+    "alojamiento": true,
+    "tours": false,
+    "traslado": true,
+    "asistencia": true
+   },
+   "tours_incluidos": [],
+   "traslados": [
+    "Traslado privado PUJ - hotel Punta Cana",
+    "Traslado privado hotel Punta Cana - PUJ"
+   ],
+   "desde": 5328990,
+   "hasta": 5788990,
+   "n_fechas": 5,
+   "galeria": "https://galerias.trvely.com.co/catalonia-royal-la-romana/",
+   "experiencias": null
   },
   {
    "destino": "Punta Cana",
