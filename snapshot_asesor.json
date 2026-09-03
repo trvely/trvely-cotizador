@@ -1,6 +1,6 @@
 {
  "generado": "2026-09-03",
- "generado_hora": "07:42",
+ "generado_hora": "12:02",
  "acomodacion": "doble",
  "productos": [
   {
@@ -8423,7 +8423,7 @@
     [
      "2026-10-18",
      "2026-10-21",
-     3136990,
+     3123990,
      {
       "ai": "Arajet",
       "si": "09:45",
@@ -8438,7 +8438,7 @@
     [
      "2026-10-19",
      "2026-10-22",
-     3262990,
+     3249990,
      {
       "ai": "Avianca",
       "si": "08:15",
@@ -8463,8 +8463,8 @@
     "Traslado privado SDQ - Juan Dolio",
     "Traslado privado Juan Dolio - SDQ"
    ],
-   "desde": 3136990,
-   "hasta": 3262990,
+   "desde": 3123990,
+   "hasta": 3249990,
    "n_fechas": 2,
    "galeria": "https://galerias.trvely.com.co/coral-costa-caribe/",
    "experiencias": null
@@ -8986,7 +8986,7 @@
     [
      "2026-11-07",
      "2026-11-11",
-     4205990,
+     4181990,
      {
       "ai": "Wingo",
       "si": "09:10",
@@ -9001,7 +9001,7 @@
     [
      "2026-11-08",
      "2026-11-12",
-     4316990,
+     4292990,
      {
       "ai": "Wingo",
       "si": "09:10",
@@ -9016,7 +9016,7 @@
     [
      "2026-11-27",
      "2026-12-01",
-     4316990,
+     4292990,
      {
       "ai": "Wingo",
       "si": "09:10",
@@ -9031,7 +9031,7 @@
     [
      "2026-11-28",
      "2026-12-02",
-     4260990,
+     4236990,
      {
       "ai": "Wingo",
       "si": "08:25",
@@ -9056,8 +9056,8 @@
     "Traslado privado PUJ - hotel Punta Cana",
     "Traslado privado hotel Punta Cana - PUJ"
    ],
-   "desde": 4205990,
-   "hasta": 4316990,
+   "desde": 4181990,
+   "hasta": 4292990,
    "n_fechas": 4,
    "galeria": "https://galerias.trvely.com.co/catalonia-royal-bavaro/",
    "experiencias": null
@@ -9073,7 +9073,7 @@
     [
      "2026-11-07",
      "2026-11-11",
-     4395990,
+     4368990,
      {
       "ai": "Wingo",
       "si": "09:10",
@@ -9088,7 +9088,7 @@
     [
      "2026-11-08",
      "2026-11-12",
-     4506990,
+     4479990,
      {
       "ai": "Wingo",
       "si": "09:10",
@@ -9103,7 +9103,7 @@
     [
      "2026-11-27",
      "2026-12-01",
-     4506990,
+     4479990,
      {
       "ai": "Wingo",
       "si": "09:10",
@@ -9118,7 +9118,7 @@
     [
      "2026-11-28",
      "2026-12-02",
-     4450990,
+     4424990,
      {
       "ai": "Wingo",
       "si": "08:25",
@@ -9143,8 +9143,8 @@
     "Traslado privado PUJ - hotel Punta Cana",
     "Traslado privado hotel Punta Cana - PUJ"
    ],
-   "desde": 4395990,
-   "hasta": 4506990,
+   "desde": 4368990,
+   "hasta": 4479990,
    "n_fechas": 4,
    "galeria": "https://galerias.trvely.com.co/catalonia-royal-bavaro/",
    "experiencias": null
@@ -9160,7 +9160,7 @@
     [
      "2026-11-07",
      "2026-11-11",
-     5022990,
+     4981990,
      {
       "ai": "Wingo",
       "si": "09:10",
@@ -9175,7 +9175,7 @@
     [
      "2026-11-08",
      "2026-11-12",
-     5155990,
+     5114990,
      {
       "ai": "Wingo",
       "si": "09:10",
@@ -9190,7 +9190,7 @@
     [
      "2026-11-27",
      "2026-12-01",
-     5155990,
+     5114990,
      {
       "ai": "Wingo",
       "si": "09:10",
@@ -9205,7 +9205,7 @@
     [
      "2026-11-28",
      "2026-12-02",
-     5089990,
+     5048990,
      {
       "ai": "Wingo",
       "si": "08:25",
@@ -9230,8 +9230,8 @@
     "Traslado privado PUJ - hotel Punta Cana",
     "Traslado privado hotel Punta Cana - PUJ"
    ],
-   "desde": 5022990,
-   "hasta": 5155990,
+   "desde": 4981990,
+   "hasta": 5114990,
    "n_fechas": 4,
    "galeria": "https://galerias.trvely.com.co/catalonia-royal-bavaro/",
    "experiencias": null
@@ -9247,7 +9247,7 @@
     [
      "2026-11-07",
      "2026-11-11",
-     5820990,
+     5768990,
      {
       "ai": "Wingo",
       "si": "09:10",
@@ -9262,7 +9262,7 @@
     [
      "2026-11-08",
      "2026-11-12",
-     5953990,
+     5901990,
      {
       "ai": "Wingo",
       "si": "09:10",
@@ -9277,7 +9277,7 @@
     [
      "2026-11-27",
      "2026-12-01",
-     5953990,
+     5901990,
      {
       "ai": "Wingo",
       "si": "09:10",
@@ -9292,7 +9292,7 @@
     [
      "2026-11-28",
      "2026-12-02",
-     5887990,
+     5835990,
      {
       "ai": "Wingo",
       "si": "08:25",
@@ -9317,8 +9317,8 @@
     "Traslado privado PUJ - hotel Punta Cana",
     "Traslado privado hotel Punta Cana - PUJ"
    ],
-   "desde": 5820990,
-   "hasta": 5953990,
+   "desde": 5768990,
+   "hasta": 5901990,
    "n_fechas": 4,
    "galeria": "https://galerias.trvely.com.co/catalonia-royal-bavaro/",
    "experiencias": null
@@ -9334,7 +9334,7 @@
     [
      "2026-11-07",
      "2026-11-11",
-     4300990,
+     4275990,
      {
       "ai": "Wingo",
       "si": "09:10",
@@ -9349,7 +9349,7 @@
     [
      "2026-11-08",
      "2026-11-12",
-     4411990,
+     4386990,
      {
       "ai": "Wingo",
       "si": "09:10",
@@ -9364,7 +9364,7 @@
     [
      "2026-11-27",
      "2026-12-01",
-     4411990,
+     4386990,
      {
       "ai": "Wingo",
       "si": "09:10",
@@ -9379,7 +9379,7 @@
     [
      "2026-11-28",
      "2026-12-02",
-     4355990,
+     4330990,
      {
       "ai": "Wingo",
       "si": "08:25",
@@ -9404,8 +9404,8 @@
     "Traslado privado PUJ - hotel Punta Cana",
     "Traslado privado hotel Punta Cana - PUJ"
    ],
-   "desde": 4300990,
-   "hasta": 4411990,
+   "desde": 4275990,
+   "hasta": 4386990,
    "n_fechas": 4,
    "galeria": "https://galerias.trvely.com.co/catalonia-royal-bavaro/",
    "experiencias": null
@@ -9421,7 +9421,7 @@
     [
      "2026-11-07",
      "2026-11-11",
-     4537990,
+     4509990,
      {
       "ai": "Wingo",
       "si": "09:10",
@@ -9436,7 +9436,7 @@
     [
      "2026-11-08",
      "2026-11-12",
-     4648990,
+     4620990,
      {
       "ai": "Wingo",
       "si": "09:10",
@@ -9451,7 +9451,7 @@
     [
      "2026-11-27",
      "2026-12-01",
-     4648990,
+     4620990,
      {
       "ai": "Wingo",
       "si": "09:10",
@@ -9466,7 +9466,7 @@
     [
      "2026-11-28",
      "2026-12-02",
-     4593990,
+     4564990,
      {
       "ai": "Wingo",
       "si": "08:25",
@@ -9491,8 +9491,8 @@
     "Traslado privado PUJ - hotel Punta Cana",
     "Traslado privado hotel Punta Cana - PUJ"
    ],
-   "desde": 4537990,
-   "hasta": 4648990,
+   "desde": 4509990,
+   "hasta": 4620990,
    "n_fechas": 4,
    "galeria": "https://galerias.trvely.com.co/catalonia-royal-bavaro/",
    "experiencias": null
@@ -9508,7 +9508,7 @@
     [
      "2026-11-07",
      "2026-11-11",
-     5988990,
+     5934990,
      {
       "ai": "Wingo",
       "si": "09:10",
@@ -9523,7 +9523,7 @@
     [
      "2026-11-08",
      "2026-11-12",
-     6121990,
+     6067990,
      {
       "ai": "Wingo",
       "si": "09:10",
@@ -9538,7 +9538,7 @@
     [
      "2026-11-27",
      "2026-12-01",
-     6121990,
+     6067990,
      {
       "ai": "Wingo",
       "si": "09:10",
@@ -9553,7 +9553,7 @@
     [
      "2026-11-28",
      "2026-12-02",
-     6055990,
+     6000990,
      {
       "ai": "Wingo",
       "si": "08:25",
@@ -9578,8 +9578,8 @@
     "Traslado privado PUJ - hotel Punta Cana",
     "Traslado privado hotel Punta Cana - PUJ"
    ],
-   "desde": 5988990,
-   "hasta": 6121990,
+   "desde": 5934990,
+   "hasta": 6067990,
    "n_fechas": 4,
    "galeria": "https://galerias.trvely.com.co/catalonia-royal-la-romana/",
    "experiencias": null
@@ -9595,7 +9595,7 @@
     [
      "2026-11-07",
      "2026-11-11",
-     6461990,
+     6401990,
      {
       "ai": "Wingo",
       "si": "09:10",
@@ -9610,7 +9610,7 @@
     [
      "2026-11-08",
      "2026-11-12",
-     6595990,
+     6534990,
      {
       "ai": "Wingo",
       "si": "09:10",
@@ -9625,7 +9625,7 @@
     [
      "2026-11-27",
      "2026-12-01",
-     6595990,
+     6534990,
      {
       "ai": "Wingo",
       "si": "09:10",
@@ -9640,7 +9640,7 @@
     [
      "2026-11-28",
      "2026-12-02",
-     6528990,
+     6467990,
      {
       "ai": "Wingo",
       "si": "08:25",
@@ -9665,8 +9665,8 @@
     "Traslado privado PUJ - hotel Punta Cana",
     "Traslado privado hotel Punta Cana - PUJ"
    ],
-   "desde": 6461990,
-   "hasta": 6595990,
+   "desde": 6401990,
+   "hasta": 6534990,
    "n_fechas": 4,
    "galeria": "https://galerias.trvely.com.co/catalonia-royal-la-romana/",
    "experiencias": null
@@ -9682,7 +9682,7 @@
     [
      "2026-11-07",
      "2026-11-11",
-     6056990,
+     6000990,
      {
       "ai": "Wingo",
       "si": "09:10",
@@ -9697,7 +9697,7 @@
     [
      "2026-11-08",
      "2026-11-12",
-     6189990,
+     6134990,
      {
       "ai": "Wingo",
       "si": "09:10",
@@ -9712,7 +9712,7 @@
     [
      "2026-11-27",
      "2026-12-01",
-     6189990,
+     6134990,
      {
       "ai": "Wingo",
       "si": "09:10",
@@ -9727,7 +9727,7 @@
     [
      "2026-11-28",
      "2026-12-02",
-     6122990,
+     6067990,
      {
       "ai": "Wingo",
       "si": "08:25",
@@ -9752,8 +9752,8 @@
     "Traslado privado PUJ - hotel Punta Cana",
     "Traslado privado hotel Punta Cana - PUJ"
    ],
-   "desde": 6056990,
-   "hasta": 6189990,
+   "desde": 6000990,
+   "hasta": 6134990,
    "n_fechas": 4,
    "galeria": "https://galerias.trvely.com.co/catalonia-royal-la-romana/",
    "experiencias": null
@@ -9769,7 +9769,7 @@
     [
      "2026-11-07",
      "2026-11-11",
-     6394990,
+     6334990,
      {
       "ai": "Wingo",
       "si": "09:10",
@@ -9784,7 +9784,7 @@
     [
      "2026-11-08",
      "2026-11-12",
-     6527990,
+     6467990,
      {
       "ai": "Wingo",
       "si": "09:10",
@@ -9799,7 +9799,7 @@
     [
      "2026-11-27",
      "2026-12-01",
-     6527990,
+     6467990,
      {
       "ai": "Wingo",
       "si": "09:10",
@@ -9814,7 +9814,7 @@
     [
      "2026-11-28",
      "2026-12-02",
-     6460990,
+     6401990,
      {
       "ai": "Wingo",
       "si": "08:25",
@@ -9839,8 +9839,8 @@
     "Traslado privado PUJ - hotel Punta Cana",
     "Traslado privado hotel Punta Cana - PUJ"
    ],
-   "desde": 6394990,
-   "hasta": 6527990,
+   "desde": 6334990,
+   "hasta": 6467990,
    "n_fechas": 4,
    "galeria": "https://galerias.trvely.com.co/catalonia-royal-la-romana/",
    "experiencias": null
@@ -9856,7 +9856,7 @@
     [
      "2026-11-07",
      "2026-11-11",
-     5853990,
+     5800990,
      {
       "ai": "Wingo",
       "si": "09:10",
@@ -9871,7 +9871,7 @@
     [
      "2026-11-08",
      "2026-11-12",
-     5986990,
+     5933990,
      {
       "ai": "Wingo",
       "si": "09:10",
@@ -9886,7 +9886,7 @@
     [
      "2026-11-27",
      "2026-12-01",
-     5986990,
+     5933990,
      {
       "ai": "Wingo",
       "si": "09:10",
@@ -9901,7 +9901,7 @@
     [
      "2026-11-28",
      "2026-12-02",
-     5919990,
+     5867990,
      {
       "ai": "Wingo",
       "si": "08:25",
@@ -9926,8 +9926,8 @@
     "Traslado privado PUJ - hotel Punta Cana",
     "Traslado privado hotel Punta Cana - PUJ"
    ],
-   "desde": 5853990,
-   "hasta": 5986990,
+   "desde": 5800990,
+   "hasta": 5933990,
    "n_fechas": 4,
    "galeria": "https://galerias.trvely.com.co/catalonia-royal-la-romana/",
    "experiencias": null
@@ -9943,7 +9943,7 @@
     [
      "2026-11-07",
      "2026-11-11",
-     6326990,
+     6267990,
      {
       "ai": "Wingo",
       "si": "09:10",
@@ -9958,7 +9958,7 @@
     [
      "2026-11-08",
      "2026-11-12",
-     6459990,
+     6400990,
      {
       "ai": "Wingo",
       "si": "09:10",
@@ -9973,7 +9973,7 @@
     [
      "2026-11-27",
      "2026-12-01",
-     6459990,
+     6400990,
      {
       "ai": "Wingo",
       "si": "09:10",
@@ -9988,7 +9988,7 @@
     [
      "2026-11-28",
      "2026-12-02",
-     6393990,
+     6334990,
      {
       "ai": "Wingo",
       "si": "08:25",
@@ -10013,8 +10013,8 @@
     "Traslado privado PUJ - hotel Punta Cana",
     "Traslado privado hotel Punta Cana - PUJ"
    ],
-   "desde": 6326990,
-   "hasta": 6459990,
+   "desde": 6267990,
+   "hasta": 6400990,
    "n_fechas": 4,
    "galeria": "https://galerias.trvely.com.co/catalonia-royal-la-romana/",
    "experiencias": null
@@ -10030,7 +10030,7 @@
     [
      "2026-11-07",
      "2026-11-11",
-     6258990,
+     6201990,
      {
       "ai": "Wingo",
       "si": "09:10",
@@ -10045,7 +10045,7 @@
     [
      "2026-11-08",
      "2026-11-12",
-     6392990,
+     6334990,
      {
       "ai": "Wingo",
       "si": "09:10",
@@ -10060,7 +10060,7 @@
     [
      "2026-11-27",
      "2026-12-01",
-     6392990,
+     6334990,
      {
       "ai": "Wingo",
       "si": "09:10",
@@ -10075,7 +10075,7 @@
     [
      "2026-11-28",
      "2026-12-02",
-     6325990,
+     6267990,
      {
       "ai": "Wingo",
       "si": "08:25",
@@ -10100,8 +10100,8 @@
     "Traslado privado PUJ - hotel Punta Cana",
     "Traslado privado hotel Punta Cana - PUJ"
    ],
-   "desde": 6258990,
-   "hasta": 6392990,
+   "desde": 6201990,
+   "hasta": 6334990,
    "n_fechas": 4,
    "galeria": "https://galerias.trvely.com.co/catalonia-royal-la-romana/",
    "experiencias": null
@@ -10117,7 +10117,7 @@
     [
      "2026-11-07",
      "2026-11-11",
-     5650990,
+     5600990,
      {
       "ai": "Wingo",
       "si": "09:10",
@@ -10132,7 +10132,7 @@
     [
      "2026-11-08",
      "2026-11-12",
-     5783990,
+     5733990,
      {
       "ai": "Wingo",
       "si": "09:10",
@@ -10147,7 +10147,7 @@
     [
      "2026-11-27",
      "2026-12-01",
-     5783990,
+     5733990,
      {
       "ai": "Wingo",
       "si": "09:10",
@@ -10162,7 +10162,7 @@
     [
      "2026-11-28",
      "2026-12-02",
-     5716990,
+     5667990,
      {
       "ai": "Wingo",
       "si": "08:25",
@@ -10187,8 +10187,8 @@
     "Traslado privado PUJ - hotel Punta Cana",
     "Traslado privado hotel Punta Cana - PUJ"
    ],
-   "desde": 5650990,
-   "hasta": 5783990,
+   "desde": 5600990,
+   "hasta": 5733990,
    "n_fechas": 4,
    "galeria": "https://galerias.trvely.com.co/catalonia-royal-la-romana/",
    "experiencias": null
@@ -10204,7 +10204,7 @@
     [
      "2026-11-07",
      "2026-11-11",
-     3760990,
+     3742990,
      {
       "ai": "Wingo",
       "si": "09:10",
@@ -10219,7 +10219,7 @@
     [
      "2026-11-08",
      "2026-11-12",
-     3871990,
+     3853990,
      {
       "ai": "Wingo",
       "si": "09:10",
@@ -10234,7 +10234,7 @@
     [
      "2026-11-27",
      "2026-12-01",
-     3871990,
+     3853990,
      {
       "ai": "Wingo",
       "si": "09:10",
@@ -10249,7 +10249,7 @@
     [
      "2026-11-28",
      "2026-12-02",
-     3816990,
+     3798990,
      {
       "ai": "Wingo",
       "si": "08:25",
@@ -10275,8 +10275,8 @@
     "Traslado privado PUJ - hotel Punta Cana",
     "Traslado privado hotel Punta Cana - PUJ"
    ],
-   "desde": 3760990,
-   "hasta": 3871990,
+   "desde": 3742990,
+   "hasta": 3853990,
    "n_fechas": 4,
    "galeria": "https://galerias.trvely.com.co/hm-alma-de-bayahibe/",
    "experiencias": null
@@ -10292,7 +10292,7 @@
     [
      "2026-11-07",
      "2026-11-11",
-     3565990,
+     3550990,
      {
       "ai": "Wingo",
       "si": "09:10",
@@ -10307,7 +10307,7 @@
     [
      "2026-11-08",
      "2026-11-12",
-     3676990,
+     3661990,
      {
       "ai": "Wingo",
       "si": "09:10",
@@ -10322,7 +10322,7 @@
     [
      "2026-11-27",
      "2026-12-01",
-     3676990,
+     3661990,
      {
       "ai": "Wingo",
       "si": "09:10",
@@ -10337,7 +10337,7 @@
     [
      "2026-11-28",
      "2026-12-02",
-     3621990,
+     3606990,
      {
       "ai": "Wingo",
       "si": "08:25",
@@ -10363,8 +10363,8 @@
     "Traslado privado PUJ - hotel Punta Cana",
     "Traslado privado hotel Punta Cana - PUJ"
    ],
-   "desde": 3565990,
-   "hasta": 3676990,
+   "desde": 3550990,
+   "hasta": 3661990,
    "n_fechas": 4,
    "galeria": "https://galerias.trvely.com.co/whala-bavaro/",
    "experiencias": null
@@ -10380,7 +10380,7 @@
     [
      "2026-11-07",
      "2026-11-11",
-     3643990,
+     3626990,
      {
       "ai": "Wingo",
       "si": "09:10",
@@ -10395,7 +10395,7 @@
     [
      "2026-11-08",
      "2026-11-12",
-     3754990,
+     3737990,
      {
       "ai": "Wingo",
       "si": "09:10",
@@ -10410,7 +10410,7 @@
     [
      "2026-11-27",
      "2026-12-01",
-     3754990,
+     3737990,
      {
       "ai": "Wingo",
       "si": "09:10",
@@ -10425,7 +10425,7 @@
     [
      "2026-11-28",
      "2026-12-02",
-     3698990,
+     3682990,
      {
       "ai": "Wingo",
       "si": "08:25",
@@ -10451,8 +10451,8 @@
     "Traslado privado PUJ - hotel Punta Cana",
     "Traslado privado hotel Punta Cana - PUJ"
    ],
-   "desde": 3643990,
-   "hasta": 3754990,
+   "desde": 3626990,
+   "hasta": 3737990,
    "n_fechas": 4,
    "galeria": "https://galerias.trvely.com.co/whala-bavaro/",
    "experiencias": null
@@ -10904,7 +10904,7 @@
     [
      "2026-10-18",
      "2026-10-21",
-     3203990,
+     3190990,
      {
       "ai": "Arajet",
       "si": "09:45",
@@ -10919,7 +10919,7 @@
     [
      "2026-10-19",
      "2026-10-22",
-     3330990,
+     3316990,
      {
       "ai": "Avianca",
       "si": "08:15",
@@ -10944,8 +10944,8 @@
     "Traslado privado SDQ - Boca Chica",
     "Traslado privado Boca Chica - SDQ"
    ],
-   "desde": 3203990,
-   "hasta": 3330990,
+   "desde": 3190990,
+   "hasta": 3316990,
    "n_fechas": 2,
    "galeria": "https://galerias.trvely.com.co/whala-bocachica/",
    "experiencias": null
@@ -10961,7 +10961,7 @@
     [
      "2026-10-18",
      "2026-10-21",
-     3089990,
+     3077990,
      {
       "ai": "Arajet",
       "si": "09:45",
@@ -10976,7 +10976,7 @@
     [
      "2026-10-19",
      "2026-10-22",
-     3215990,
+     3203990,
      {
       "ai": "Avianca",
       "si": "08:15",
@@ -11001,8 +11001,8 @@
     "Traslado privado SDQ - Boca Chica",
     "Traslado privado Boca Chica - SDQ"
    ],
-   "desde": 3089990,
-   "hasta": 3215990,
+   "desde": 3077990,
+   "hasta": 3203990,
    "n_fechas": 2,
    "galeria": "https://galerias.trvely.com.co/whala-bocachica/",
    "experiencias": null
@@ -11018,7 +11018,7 @@
     [
      "2026-10-18",
      "2026-10-21",
-     3032990,
+     3020990,
      {
       "ai": "Arajet",
       "si": "09:45",
@@ -11033,7 +11033,7 @@
     [
      "2026-10-19",
      "2026-10-22",
-     3158990,
+     3147990,
      {
       "ai": "Avianca",
       "si": "08:15",
@@ -11058,8 +11058,8 @@
     "Traslado privado SDQ - Boca Chica",
     "Traslado privado Boca Chica - SDQ"
    ],
-   "desde": 3032990,
-   "hasta": 3158990,
+   "desde": 3020990,
+   "hasta": 3147990,
    "n_fechas": 2,
    "galeria": "https://galerias.trvely.com.co/whala-bocachica/",
    "experiencias": null
