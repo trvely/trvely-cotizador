@@ -1,6 +1,6 @@
 {
- "generado": "2026-09-10",
- "generado_hora": "12:19",
+ "generado": "2026-09-11",
+ "generado_hora": "12:01",
  "acomodacion": "doble",
  "productos": [
   {
@@ -9278,7 +9278,7 @@
     [
      "2026-10-25",
      "2026-10-28",
-     3002990,
+     3003990,
      {
       "ai": "Arajet",
       "si": "10:05",
@@ -10397,7 +10397,7 @@
     [
      "2026-10-25",
      "2026-10-28",
-     3068990,
+     3069990,
      {
       "ai": "Arajet",
       "si": "10:05",
@@ -10439,7 +10439,7 @@
     [
      "2026-10-14",
      "2026-10-17",
-     3180990,
+     3181990,
      {
       "ai": "Avianca",
       "si": "08:15",
@@ -10454,7 +10454,7 @@
     [
      "2026-10-16",
      "2026-10-19",
-     2940990,
+     2941990,
      {
       "ai": "Arajet",
       "si": "11:05",
@@ -10469,7 +10469,7 @@
     [
      "2026-10-17",
      "2026-10-20",
-     3180990,
+     3181990,
      {
       "ai": "Avianca",
       "si": "08:15",
@@ -10509,8 +10509,8 @@
     "Traslado privado SDQ - Boca Chica",
     "Traslado privado Boca Chica - SDQ"
    ],
-   "desde": 2940990,
-   "hasta": 3180990,
+   "desde": 2941990,
+   "hasta": 3181990,
    "n_fechas": 4,
    "galeria": "https://galerias.trvely.com.co/whala-bocachica/",
    "experiencias": null
