@@ -1,6 +1,6 @@
 {
- "generado": "2026-09-16",
- "generado_hora": "15:21",
+ "generado": "2026-09-17",
+ "generado_hora": "11:45",
  "acomodacion": "doble",
  "productos": [
   {
@@ -6203,7 +6203,7 @@
     [
      "2026-10-18",
      "2026-10-21",
-     3143990,
+     3151990,
      {
       "ai": "Arajet",
       "si": "09:45",
@@ -6218,7 +6218,7 @@
     [
      "2026-10-21",
      "2026-10-24",
-     3205990,
+     3214990,
      {
       "ai": "Avianca",
       "si": "08:15",
@@ -6233,7 +6233,7 @@
     [
      "2026-10-23",
      "2026-10-26",
-     3181990,
+     3189990,
      {
       "ai": "Arajet",
       "si": "11:05",
@@ -6258,8 +6258,8 @@
     "Traslado privado SDQ - Juan Dolio",
     "Traslado privado Juan Dolio - SDQ"
    ],
-   "desde": 3143990,
-   "hasta": 3205990,
+   "desde": 3151990,
+   "hasta": 3214990,
    "n_fechas": 3,
    "galeria": "https://galerias.trvely.com.co/coral-costa-caribe/",
    "experiencias": null
@@ -6734,7 +6734,7 @@
     [
      "2026-10-18",
      "2026-10-21",
-     3209990,
+     3218990,
      {
       "ai": "Arajet",
       "si": "09:45",
@@ -6749,7 +6749,7 @@
     [
      "2026-10-21",
      "2026-10-24",
-     3271990,
+     3280990,
      {
       "ai": "Avianca",
       "si": "08:15",
@@ -6764,7 +6764,7 @@
     [
      "2026-10-23",
      "2026-10-26",
-     3247990,
+     3256990,
      {
       "ai": "Arajet",
       "si": "11:05",
@@ -6789,8 +6789,8 @@
     "Traslado privado SDQ - Boca Chica",
     "Traslado privado Boca Chica - SDQ"
    ],
-   "desde": 3209990,
-   "hasta": 3271990,
+   "desde": 3218990,
+   "hasta": 3280990,
    "n_fechas": 3,
    "galeria": "https://galerias.trvely.com.co/whala-bocachica/",
    "experiencias": null
@@ -6806,7 +6806,7 @@
     [
      "2026-10-18",
      "2026-10-21",
-     3097990,
+     3105990,
      {
       "ai": "Arajet",
       "si": "09:45",
@@ -6821,7 +6821,7 @@
     [
      "2026-10-21",
      "2026-10-24",
-     3160990,
+     3168990,
      {
       "ai": "Avianca",
       "si": "08:15",
@@ -6836,7 +6836,7 @@
     [
      "2026-10-23",
      "2026-10-26",
-     3136990,
+     3143990,
      {
       "ai": "Arajet",
       "si": "11:05",
@@ -6861,8 +6861,8 @@
     "Traslado privado SDQ - Boca Chica",
     "Traslado privado Boca Chica - SDQ"
    ],
-   "desde": 3097990,
-   "hasta": 3160990,
+   "desde": 3105990,
+   "hasta": 3168990,
    "n_fechas": 3,
    "galeria": "https://galerias.trvely.com.co/whala-bocachica/",
    "experiencias": null
@@ -6878,7 +6878,7 @@
     [
      "2026-10-18",
      "2026-10-21",
-     3042990,
+     3049990,
      {
       "ai": "Arajet",
       "si": "09:45",
@@ -6893,7 +6893,7 @@
     [
      "2026-10-21",
      "2026-10-24",
-     3104990,
+     3111990,
      {
       "ai": "Avianca",
       "si": "08:15",
@@ -6908,7 +6908,7 @@
     [
      "2026-10-23",
      "2026-10-26",
-     3080990,
+     3087990,
      {
       "ai": "Arajet",
       "si": "11:05",
@@ -6933,8 +6933,8 @@
     "Traslado privado SDQ - Boca Chica",
     "Traslado privado Boca Chica - SDQ"
    ],
-   "desde": 3042990,
-   "hasta": 3104990,
+   "desde": 3049990,
+   "hasta": 3111990,
    "n_fechas": 3,
    "galeria": "https://galerias.trvely.com.co/whala-bocachica/",
    "experiencias": null
