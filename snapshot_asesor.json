@@ -1,6 +1,6 @@
 {
- "generado": "2026-10-13",
- "generado_hora": "10:56",
+ "generado": "2026-11-10",
+ "generado_hora": "15:28",
  "acomodacion": "doble",
  "productos": [
   {
@@ -1714,21 +1714,6 @@
    "codigo": "COV-GRN-4D3N-AD-ISB",
    "fechas": [
     [
-     "2026-11-09",
-     "2026-11-12",
-     1235990,
-     {
-      "ai": "Avianca",
-      "si": "11:35",
-      "li": "12:55",
-      "ar": "Avianca",
-      "sr": "12:35",
-      "lr": "14:00",
-      "ei": false,
-      "er": false
-     }
-    ],
-    [
      "2026-11-12",
      "2026-11-15",
      1430990,
@@ -1802,7 +1787,7 @@
    "traslados": [],
    "desde": 1213990,
    "hasta": 1430990,
-   "n_fechas": 5,
+   "n_fechas": 4,
    "galeria": "https://galerias.trvely.com.co/green/",
    "experiencias": null
   },
@@ -1815,21 +1800,6 @@
    "codigo": "COV-GRN-4D3N-PAM-ISB",
    "fechas": [
     [
-     "2026-11-09",
-     "2026-11-12",
-     1304990,
-     {
-      "ai": "Avianca",
-      "si": "11:35",
-      "li": "12:55",
-      "ar": "Avianca",
-      "sr": "12:35",
-      "lr": "14:00",
-      "ei": false,
-      "er": false
-     }
-    ],
-    [
      "2026-11-12",
      "2026-11-15",
      1502990,
@@ -1903,7 +1873,7 @@
    "traslados": [],
    "desde": 1282990,
    "hasta": 1502990,
-   "n_fechas": 5,
+   "n_fechas": 4,
    "galeria": "https://galerias.trvely.com.co/green/",
    "experiencias": null
   },
@@ -1916,21 +1886,6 @@
    "codigo": "COV-GRN-4D3N-PC-ISB",
    "fechas": [
     [
-     "2026-11-09",
-     "2026-11-12",
-     1373990,
-     {
-      "ai": "Avianca",
-      "si": "11:35",
-      "li": "12:55",
-      "ar": "Avianca",
-      "sr": "12:35",
-      "lr": "14:00",
-      "ei": false,
-      "er": false
-     }
-    ],
-    [
      "2026-11-12",
      "2026-11-15",
      1574990,
@@ -2004,7 +1959,7 @@
    "traslados": [],
    "desde": 1351990,
    "hasta": 1574990,
-   "n_fechas": 5,
+   "n_fechas": 4,
    "galeria": "https://galerias.trvely.com.co/green/",
    "experiencias": null
   },
@@ -2017,21 +1972,6 @@
    "codigo": "COV-KPR-4D3N-AD-ISB",
    "fechas": [
     [
-     "2026-11-09",
-     "2026-11-12",
-     1235990,
-     {
-      "ai": "Avianca",
-      "si": "11:35",
-      "li": "12:55",
-      "ar": "Avianca",
-      "sr": "12:35",
-      "lr": "14:00",
-      "ei": false,
-      "er": false
-     }
-    ],
-    [
      "2026-11-12",
      "2026-11-15",
      1430990,
@@ -2105,7 +2045,7 @@
    "traslados": [],
    "desde": 1213990,
    "hasta": 1430990,
-   "n_fechas": 5,
+   "n_fechas": 4,
    "galeria": "https://galerias.trvely.com.co/kpre/",
    "experiencias": null
   },
@@ -2118,21 +2058,6 @@
    "codigo": "COV-KPR-4D3N-PAM-ISB",
    "fechas": [
     [
-     "2026-11-09",
-     "2026-11-12",
-     1304990,
-     {
-      "ai": "Avianca",
-      "si": "11:35",
-      "li": "12:55",
-      "ar": "Avianca",
-      "sr": "12:35",
-      "lr": "14:00",
-      "ei": false,
-      "er": false
-     }
-    ],
-    [
      "2026-11-12",
      "2026-11-15",
      1502990,
@@ -2206,7 +2131,7 @@
    "traslados": [],
    "desde": 1282990,
    "hasta": 1502990,
-   "n_fechas": 5,
+   "n_fechas": 4,
    "galeria": "https://galerias.trvely.com.co/kpre/",
    "experiencias": null
   },
@@ -2218,21 +2143,6 @@
    "noches": 3,
    "codigo": "COV-KPR-4D3N-PC-ISB",
    "fechas": [
-    [
-     "2026-11-09",
-     "2026-11-12",
-     1373990,
-     {
-      "ai": "Avianca",
-      "si": "11:35",
-      "li": "12:55",
-      "ar": "Avianca",
-      "sr": "12:35",
-      "lr": "14:00",
-      "ei": false,
-      "er": false
-     }
-    ],
     [
      "2026-11-12",
      "2026-11-15",
@@ -2307,7 +2217,7 @@
    "traslados": [],
    "desde": 1351990,
    "hasta": 1574990,
-   "n_fechas": 5,
+   "n_fechas": 4,
    "galeria": "https://galerias.trvely.com.co/kpre/",
    "experiencias": null
   },
@@ -2319,21 +2229,6 @@
    "noches": 3,
    "codigo": "COV-MRB-4D3N-AD-ISB",
    "fechas": [
-    [
-     "2026-11-09",
-     "2026-11-12",
-     1235990,
-     {
-      "ai": "Avianca",
-      "si": "11:35",
-      "li": "12:55",
-      "ar": "Avianca",
-      "sr": "12:35",
-      "lr": "14:00",
-      "ei": false,
-      "er": false
-     }
-    ],
     [
      "2026-11-12",
      "2026-11-15",
@@ -2408,7 +2303,7 @@
    "traslados": [],
    "desde": 1213990,
    "hasta": 1430990,
-   "n_fechas": 5,
+   "n_fechas": 4,
    "galeria": "https://galerias.trvely.com.co/marbelo/",
    "experiencias": null
   },
@@ -2420,21 +2315,6 @@
    "noches": 3,
    "codigo": "COV-MRB-4D3N-PAM-ISB",
    "fechas": [
-    [
-     "2026-11-09",
-     "2026-11-12",
-     1304990,
-     {
-      "ai": "Avianca",
-      "si": "11:35",
-      "li": "12:55",
-      "ar": "Avianca",
-      "sr": "12:35",
-      "lr": "14:00",
-      "ei": false,
-      "er": false
-     }
-    ],
     [
      "2026-11-12",
      "2026-11-15",
@@ -2509,7 +2389,7 @@
    "traslados": [],
    "desde": 1282990,
    "hasta": 1502990,
-   "n_fechas": 5,
+   "n_fechas": 4,
    "galeria": "https://galerias.trvely.com.co/marbelo/",
    "experiencias": null
   },
@@ -2521,21 +2401,6 @@
    "noches": 3,
    "codigo": "COV-MRB-4D3N-PC-ISB",
    "fechas": [
-    [
-     "2026-11-09",
-     "2026-11-12",
-     1373990,
-     {
-      "ai": "Avianca",
-      "si": "11:35",
-      "li": "12:55",
-      "ar": "Avianca",
-      "sr": "12:35",
-      "lr": "14:00",
-      "ei": false,
-      "er": false
-     }
-    ],
     [
      "2026-11-12",
      "2026-11-15",
@@ -2610,7 +2475,7 @@
    "traslados": [],
    "desde": 1351990,
    "hasta": 1574990,
-   "n_fechas": 5,
+   "n_fechas": 4,
    "galeria": "https://galerias.trvely.com.co/marbelo/",
    "experiencias": null
   },
@@ -2622,21 +2487,6 @@
    "noches": 3,
    "codigo": "COV-PML-4D3N-AD-ISB",
    "fechas": [
-    [
-     "2026-11-09",
-     "2026-11-12",
-     1207990,
-     {
-      "ai": "Avianca",
-      "si": "11:35",
-      "li": "12:55",
-      "ar": "Avianca",
-      "sr": "12:35",
-      "lr": "14:00",
-      "ei": false,
-      "er": false
-     }
-    ],
     [
      "2026-11-12",
      "2026-11-15",
@@ -2711,7 +2561,7 @@
    "traslados": [],
    "desde": 1185990,
    "hasta": 1402990,
-   "n_fechas": 5,
+   "n_fechas": 4,
    "galeria": "https://galerias.trvely.com.co/palmalinda/",
    "experiencias": null
   },
@@ -2723,21 +2573,6 @@
    "noches": 3,
    "codigo": "COV-PML-4D3N-PAM-ISB",
    "fechas": [
-    [
-     "2026-11-09",
-     "2026-11-12",
-     1276990,
-     {
-      "ai": "Avianca",
-      "si": "11:35",
-      "li": "12:55",
-      "ar": "Avianca",
-      "sr": "12:35",
-      "lr": "14:00",
-      "ei": false,
-      "er": false
-     }
-    ],
     [
      "2026-11-12",
      "2026-11-15",
@@ -2812,7 +2647,7 @@
    "traslados": [],
    "desde": 1254990,
    "hasta": 1473990,
-   "n_fechas": 5,
+   "n_fechas": 4,
    "galeria": "https://galerias.trvely.com.co/palmalinda/",
    "experiencias": null
   },
@@ -2824,21 +2659,6 @@
    "noches": 3,
    "codigo": "COV-PML-4D3N-PC-ISB",
    "fechas": [
-    [
-     "2026-11-09",
-     "2026-11-12",
-     1345990,
-     {
-      "ai": "Avianca",
-      "si": "11:35",
-      "li": "12:55",
-      "ar": "Avianca",
-      "sr": "12:35",
-      "lr": "14:00",
-      "ei": false,
-      "er": false
-     }
-    ],
     [
      "2026-11-12",
      "2026-11-15",
@@ -2913,7 +2733,7 @@
    "traslados": [],
    "desde": 1323990,
    "hasta": 1545990,
-   "n_fechas": 5,
+   "n_fechas": 4,
    "galeria": "https://galerias.trvely.com.co/palmalinda/",
    "experiencias": null
   },
@@ -2925,21 +2745,6 @@
    "noches": 3,
    "codigo": "COV-PLD-4D3N-PAM-ISB",
    "fechas": [
-    [
-     "2026-11-09",
-     "2026-11-12",
-     1321990,
-     {
-      "ai": "Avianca",
-      "si": "11:35",
-      "li": "12:55",
-      "ar": "Avianca",
-      "sr": "12:35",
-      "lr": "14:00",
-      "ei": false,
-      "er": false
-     }
-    ],
     [
      "2026-11-12",
      "2026-11-15",
@@ -3014,7 +2819,7 @@
    "traslados": [],
    "desde": 1299990,
    "hasta": 1614990,
-   "n_fechas": 5,
+   "n_fechas": 4,
    "galeria": "https://galerias.trvely.com.co/playa-divina/",
    "experiencias": null
   },
@@ -3026,21 +2831,6 @@
    "noches": 3,
    "codigo": "COV-PLD-4D3N-PC-ISB",
    "fechas": [
-    [
-     "2026-11-09",
-     "2026-11-12",
-     1435990,
-     {
-      "ai": "Avianca",
-      "si": "11:35",
-      "li": "12:55",
-      "ar": "Avianca",
-      "sr": "12:35",
-      "lr": "14:00",
-      "ei": false,
-      "er": false
-     }
-    ],
     [
      "2026-11-12",
      "2026-11-15",
@@ -3115,7 +2905,7 @@
    "traslados": [],
    "desde": 1413990,
    "hasta": 1740990,
-   "n_fechas": 5,
+   "n_fechas": 4,
    "galeria": "https://galerias.trvely.com.co/playa-divina/",
    "experiencias": null
   },
@@ -3127,21 +2917,6 @@
    "noches": 3,
    "codigo": "COV-POB-4D3N-AD-ISB",
    "fechas": [
-    [
-     "2026-11-09",
-     "2026-11-12",
-     1466990,
-     {
-      "ai": "Avianca",
-      "si": "11:35",
-      "li": "12:55",
-      "ar": "Avianca",
-      "sr": "12:35",
-      "lr": "14:00",
-      "ei": false,
-      "er": false
-     }
-    ],
     [
      "2026-11-12",
      "2026-11-15",
@@ -3216,7 +2991,7 @@
    "traslados": [],
    "desde": 1445990,
    "hasta": 1669990,
-   "n_fechas": 5,
+   "n_fechas": 4,
    "galeria": "https://galerias.trvely.com.co/poblado/",
    "experiencias": null
   },
@@ -3228,21 +3003,6 @@
    "noches": 3,
    "codigo": "COV-POB-4D3N-PC-ISB",
    "fechas": [
-    [
-     "2026-11-09",
-     "2026-11-12",
-     2042990,
-     {
-      "ai": "Avianca",
-      "si": "11:35",
-      "li": "12:55",
-      "ar": "Avianca",
-      "sr": "12:35",
-      "lr": "14:00",
-      "ei": false,
-      "er": false
-     }
-    ],
     [
      "2026-11-12",
      "2026-11-15",
@@ -3317,7 +3077,7 @@
    "traslados": [],
    "desde": 2016990,
    "hasta": 2314990,
-   "n_fechas": 5,
+   "n_fechas": 4,
    "galeria": "https://galerias.trvely.com.co/poblado/",
    "experiencias": null
   },
@@ -3329,21 +3089,6 @@
    "noches": 3,
    "codigo": "COV-POA-4D3N-AD-ISB",
    "fechas": [
-    [
-     "2026-11-09",
-     "2026-11-12",
-     1219990,
-     {
-      "ai": "Avianca",
-      "si": "11:35",
-      "li": "12:55",
-      "ar": "Avianca",
-      "sr": "12:35",
-      "lr": "14:00",
-      "ei": false,
-      "er": false
-     }
-    ],
     [
      "2026-11-12",
      "2026-11-15",
@@ -3418,7 +3163,7 @@
    "traslados": [],
    "desde": 1197990,
    "hasta": 1454990,
-   "n_fechas": 5,
+   "n_fechas": 4,
    "galeria": "https://galerias.trvely.com.co/portoalegre/",
    "experiencias": null
   },
@@ -3430,21 +3175,6 @@
    "noches": 3,
    "codigo": "COV-POA-4D3N-PAM-ISB",
    "fechas": [
-    [
-     "2026-11-09",
-     "2026-11-12",
-     1295990,
-     {
-      "ai": "Avianca",
-      "si": "11:35",
-      "li": "12:55",
-      "ar": "Avianca",
-      "sr": "12:35",
-      "lr": "14:00",
-      "ei": false,
-      "er": false
-     }
-    ],
     [
      "2026-11-12",
      "2026-11-15",
@@ -3519,7 +3249,7 @@
    "traslados": [],
    "desde": 1273990,
    "hasta": 1530990,
-   "n_fechas": 5,
+   "n_fechas": 4,
    "galeria": "https://galerias.trvely.com.co/portoalegre/",
    "experiencias": null
   },
@@ -3531,21 +3261,6 @@
    "noches": 3,
    "codigo": "COV-POA-4D3N-PC-ISB",
    "fechas": [
-    [
-     "2026-11-09",
-     "2026-11-12",
-     1381990,
-     {
-      "ai": "Avianca",
-      "si": "11:35",
-      "li": "12:55",
-      "ar": "Avianca",
-      "sr": "12:35",
-      "lr": "14:00",
-      "ei": false,
-      "er": false
-     }
-    ],
     [
      "2026-11-12",
      "2026-11-15",
@@ -3620,7 +3335,7 @@
    "traslados": [],
    "desde": 1359990,
    "hasta": 1616990,
-   "n_fechas": 5,
+   "n_fechas": 4,
    "galeria": "https://galerias.trvely.com.co/portoalegre/",
    "experiencias": null
   },
@@ -3632,21 +3347,6 @@
    "noches": 3,
    "codigo": "COV-TLM-EST-4D3N-AD-ISB",
    "fechas": [
-    [
-     "2026-11-09",
-     "2026-11-12",
-     1579990,
-     {
-      "ai": "Avianca",
-      "si": "11:35",
-      "li": "12:55",
-      "ar": "Avianca",
-      "sr": "12:35",
-      "lr": "14:00",
-      "ei": false,
-      "er": false
-     }
-    ],
     [
      "2026-11-12",
      "2026-11-15",
@@ -3721,7 +3421,7 @@
    "traslados": [],
    "desde": 1558990,
    "hasta": 1814990,
-   "n_fechas": 5,
+   "n_fechas": 4,
    "galeria": "https://galerias.trvely.com.co/talam-house/",
    "experiencias": null
   },
@@ -3733,21 +3433,6 @@
    "noches": 3,
    "codigo": "COV-TLM-SUP-4D3N-AD-ISB",
    "fechas": [
-    [
-     "2026-11-09",
-     "2026-11-12",
-     1893990,
-     {
-      "ai": "Avianca",
-      "si": "11:35",
-      "li": "12:55",
-      "ar": "Avianca",
-      "sr": "12:35",
-      "lr": "14:00",
-      "ei": false,
-      "er": false
-     }
-    ],
     [
      "2026-11-12",
      "2026-11-15",
@@ -3822,7 +3507,7 @@
    "traslados": [],
    "desde": 1867990,
    "hasta": 2159990,
-   "n_fechas": 5,
+   "n_fechas": 4,
    "galeria": "https://galerias.trvely.com.co/talam-house/",
    "experiencias": null
   },
@@ -3834,21 +3519,6 @@
    "noches": 3,
    "codigo": "CTG-ARBE-4D3N-PC-EST",
    "fechas": [
-    [
-     "2026-11-09",
-     "2026-11-12",
-     1590990,
-     {
-      "ai": "Avianca",
-      "si": "05:00",
-      "li": "06:30",
-      "ar": "Avianca",
-      "sr": "22:10",
-      "lr": "23:40",
-      "ei": false,
-      "er": false
-     }
-    ],
     [
      "2026-11-15",
      "2026-11-18",
@@ -3955,7 +3625,7 @@
    ],
    "desde": 1590990,
    "hasta": 1844990,
-   "n_fechas": 7,
+   "n_fechas": 6,
    "galeria": "https://galerias.trvely.com.co/arena-beach/",
    "experiencias": "https://experiencias.trvely.com.co/cartagena/"
   },
@@ -3967,21 +3637,6 @@
    "noches": 3,
    "codigo": "CTG-ATLX-4D3N-DC-EST",
    "fechas": [
-    [
-     "2026-11-09",
-     "2026-11-12",
-     1490990,
-     {
-      "ai": "Avianca",
-      "si": "05:00",
-      "li": "06:30",
-      "ar": "Avianca",
-      "sr": "22:10",
-      "lr": "23:40",
-      "ei": false,
-      "er": false
-     }
-    ],
     [
      "2026-11-15",
      "2026-11-18",
@@ -4075,7 +3730,7 @@
    ],
    "desde": 1068990,
    "hasta": 1512990,
-   "n_fechas": 6,
+   "n_fechas": 5,
    "galeria": "https://galerias.trvely.com.co/atlantic-lux/",
    "experiencias": "https://experiencias.trvely.com.co/cartagena/"
   },
@@ -4087,21 +3742,6 @@
    "noches": 3,
    "codigo": "CTG-ATLX-4D3N-DC-SUP",
    "fechas": [
-    [
-     "2026-11-09",
-     "2026-11-12",
-     1551990,
-     {
-      "ai": "Avianca",
-      "si": "05:00",
-      "li": "06:30",
-      "ar": "Avianca",
-      "sr": "22:10",
-      "lr": "23:40",
-      "ei": false,
-      "er": false
-     }
-    ],
     [
      "2026-11-15",
      "2026-11-18",
@@ -4195,7 +3835,7 @@
    ],
    "desde": 1094990,
    "hasta": 1573990,
-   "n_fechas": 6,
+   "n_fechas": 5,
    "galeria": "https://galerias.trvely.com.co/atlantic-lux/",
    "experiencias": "https://experiencias.trvely.com.co/cartagena/"
   },
@@ -4207,21 +3847,6 @@
    "noches": 3,
    "codigo": "CTG-ATLX-4D3N-PC-EST",
    "fechas": [
-    [
-     "2026-11-09",
-     "2026-11-12",
-     1628990,
-     {
-      "ai": "Avianca",
-      "si": "05:00",
-      "li": "06:30",
-      "ar": "Avianca",
-      "sr": "22:10",
-      "lr": "23:40",
-      "ei": false,
-      "er": false
-     }
-    ],
     [
      "2026-11-15",
      "2026-11-18",
@@ -4315,7 +3940,7 @@
    ],
    "desde": 1114990,
    "hasta": 1650990,
-   "n_fechas": 6,
+   "n_fechas": 5,
    "galeria": "https://galerias.trvely.com.co/atlantic-lux/",
    "experiencias": "https://experiencias.trvely.com.co/cartagena/"
   },
@@ -4327,21 +3952,6 @@
    "noches": 3,
    "codigo": "CTG-ATLX-4D3N-PC-SUP",
    "fechas": [
-    [
-     "2026-11-09",
-     "2026-11-12",
-     1694990,
-     {
-      "ai": "Avianca",
-      "si": "05:00",
-      "li": "06:30",
-      "ar": "Avianca",
-      "sr": "22:10",
-      "lr": "23:40",
-      "ei": false,
-      "er": false
-     }
-    ],
     [
      "2026-11-15",
      "2026-11-18",
@@ -4435,7 +4045,7 @@
    ],
    "desde": 1140990,
    "hasta": 1720990,
-   "n_fechas": 6,
+   "n_fechas": 5,
    "galeria": "https://galerias.trvely.com.co/atlantic-lux/",
    "experiencias": "https://experiencias.trvely.com.co/cartagena/"
   },
@@ -4447,21 +4057,6 @@
    "noches": 3,
    "codigo": "CTG-BHC-4D3N-DC-EST",
    "fechas": [
-    [
-     "2026-11-09",
-     "2026-11-12",
-     1625990,
-     {
-      "ai": "Avianca",
-      "si": "05:00",
-      "li": "06:30",
-      "ar": "Avianca",
-      "sr": "22:10",
-      "lr": "23:40",
-      "ei": false,
-      "er": false
-     }
-    ],
     [
      "2026-11-15",
      "2026-11-18",
@@ -4540,7 +4135,7 @@
    ],
    "desde": 1625990,
    "hasta": 1647990,
-   "n_fechas": 5,
+   "n_fechas": 4,
    "galeria": "https://galerias.trvely.com.co/bahia-cartagena/",
    "experiencias": "https://experiencias.trvely.com.co/cartagena/"
   },
@@ -4552,21 +4147,6 @@
    "noches": 3,
    "codigo": "CTG-BCD-4D3N-TI-EST",
    "fechas": [
-    [
-     "2026-11-09",
-     "2026-11-12",
-     1953990,
-     {
-      "ai": "Avianca",
-      "si": "05:00",
-      "li": "06:30",
-      "ar": "Avianca",
-      "sr": "22:10",
-      "lr": "23:40",
-      "ei": false,
-      "er": false
-     }
-    ],
     [
      "2026-11-15",
      "2026-11-18",
@@ -4690,7 +4270,7 @@
    ],
    "desde": 1824990,
    "hasta": 1980990,
-   "n_fechas": 8,
+   "n_fechas": 7,
    "galeria": "https://galerias.trvely.com.co/cartagena-dubai/",
    "experiencias": "https://experiencias.trvely.com.co/cartagena/"
   },
@@ -4702,21 +4282,6 @@
    "noches": 3,
    "codigo": "CTG-BCD-4D3N-TI-JS",
    "fechas": [
-    [
-     "2026-11-09",
-     "2026-11-12",
-     2205990,
-     {
-      "ai": "Avianca",
-      "si": "05:00",
-      "li": "06:30",
-      "ar": "Avianca",
-      "sr": "22:10",
-      "lr": "23:40",
-      "ei": false,
-      "er": false
-     }
-    ],
     [
      "2026-11-15",
      "2026-11-18",
@@ -4840,7 +4405,7 @@
    ],
    "desde": 2076990,
    "hasta": 2232990,
-   "n_fechas": 8,
+   "n_fechas": 7,
    "galeria": "https://galerias.trvely.com.co/cartagena-dubai/",
    "experiencias": "https://experiencias.trvely.com.co/cartagena/"
   },
@@ -4852,21 +4417,6 @@
    "noches": 3,
    "codigo": "CTG-BCD-4D3N-TI-MSS",
    "fechas": [
-    [
-     "2026-11-09",
-     "2026-11-12",
-     2324990,
-     {
-      "ai": "Avianca",
-      "si": "05:00",
-      "li": "06:30",
-      "ar": "Avianca",
-      "sr": "22:10",
-      "lr": "23:40",
-      "ei": false,
-      "er": false
-     }
-    ],
     [
      "2026-11-15",
      "2026-11-18",
@@ -4990,7 +4540,7 @@
    ],
    "desde": 2195990,
    "hasta": 2351990,
-   "n_fechas": 8,
+   "n_fechas": 7,
    "galeria": "https://galerias.trvely.com.co/cartagena-dubai/",
    "experiencias": "https://experiencias.trvely.com.co/cartagena/"
   },
@@ -5002,21 +4552,6 @@
    "noches": 3,
    "codigo": "CTG-BCD-4D3N-TI-SUP",
    "fechas": [
-    [
-     "2026-11-09",
-     "2026-11-12",
-     2062990,
-     {
-      "ai": "Avianca",
-      "si": "05:00",
-      "li": "06:30",
-      "ar": "Avianca",
-      "sr": "22:10",
-      "lr": "23:40",
-      "ei": false,
-      "er": false
-     }
-    ],
     [
      "2026-11-15",
      "2026-11-18",
@@ -5140,7 +4675,7 @@
    ],
    "desde": 1933990,
    "hasta": 2089990,
-   "n_fechas": 8,
+   "n_fechas": 7,
    "galeria": "https://galerias.trvely.com.co/cartagena-dubai/",
    "experiencias": "https://experiencias.trvely.com.co/cartagena/"
   },
@@ -5152,21 +4687,6 @@
    "noches": 3,
    "codigo": "CTG-CTP-4D3N-PC-EST",
    "fechas": [
-    [
-     "2026-11-09",
-     "2026-11-12",
-     1558990,
-     {
-      "ai": "Avianca",
-      "si": "05:00",
-      "li": "06:30",
-      "ar": "Avianca",
-      "sr": "22:10",
-      "lr": "23:40",
-      "ei": false,
-      "er": false
-     }
-    ],
     [
      "2026-11-15",
      "2026-11-18",
@@ -5274,8 +4794,8 @@
     "Traslado Hotel Cartagena -> Aeropuerto CTG"
    ],
    "desde": 1073990,
-   "hasta": 1558990,
-   "n_fechas": 7,
+   "hasta": 1504990,
+   "n_fechas": 6,
    "galeria": "https://galerias.trvely.com.co/cartagena-premium/",
    "experiencias": "https://experiencias.trvely.com.co/cartagena/"
   },
@@ -5287,21 +4807,6 @@
    "noches": 3,
    "codigo": "CTG-CDI-4D3N-DES-EST",
    "fechas": [
-    [
-     "2026-11-09",
-     "2026-11-12",
-     1540990,
-     {
-      "ai": "Avianca",
-      "si": "05:00",
-      "li": "06:30",
-      "ar": "Avianca",
-      "sr": "22:10",
-      "lr": "23:40",
-      "ei": false,
-      "er": false
-     }
-    ],
     [
      "2026-11-15",
      "2026-11-18",
@@ -5410,7 +4915,7 @@
    ],
    "desde": 1540990,
    "hasta": 1767990,
-   "n_fechas": 7,
+   "n_fechas": 6,
    "galeria": "https://galerias.trvely.com.co/corales-de-indias/",
    "experiencias": "https://experiencias.trvely.com.co/cartagena/"
   },
@@ -5422,21 +4927,6 @@
    "noches": 3,
    "codigo": "CTG-CDI-4D3N-DES-JS",
    "fechas": [
-    [
-     "2026-11-09",
-     "2026-11-12",
-     1760990,
-     {
-      "ai": "Avianca",
-      "si": "05:00",
-      "li": "06:30",
-      "ar": "Avianca",
-      "sr": "22:10",
-      "lr": "23:40",
-      "ei": false,
-      "er": false
-     }
-    ],
     [
      "2026-11-15",
      "2026-11-18",
@@ -5545,7 +5035,7 @@
    ],
    "desde": 1760990,
    "hasta": 2013990,
-   "n_fechas": 7,
+   "n_fechas": 6,
    "galeria": "https://galerias.trvely.com.co/corales-de-indias/",
    "experiencias": "https://experiencias.trvely.com.co/cartagena/"
   },
@@ -5557,21 +5047,6 @@
    "noches": 3,
    "codigo": "CTG-CDS-4D3N-PC-EST-SEV",
    "fechas": [
-    [
-     "2026-11-09",
-     "2026-11-12",
-     1417990,
-     {
-      "ai": "Avianca",
-      "si": "05:00",
-      "li": "06:30",
-      "ar": "Avianca",
-      "sr": "22:10",
-      "lr": "23:40",
-      "ei": false,
-      "er": false
-     }
-    ],
     [
      "2026-11-15",
      "2026-11-18",
@@ -5681,8 +5156,8 @@
    "incluye": {
     "tiquete": true,
     "alojamiento": true,
-    "tours": true,
-    "traslado": true,
+    "tours": false,
+    "traslado": false,
     "asistencia": true
    },
    "tours_incluidos": [
@@ -5695,7 +5170,7 @@
    ],
    "desde": 1309990,
    "hasta": 1497990,
-   "n_fechas": 8,
+   "n_fechas": 7,
    "galeria": "https://galerias.trvely.com.co/costa-del-sol/",
    "experiencias": "https://experiencias.trvely.com.co/cartagena/"
   },
@@ -5707,21 +5182,6 @@
    "noches": 3,
    "codigo": "CTG-CDS-4D3N-PC-SUP-AND",
    "fechas": [
-    [
-     "2026-11-09",
-     "2026-11-12",
-     1454990,
-     {
-      "ai": "Avianca",
-      "si": "05:00",
-      "li": "06:30",
-      "ar": "Avianca",
-      "sr": "22:10",
-      "lr": "23:40",
-      "ei": false,
-      "er": false
-     }
-    ],
     [
      "2026-11-15",
      "2026-11-18",
@@ -5831,8 +5291,8 @@
    "incluye": {
     "tiquete": true,
     "alojamiento": true,
-    "tours": true,
-    "traslado": true,
+    "tours": false,
+    "traslado": false,
     "asistencia": true
    },
    "tours_incluidos": [
@@ -5845,7 +5305,7 @@
    ],
    "desde": 1346990,
    "hasta": 1534990,
-   "n_fechas": 8,
+   "n_fechas": 7,
    "galeria": "https://galerias.trvely.com.co/costa-del-sol/",
    "experiencias": "https://experiencias.trvely.com.co/cartagena/"
   },
@@ -5857,21 +5317,6 @@
    "noches": 3,
    "codigo": "CTG-CDS-4D3N-PC-VM-AND",
    "fechas": [
-    [
-     "2026-11-09",
-     "2026-11-12",
-     1545990,
-     {
-      "ai": "Avianca",
-      "si": "05:00",
-      "li": "06:30",
-      "ar": "Avianca",
-      "sr": "22:10",
-      "lr": "23:40",
-      "ei": false,
-      "er": false
-     }
-    ],
     [
      "2026-11-15",
      "2026-11-18",
@@ -5981,8 +5426,8 @@
    "incluye": {
     "tiquete": true,
     "alojamiento": true,
-    "tours": true,
-    "traslado": true,
+    "tours": false,
+    "traslado": false,
     "asistencia": true
    },
    "tours_incluidos": [
@@ -5995,7 +5440,7 @@
    ],
    "desde": 1438990,
    "hasta": 1625990,
-   "n_fechas": 8,
+   "n_fechas": 7,
    "galeria": "https://galerias.trvely.com.co/costa-del-sol/",
    "experiencias": "https://experiencias.trvely.com.co/cartagena/"
   },
@@ -6007,21 +5452,6 @@
    "noches": 3,
    "codigo": "CTG-CDS-4D3N-PC-VM-SEV",
    "fechas": [
-    [
-     "2026-11-09",
-     "2026-11-12",
-     1508990,
-     {
-      "ai": "Avianca",
-      "si": "05:00",
-      "li": "06:30",
-      "ar": "Avianca",
-      "sr": "22:10",
-      "lr": "23:40",
-      "ei": false,
-      "er": false
-     }
-    ],
     [
      "2026-11-15",
      "2026-11-18",
@@ -6131,8 +5561,8 @@
    "incluye": {
     "tiquete": true,
     "alojamiento": true,
-    "tours": true,
-    "traslado": true,
+    "tours": false,
+    "traslado": false,
     "asistencia": true
    },
    "tours_incluidos": [
@@ -6145,7 +5575,7 @@
    ],
    "desde": 1401990,
    "hasta": 1588990,
-   "n_fechas": 8,
+   "n_fechas": 7,
    "galeria": "https://galerias.trvely.com.co/costa-del-sol/",
    "experiencias": "https://experiencias.trvely.com.co/cartagena/"
   },
@@ -6157,21 +5587,6 @@
    "noches": 3,
    "codigo": "CTG-DPB-4D3N-TI-EST",
    "fechas": [
-    [
-     "2026-11-09",
-     "2026-11-12",
-     1620990,
-     {
-      "ai": "Avianca",
-      "si": "05:00",
-      "li": "06:30",
-      "ar": "Avianca",
-      "sr": "22:10",
-      "lr": "23:40",
-      "ei": false,
-      "er": false
-     }
-    ],
     [
      "2026-11-15",
      "2026-11-18",
@@ -6280,7 +5695,7 @@
    ],
    "desde": 1177990,
    "hasta": 1645990,
-   "n_fechas": 7,
+   "n_fechas": 6,
    "galeria": "https://galerias.trvely.com.co/dorado-plaza-bocagrande/",
    "experiencias": "https://experiencias.trvely.com.co/cartagena/"
   },
@@ -6292,21 +5707,6 @@
    "noches": 3,
    "codigo": "CTG-DPB-4D3N-TI-JS",
    "fechas": [
-    [
-     "2026-11-09",
-     "2026-11-12",
-     2046990,
-     {
-      "ai": "Avianca",
-      "si": "05:00",
-      "li": "06:30",
-      "ar": "Avianca",
-      "sr": "22:10",
-      "lr": "23:40",
-      "ei": false,
-      "er": false
-     }
-    ],
     [
      "2026-11-15",
      "2026-11-18",
@@ -6415,7 +5815,7 @@
    ],
    "desde": 1348990,
    "hasta": 2078990,
-   "n_fechas": 7,
+   "n_fechas": 6,
    "galeria": "https://galerias.trvely.com.co/dorado-plaza-bocagrande/",
    "experiencias": "https://experiencias.trvely.com.co/cartagena/"
   },
@@ -6427,21 +5827,6 @@
    "noches": 3,
    "codigo": "CTG-DPB-4D3N-TI-MSS",
    "fechas": [
-    [
-     "2026-11-09",
-     "2026-11-12",
-     1894990,
-     {
-      "ai": "Avianca",
-      "si": "05:00",
-      "li": "06:30",
-      "ar": "Avianca",
-      "sr": "22:10",
-      "lr": "23:40",
-      "ei": false,
-      "er": false
-     }
-    ],
     [
      "2026-11-15",
      "2026-11-18",
@@ -6550,7 +5935,7 @@
    ],
    "desde": 1288990,
    "hasta": 1925990,
-   "n_fechas": 7,
+   "n_fechas": 6,
    "galeria": "https://galerias.trvely.com.co/dorado-plaza-bocagrande/",
    "experiencias": "https://experiencias.trvely.com.co/cartagena/"
   },
@@ -6562,21 +5947,6 @@
    "noches": 3,
    "codigo": "CTG-DPB-4D3N-TI-SUP",
    "fechas": [
-    [
-     "2026-11-09",
-     "2026-11-12",
-     1650990,
-     {
-      "ai": "Avianca",
-      "si": "05:00",
-      "li": "06:30",
-      "ar": "Avianca",
-      "sr": "22:10",
-      "lr": "23:40",
-      "ei": false,
-      "er": false
-     }
-    ],
     [
      "2026-11-15",
      "2026-11-18",
@@ -6685,7 +6055,7 @@
    ],
    "desde": 1191990,
    "hasta": 1676990,
-   "n_fechas": 7,
+   "n_fechas": 6,
    "galeria": "https://galerias.trvely.com.co/dorado-plaza-bocagrande/",
    "experiencias": "https://experiencias.trvely.com.co/cartagena/"
   },
@@ -6697,21 +6067,6 @@
    "noches": 3,
    "codigo": "CTG-DPB-4D3N-TI-VM",
    "fechas": [
-    [
-     "2026-11-09",
-     "2026-11-12",
-     1854990,
-     {
-      "ai": "Avianca",
-      "si": "05:00",
-      "li": "06:30",
-      "ar": "Avianca",
-      "sr": "22:10",
-      "lr": "23:40",
-      "ei": false,
-      "er": false
-     }
-    ],
     [
      "2026-11-15",
      "2026-11-18",
@@ -6820,7 +6175,7 @@
    ],
    "desde": 1273990,
    "hasta": 1885990,
-   "n_fechas": 7,
+   "n_fechas": 6,
    "galeria": "https://galerias.trvely.com.co/dorado-plaza-bocagrande/",
    "experiencias": "https://experiencias.trvely.com.co/cartagena/"
   },
@@ -6832,21 +6187,6 @@
    "noches": 3,
    "codigo": "CTG-DPCH-4D3N-DES-EST",
    "fechas": [
-    [
-     "2026-11-09",
-     "2026-11-12",
-     1181990,
-     {
-      "ai": "Avianca",
-      "si": "05:00",
-      "li": "06:30",
-      "ar": "Avianca",
-      "sr": "22:10",
-      "lr": "23:40",
-      "ei": false,
-      "er": false
-     }
-    ],
     [
      "2026-11-15",
      "2026-11-18",
@@ -6955,7 +6295,7 @@
    ],
    "desde": 1034990,
    "hasta": 1287990,
-   "n_fechas": 7,
+   "n_fechas": 6,
    "galeria": "https://galerias.trvely.com.co/dorado-plaza-centro-historico/",
    "experiencias": "https://experiencias.trvely.com.co/cartagena/"
   },
@@ -6967,21 +6307,6 @@
    "noches": 3,
    "codigo": "CTG-DPCH-4D3N-DES-SUP",
    "fechas": [
-    [
-     "2026-11-09",
-     "2026-11-12",
-     1302990,
-     {
-      "ai": "Avianca",
-      "si": "05:00",
-      "li": "06:30",
-      "ar": "Avianca",
-      "sr": "22:10",
-      "lr": "23:40",
-      "ei": false,
-      "er": false
-     }
-    ],
     [
      "2026-11-15",
      "2026-11-18",
@@ -7090,7 +6415,7 @@
    ],
    "desde": 1110990,
    "hasta": 1439990,
-   "n_fechas": 7,
+   "n_fechas": 6,
    "galeria": "https://galerias.trvely.com.co/dorado-plaza-centro-historico/",
    "experiencias": "https://experiencias.trvely.com.co/cartagena/"
   },
@@ -7102,21 +6427,6 @@
    "noches": 3,
    "codigo": "CTG-TFL-4D3N-DC-EST",
    "fechas": [
-    [
-     "2026-11-09",
-     "2026-11-12",
-     1292990,
-     {
-      "ai": "Avianca",
-      "si": "05:00",
-      "li": "06:30",
-      "ar": "Avianca",
-      "sr": "22:10",
-      "lr": "23:40",
-      "ei": false,
-      "er": false
-     }
-    ],
     [
      "2026-11-15",
      "2026-11-18",
@@ -7208,7 +6518,7 @@
    ],
    "desde": 1039990,
    "hasta": 1314990,
-   "n_fechas": 6,
+   "n_fechas": 5,
    "galeria": "https://galerias.trvely.com.co/toledo-fl/",
    "experiencias": "https://experiencias.trvely.com.co/cartagena/"
   },
@@ -9944,21 +9254,6 @@
    "codigo": "TLU-LOA-EST-4D3N-AD-ISB",
    "fechas": [
     [
-     "2026-11-09",
-     "2026-11-12",
-     1524990,
-     {
-      "ai": "Avianca",
-      "si": "11:35",
-      "li": "12:55",
-      "ar": "Avianca",
-      "sr": "12:35",
-      "lr": "14:00",
-      "ei": false,
-      "er": false
-     }
-    ],
-    [
      "2026-11-12",
      "2026-11-15",
      1745990,
@@ -10032,7 +9327,7 @@
    "traslados": [],
    "desde": 1503990,
    "hasta": 1745990,
-   "n_fechas": 5,
+   "n_fechas": 4,
    "galeria": "https://galerias.trvely.com.co/loa/",
    "experiencias": null
   },
@@ -10044,21 +9339,6 @@
    "noches": 3,
    "codigo": "TLU-LOA-EST-4D3N-PAM-ISB",
    "fechas": [
-    [
-     "2026-11-09",
-     "2026-11-12",
-     1621990,
-     {
-      "ai": "Avianca",
-      "si": "11:35",
-      "li": "12:55",
-      "ar": "Avianca",
-      "sr": "12:35",
-      "lr": "14:00",
-      "ei": false,
-      "er": false
-     }
-    ],
     [
      "2026-11-12",
      "2026-11-15",
@@ -10133,7 +9413,7 @@
    "traslados": [],
    "desde": 1599990,
    "hasta": 1866990,
-   "n_fechas": 5,
+   "n_fechas": 4,
    "galeria": "https://galerias.trvely.com.co/loa/",
    "experiencias": null
   },
@@ -10145,21 +9425,6 @@
    "noches": 3,
    "codigo": "TLU-LOA-EST-4D3N-PC-ISB",
    "fechas": [
-    [
-     "2026-11-09",
-     "2026-11-12",
-     1727990,
-     {
-      "ai": "Avianca",
-      "si": "11:35",
-      "li": "12:55",
-      "ar": "Avianca",
-      "sr": "12:35",
-      "lr": "14:00",
-      "ei": false,
-      "er": false
-     }
-    ],
     [
      "2026-11-12",
      "2026-11-15",
@@ -10234,7 +9499,7 @@
    "traslados": [],
    "desde": 1701990,
    "hasta": 1986990,
-   "n_fechas": 5,
+   "n_fechas": 4,
    "galeria": "https://galerias.trvely.com.co/loa/",
    "experiencias": null
   },
@@ -10246,21 +9511,6 @@
    "noches": 3,
    "codigo": "TLU-LOA-STE-4D3N-AD-ISB",
    "fechas": [
-    [
-     "2026-11-09",
-     "2026-11-12",
-     1662990,
-     {
-      "ai": "Avianca",
-      "si": "11:35",
-      "li": "12:55",
-      "ar": "Avianca",
-      "sr": "12:35",
-      "lr": "14:00",
-      "ei": false,
-      "er": false
-     }
-    ],
     [
      "2026-11-12",
      "2026-11-15",
@@ -10335,7 +9585,7 @@
    "traslados": [],
    "desde": 1640990,
    "hasta": 1918990,
-   "n_fechas": 5,
+   "n_fechas": 4,
    "galeria": "https://galerias.trvely.com.co/loa/",
    "experiencias": null
   },
@@ -10347,21 +9597,6 @@
    "noches": 3,
    "codigo": "TLU-LOA-STE-4D3N-PAM-ISB",
    "fechas": [
-    [
-     "2026-11-09",
-     "2026-11-12",
-     1777990,
-     {
-      "ai": "Avianca",
-      "si": "11:35",
-      "li": "12:55",
-      "ar": "Avianca",
-      "sr": "12:35",
-      "lr": "14:00",
-      "ei": false,
-      "er": false
-     }
-    ],
     [
      "2026-11-12",
      "2026-11-15",
@@ -10436,7 +9671,7 @@
    "traslados": [],
    "desde": 1751990,
    "hasta": 2038990,
-   "n_fechas": 5,
+   "n_fechas": 4,
    "galeria": "https://galerias.trvely.com.co/loa/",
    "experiencias": null
   },
@@ -10448,21 +9683,6 @@
    "noches": 3,
    "codigo": "TLU-LOA-STE-4D3N-PC-ISB",
    "fechas": [
-    [
-     "2026-11-09",
-     "2026-11-12",
-     1893990,
-     {
-      "ai": "Avianca",
-      "si": "11:35",
-      "li": "12:55",
-      "ar": "Avianca",
-      "sr": "12:35",
-      "lr": "14:00",
-      "ei": false,
-      "er": false
-     }
-    ],
     [
      "2026-11-12",
      "2026-11-15",
@@ -10537,7 +9757,7 @@
    "traslados": [],
    "desde": 1867990,
    "hasta": 2159990,
-   "n_fechas": 5,
+   "n_fechas": 4,
    "galeria": "https://galerias.trvely.com.co/loa/",
    "experiencias": null
   },
@@ -10549,21 +9769,6 @@
    "noches": 3,
    "codigo": "TLU-LOA-SUP-4D3N-AD-ISB",
    "fechas": [
-    [
-     "2026-11-09",
-     "2026-11-12",
-     1607990,
-     {
-      "ai": "Avianca",
-      "si": "11:35",
-      "li": "12:55",
-      "ar": "Avianca",
-      "sr": "12:35",
-      "lr": "14:00",
-      "ei": false,
-      "er": false
-     }
-    ],
     [
      "2026-11-12",
      "2026-11-15",
@@ -10638,7 +9843,7 @@
    "traslados": [],
    "desde": 1585990,
    "hasta": 1849990,
-   "n_fechas": 5,
+   "n_fechas": 4,
    "galeria": "https://galerias.trvely.com.co/loa/",
    "experiencias": null
   },
@@ -10650,21 +9855,6 @@
    "noches": 3,
    "codigo": "TLU-LOA-SUP-4D3N-PAM-ISB",
    "fechas": [
-    [
-     "2026-11-09",
-     "2026-11-12",
-     1711990,
-     {
-      "ai": "Avianca",
-      "si": "11:35",
-      "li": "12:55",
-      "ar": "Avianca",
-      "sr": "12:35",
-      "lr": "14:00",
-      "ei": false,
-      "er": false
-     }
-    ],
     [
      "2026-11-12",
      "2026-11-15",
@@ -10739,7 +9929,7 @@
    "traslados": [],
    "desde": 1685990,
    "hasta": 1969990,
-   "n_fechas": 5,
+   "n_fechas": 4,
    "galeria": "https://galerias.trvely.com.co/loa/",
    "experiencias": null
   },
@@ -10751,21 +9941,6 @@
    "noches": 3,
    "codigo": "TLU-LOA-SUP-4D3N-PC-ISB",
    "fechas": [
-    [
-     "2026-11-09",
-     "2026-11-12",
-     1827990,
-     {
-      "ai": "Avianca",
-      "si": "11:35",
-      "li": "12:55",
-      "ar": "Avianca",
-      "sr": "12:35",
-      "lr": "14:00",
-      "ei": false,
-      "er": false
-     }
-    ],
     [
      "2026-11-12",
      "2026-11-15",
@@ -10840,7 +10015,7 @@
    "traslados": [],
    "desde": 1801990,
    "hasta": 2090990,
-   "n_fechas": 5,
+   "n_fechas": 4,
    "galeria": "https://galerias.trvely.com.co/loa/",
    "experiencias": null
   },
@@ -10852,21 +10027,6 @@
    "noches": 3,
    "codigo": "TLU-MUK-4D3N-PAM-ISB",
    "fechas": [
-    [
-     "2026-11-09",
-     "2026-11-12",
-     1621990,
-     {
-      "ai": "Avianca",
-      "si": "11:35",
-      "li": "12:55",
-      "ar": "Avianca",
-      "sr": "12:35",
-      "lr": "14:00",
-      "ei": false,
-      "er": false
-     }
-    ],
     [
      "2026-11-12",
      "2026-11-15",
@@ -10941,7 +10101,7 @@
    "traslados": [],
    "desde": 1599990,
    "hasta": 1866990,
-   "n_fechas": 5,
+   "n_fechas": 4,
    "galeria": null,
    "experiencias": null
   },
@@ -10953,21 +10113,6 @@
    "noches": 3,
    "codigo": "TLU-MUK-4D3N-PC-ISB",
    "fechas": [
-    [
-     "2026-11-09",
-     "2026-11-12",
-     1727990,
-     {
-      "ai": "Avianca",
-      "si": "11:35",
-      "li": "12:55",
-      "ar": "Avianca",
-      "sr": "12:35",
-      "lr": "14:00",
-      "ei": false,
-      "er": false
-     }
-    ],
     [
      "2026-11-12",
      "2026-11-15",
@@ -11042,7 +10187,7 @@
    "traslados": [],
    "desde": 1701990,
    "hasta": 1986990,
-   "n_fechas": 5,
+   "n_fechas": 4,
    "galeria": null,
    "experiencias": null
   }
