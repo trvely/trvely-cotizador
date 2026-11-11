@@ -1,6 +1,6 @@
 {
- "generado": "2026-11-10",
- "generado_hora": "15:28",
+ "generado": "2026-11-11",
+ "generado_hora": "15:12",
  "acomodacion": "doble",
  "productos": [
   {
@@ -3700,7 +3700,7 @@
     [
      "2027-01-10",
      "2027-01-13",
-     1068990,
+     1570990,
      {
       "ai": "Avianca",
       "si": "05:00",
@@ -3708,6 +3708,36 @@
       "ar": "Avianca",
       "sr": "21:45",
       "lr": "23:15",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2027-01-11",
+     "2027-01-14",
+     1538990,
+     {
+      "ai": "Avianca",
+      "si": "05:00",
+      "li": "06:30",
+      "ar": "Avianca",
+      "sr": "12:05",
+      "lr": "13:30",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2027-01-21",
+     "2027-01-24",
+     1522990,
+     {
+      "ai": "Wingo",
+      "si": "06:25",
+      "li": "07:57",
+      "ar": "Wingo",
+      "sr": "13:06",
+      "lr": "14:35",
       "ei": false,
       "er": false
      }
@@ -3728,9 +3758,9 @@
     "Traslado Hotel Cartagena -> Aeropuerto CTG",
     "Traslado Aeropuerto CTG -> Hotel Cartagena"
    ],
-   "desde": 1068990,
-   "hasta": 1512990,
-   "n_fechas": 5,
+   "desde": 1490990,
+   "hasta": 1570990,
+   "n_fechas": 7,
    "galeria": "https://galerias.trvely.com.co/atlantic-lux/",
    "experiencias": "https://experiencias.trvely.com.co/cartagena/"
   },
@@ -3805,7 +3835,7 @@
     [
      "2027-01-10",
      "2027-01-13",
-     1094990,
+     1642990,
      {
       "ai": "Avianca",
       "si": "05:00",
@@ -3813,6 +3843,36 @@
       "ar": "Avianca",
       "sr": "21:45",
       "lr": "23:15",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2027-01-11",
+     "2027-01-14",
+     1605990,
+     {
+      "ai": "Avianca",
+      "si": "05:00",
+      "li": "06:30",
+      "ar": "Avianca",
+      "sr": "12:05",
+      "lr": "13:30",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2027-01-21",
+     "2027-01-24",
+     1590990,
+     {
+      "ai": "Wingo",
+      "si": "06:25",
+      "li": "07:57",
+      "ar": "Wingo",
+      "sr": "13:06",
+      "lr": "14:35",
       "ei": false,
       "er": false
      }
@@ -3833,9 +3893,9 @@
     "Traslado Hotel Cartagena -> Aeropuerto CTG",
     "Traslado Aeropuerto CTG -> Hotel Cartagena"
    ],
-   "desde": 1094990,
-   "hasta": 1573990,
-   "n_fechas": 5,
+   "desde": 1551990,
+   "hasta": 1642990,
+   "n_fechas": 7,
    "galeria": "https://galerias.trvely.com.co/atlantic-lux/",
    "experiencias": "https://experiencias.trvely.com.co/cartagena/"
   },
@@ -3910,7 +3970,7 @@
     [
      "2027-01-10",
      "2027-01-13",
-     1114990,
+     1716990,
      {
       "ai": "Avianca",
       "si": "05:00",
@@ -3918,6 +3978,36 @@
       "ar": "Avianca",
       "sr": "21:45",
       "lr": "23:15",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2027-01-11",
+     "2027-01-14",
+     1677990,
+     {
+      "ai": "Avianca",
+      "si": "05:00",
+      "li": "06:30",
+      "ar": "Avianca",
+      "sr": "12:05",
+      "lr": "13:30",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2027-01-21",
+     "2027-01-24",
+     1660990,
+     {
+      "ai": "Wingo",
+      "si": "06:25",
+      "li": "07:57",
+      "ar": "Wingo",
+      "sr": "13:06",
+      "lr": "14:35",
       "ei": false,
       "er": false
      }
@@ -3938,9 +4028,9 @@
     "Traslado Aeropuerto CTG -> Hotel Cartagena",
     "Traslado Hotel Cartagena -> Aeropuerto CTG"
    ],
-   "desde": 1114990,
-   "hasta": 1650990,
-   "n_fechas": 5,
+   "desde": 1628990,
+   "hasta": 1716990,
+   "n_fechas": 7,
    "galeria": "https://galerias.trvely.com.co/atlantic-lux/",
    "experiencias": "https://experiencias.trvely.com.co/cartagena/"
   },
@@ -4015,7 +4105,7 @@
     [
      "2027-01-10",
      "2027-01-13",
-     1140990,
+     1803990,
      {
       "ai": "Avianca",
       "si": "05:00",
@@ -4023,6 +4113,36 @@
       "ar": "Avianca",
       "sr": "21:45",
       "lr": "23:15",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2027-01-11",
+     "2027-01-14",
+     1759990,
+     {
+      "ai": "Avianca",
+      "si": "05:00",
+      "li": "06:30",
+      "ar": "Avianca",
+      "sr": "12:05",
+      "lr": "13:30",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2027-01-21",
+     "2027-01-24",
+     1740990,
+     {
+      "ai": "Wingo",
+      "si": "06:25",
+      "li": "07:57",
+      "ar": "Wingo",
+      "sr": "13:06",
+      "lr": "14:35",
       "ei": false,
       "er": false
      }
@@ -4043,9 +4163,9 @@
     "Traslado Aeropuerto CTG -> Hotel Cartagena",
     "Traslado Hotel Cartagena -> Aeropuerto CTG"
    ],
-   "desde": 1140990,
-   "hasta": 1720990,
-   "n_fechas": 5,
+   "desde": 1694990,
+   "hasta": 1803990,
+   "n_fechas": 7,
    "galeria": "https://galerias.trvely.com.co/atlantic-lux/",
    "experiencias": "https://experiencias.trvely.com.co/cartagena/"
   },
@@ -4210,7 +4330,7 @@
     [
      "2027-01-10",
      "2027-01-13",
-     1843990,
+     1953990,
      {
       "ai": "Avianca",
       "si": "05:00",
@@ -4225,7 +4345,7 @@
     [
      "2027-01-11",
      "2027-01-14",
-     1843990,
+     1953990,
      {
       "ai": "Avianca",
       "si": "05:00",
@@ -4240,7 +4360,7 @@
     [
      "2027-01-21",
      "2027-01-24",
-     1824990,
+     1934990,
      {
       "ai": "Wingo",
       "si": "06:25",
@@ -4268,7 +4388,7 @@
     "Traslado Aeropuerto CTG -> Hotel Cartagena",
     "Traslado Hotel Cartagena -> Aeropuerto CTG"
    ],
-   "desde": 1824990,
+   "desde": 1934990,
    "hasta": 1980990,
    "n_fechas": 7,
    "galeria": "https://galerias.trvely.com.co/cartagena-dubai/",
@@ -4345,7 +4465,7 @@
     [
      "2027-01-10",
      "2027-01-13",
-     2095990,
+     2205990,
      {
       "ai": "Avianca",
       "si": "05:00",
@@ -4360,7 +4480,7 @@
     [
      "2027-01-11",
      "2027-01-14",
-     2095990,
+     2205990,
      {
       "ai": "Avianca",
       "si": "05:00",
@@ -4375,7 +4495,7 @@
     [
      "2027-01-21",
      "2027-01-24",
-     2076990,
+     2186990,
      {
       "ai": "Wingo",
       "si": "06:25",
@@ -4403,7 +4523,7 @@
     "Traslado Hotel Cartagena -> Aeropuerto CTG",
     "Traslado Aeropuerto CTG -> Hotel Cartagena"
    ],
-   "desde": 2076990,
+   "desde": 2186990,
    "hasta": 2232990,
    "n_fechas": 7,
    "galeria": "https://galerias.trvely.com.co/cartagena-dubai/",
@@ -4480,7 +4600,7 @@
     [
      "2027-01-10",
      "2027-01-13",
-     2214990,
+     2324990,
      {
       "ai": "Avianca",
       "si": "05:00",
@@ -4495,7 +4615,7 @@
     [
      "2027-01-11",
      "2027-01-14",
-     2214990,
+     2324990,
      {
       "ai": "Avianca",
       "si": "05:00",
@@ -4510,7 +4630,7 @@
     [
      "2027-01-21",
      "2027-01-24",
-     2195990,
+     2305990,
      {
       "ai": "Wingo",
       "si": "06:25",
@@ -4538,7 +4658,7 @@
     "Traslado Aeropuerto CTG -> Hotel Cartagena",
     "Traslado Hotel Cartagena -> Aeropuerto CTG"
    ],
-   "desde": 2195990,
+   "desde": 2305990,
    "hasta": 2351990,
    "n_fechas": 7,
    "galeria": "https://galerias.trvely.com.co/cartagena-dubai/",
@@ -4615,7 +4735,7 @@
     [
      "2027-01-10",
      "2027-01-13",
-     1952990,
+     2062990,
      {
       "ai": "Avianca",
       "si": "05:00",
@@ -4630,7 +4750,7 @@
     [
      "2027-01-11",
      "2027-01-14",
-     1952990,
+     2062990,
      {
       "ai": "Avianca",
       "si": "05:00",
@@ -4645,7 +4765,7 @@
     [
      "2027-01-21",
      "2027-01-24",
-     1933990,
+     2043990,
      {
       "ai": "Wingo",
       "si": "06:25",
@@ -4673,7 +4793,7 @@
     "Traslado Aeropuerto CTG -> Hotel Cartagena",
     "Traslado Hotel Cartagena -> Aeropuerto CTG"
    ],
-   "desde": 1933990,
+   "desde": 2043990,
    "hasta": 2089990,
    "n_fechas": 7,
    "galeria": "https://galerias.trvely.com.co/cartagena-dubai/",
@@ -4690,7 +4810,7 @@
     [
      "2026-11-15",
      "2026-11-18",
-     1474990,
+     1572990,
      {
       "ai": "Avianca",
       "si": "09:50",
@@ -4781,8 +4901,8 @@
    "incluye": {
     "tiquete": true,
     "alojamiento": true,
-    "tours": false,
-    "traslado": false,
+    "tours": true,
+    "traslado": true,
     "asistencia": true
    },
    "tours_incluidos": [
@@ -4794,7 +4914,7 @@
     "Traslado Hotel Cartagena -> Aeropuerto CTG"
    ],
    "desde": 1073990,
-   "hasta": 1504990,
+   "hasta": 1572990,
    "n_fechas": 6,
    "galeria": "https://galerias.trvely.com.co/cartagena-premium/",
    "experiencias": "https://experiencias.trvely.com.co/cartagena/"
@@ -5050,7 +5170,7 @@
     [
      "2026-11-15",
      "2026-11-18",
-     1362990,
+     1460990,
      {
       "ai": "Avianca",
       "si": "09:50",
@@ -5125,7 +5245,7 @@
     [
      "2027-01-11",
      "2027-01-14",
-     1362990,
+     1454990,
      {
       "ai": "Avianca",
       "si": "05:00",
@@ -5140,7 +5260,7 @@
     [
      "2027-01-21",
      "2027-01-24",
-     1309990,
+     1401990,
      {
       "ai": "Wingo",
       "si": "06:25",
@@ -5156,8 +5276,8 @@
    "incluye": {
     "tiquete": true,
     "alojamiento": true,
-    "tours": false,
-    "traslado": false,
+    "tours": true,
+    "traslado": true,
     "asistencia": true
    },
    "tours_incluidos": [
@@ -5168,7 +5288,7 @@
     "Traslado Aeropuerto CTG -> Hotel Cartagena",
     "Traslado Hotel Cartagena -> Aeropuerto CTG"
    ],
-   "desde": 1309990,
+   "desde": 1401990,
    "hasta": 1497990,
    "n_fechas": 7,
    "galeria": "https://galerias.trvely.com.co/costa-del-sol/",
@@ -5185,7 +5305,7 @@
     [
      "2026-11-15",
      "2026-11-18",
-     1399990,
+     1497990,
      {
       "ai": "Avianca",
       "si": "09:50",
@@ -5260,7 +5380,7 @@
     [
      "2027-01-11",
      "2027-01-14",
-     1399990,
+     1491990,
      {
       "ai": "Avianca",
       "si": "05:00",
@@ -5275,7 +5395,7 @@
     [
      "2027-01-21",
      "2027-01-24",
-     1346990,
+     1438990,
      {
       "ai": "Wingo",
       "si": "06:25",
@@ -5291,8 +5411,8 @@
    "incluye": {
     "tiquete": true,
     "alojamiento": true,
-    "tours": false,
-    "traslado": false,
+    "tours": true,
+    "traslado": true,
     "asistencia": true
    },
    "tours_incluidos": [
@@ -5303,7 +5423,7 @@
     "Traslado Aeropuerto CTG -> Hotel Cartagena",
     "Traslado Hotel Cartagena -> Aeropuerto CTG"
    ],
-   "desde": 1346990,
+   "desde": 1438990,
    "hasta": 1534990,
    "n_fechas": 7,
    "galeria": "https://galerias.trvely.com.co/costa-del-sol/",
@@ -5320,7 +5440,7 @@
     [
      "2026-11-15",
      "2026-11-18",
-     1491990,
+     1588990,
      {
       "ai": "Avianca",
       "si": "09:50",
@@ -5395,7 +5515,7 @@
     [
      "2027-01-11",
      "2027-01-14",
-     1491990,
+     1583990,
      {
       "ai": "Avianca",
       "si": "05:00",
@@ -5410,7 +5530,7 @@
     [
      "2027-01-21",
      "2027-01-24",
-     1438990,
+     1530990,
      {
       "ai": "Wingo",
       "si": "06:25",
@@ -5426,8 +5546,8 @@
    "incluye": {
     "tiquete": true,
     "alojamiento": true,
-    "tours": false,
-    "traslado": false,
+    "tours": true,
+    "traslado": true,
     "asistencia": true
    },
    "tours_incluidos": [
@@ -5438,7 +5558,7 @@
     "Traslado Aeropuerto CTG -> Hotel Cartagena",
     "Traslado Hotel Cartagena -> Aeropuerto CTG"
    ],
-   "desde": 1438990,
+   "desde": 1530990,
    "hasta": 1625990,
    "n_fechas": 7,
    "galeria": "https://galerias.trvely.com.co/costa-del-sol/",
@@ -5455,7 +5575,7 @@
     [
      "2026-11-15",
      "2026-11-18",
-     1453990,
+     1551990,
      {
       "ai": "Avianca",
       "si": "09:50",
@@ -5530,7 +5650,7 @@
     [
      "2027-01-11",
      "2027-01-14",
-     1453990,
+     1545990,
      {
       "ai": "Avianca",
       "si": "05:00",
@@ -5545,7 +5665,7 @@
     [
      "2027-01-21",
      "2027-01-24",
-     1401990,
+     1493990,
      {
       "ai": "Wingo",
       "si": "06:25",
@@ -5561,8 +5681,8 @@
    "incluye": {
     "tiquete": true,
     "alojamiento": true,
-    "tours": false,
-    "traslado": false,
+    "tours": true,
+    "traslado": true,
     "asistencia": true
    },
    "tours_incluidos": [
@@ -5573,7 +5693,7 @@
     "Traslado Aeropuerto CTG -> Hotel Cartagena",
     "Traslado Hotel Cartagena -> Aeropuerto CTG"
    ],
-   "desde": 1401990,
+   "desde": 1493990,
    "hasta": 1588990,
    "n_fechas": 7,
    "galeria": "https://galerias.trvely.com.co/costa-del-sol/",
@@ -6490,7 +6610,7 @@
     [
      "2027-01-10",
      "2027-01-13",
-     1039990,
+     1292990,
      {
       "ai": "Avianca",
       "si": "05:00",
@@ -6498,6 +6618,36 @@
       "ar": "Avianca",
       "sr": "21:45",
       "lr": "23:15",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2027-01-11",
+     "2027-01-14",
+     1292990,
+     {
+      "ai": "Avianca",
+      "si": "05:00",
+      "li": "06:30",
+      "ar": "Avianca",
+      "sr": "12:05",
+      "lr": "13:30",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2027-01-21",
+     "2027-01-24",
+     1277990,
+     {
+      "ai": "Wingo",
+      "si": "06:25",
+      "li": "07:57",
+      "ar": "Wingo",
+      "sr": "13:06",
+      "lr": "14:35",
       "ei": false,
       "er": false
      }
@@ -6516,11 +6666,53 @@
    "traslados": [
     "Traslado In-Out Cartagena"
    ],
-   "desde": 1039990,
+   "desde": 1277990,
    "hasta": 1314990,
-   "n_fechas": 5,
+   "n_fechas": 7,
    "galeria": "https://galerias.trvely.com.co/toledo-fl/",
    "experiencias": "https://experiencias.trvely.com.co/cartagena/"
+  },
+  {
+   "destino": "Juan Dolio",
+   "hotel": "CORAL COSTA CARIBE",
+   "alimentacion": "Todo incluido",
+   "habitacion": "Superior",
+   "noches": 3,
+   "codigo": "JDL-CORAL-4D3N-TI-SDQ",
+   "fechas": [
+    [
+     "2026-11-17",
+     "2026-11-20",
+     3328990,
+     {
+      "ai": "Avianca",
+      "si": "08:10",
+      "li": "11:50",
+      "ar": "Avianca",
+      "sr": "12:45",
+      "lr": "14:25",
+      "ei": false,
+      "er": false
+     }
+    ]
+   ],
+   "incluye": {
+    "tiquete": true,
+    "alojamiento": true,
+    "tours": false,
+    "traslado": true,
+    "asistencia": true
+   },
+   "tours_incluidos": [],
+   "traslados": [
+    "Traslado privado SDQ - Juan Dolio",
+    "Traslado privado Juan Dolio - SDQ"
+   ],
+   "desde": 3328990,
+   "hasta": 3328990,
+   "n_fechas": 1,
+   "galeria": "https://galerias.trvely.com.co/coral-costa-caribe/",
+   "experiencias": null
   },
   {
    "destino": "Leticia",
@@ -6530,21 +6722,6 @@
    "noches": 3,
    "codigo": "LET-ANC-4D3N-DC-EST",
    "fechas": [
-    [
-     "2026-11-10",
-     "2026-11-13",
-     1544990,
-     {
-      "ai": "Avianca",
-      "si": "06:05",
-      "li": "08:10",
-      "ar": "Avianca",
-      "sr": "17:35",
-      "lr": "19:35",
-      "ei": false,
-      "er": false
-     }
-    ],
     [
      "2026-11-15",
      "2026-11-18",
@@ -6602,7 +6779,7 @@
    "traslados": [],
    "desde": 1468990,
    "hasta": 1657990,
-   "n_fechas": 4,
+   "n_fechas": 3,
    "galeria": "https://galerias.trvely.com.co/anaconda/",
    "experiencias": "https://experiencias.trvely.com.co/leticia/"
   },
@@ -6614,21 +6791,6 @@
    "noches": 3,
    "codigo": "LET-ANC-4D3N-DES-EST",
    "fechas": [
-    [
-     "2026-11-10",
-     "2026-11-13",
-     1375990,
-     {
-      "ai": "Avianca",
-      "si": "06:05",
-      "li": "08:10",
-      "ar": "Avianca",
-      "sr": "17:35",
-      "lr": "19:35",
-      "ei": false,
-      "er": false
-     }
-    ],
     [
      "2026-11-15",
      "2026-11-18",
@@ -6686,7 +6848,7 @@
    "traslados": [],
    "desde": 1299990,
    "hasta": 1486990,
-   "n_fechas": 4,
+   "n_fechas": 3,
    "galeria": "https://galerias.trvely.com.co/anaconda/",
    "experiencias": "https://experiencias.trvely.com.co/leticia/"
   },
@@ -6698,21 +6860,6 @@
    "noches": 3,
    "codigo": "LET-ANC-4D3N-PC-EST",
    "fechas": [
-    [
-     "2026-11-10",
-     "2026-11-13",
-     1728990,
-     {
-      "ai": "Avianca",
-      "si": "06:05",
-      "li": "08:10",
-      "ar": "Avianca",
-      "sr": "17:35",
-      "lr": "19:35",
-      "ei": false,
-      "er": false
-     }
-    ],
     [
      "2026-11-15",
      "2026-11-18",
@@ -6770,7 +6917,7 @@
    "traslados": [],
    "desde": 1638990,
    "hasta": 1861990,
-   "n_fechas": 4,
+   "n_fechas": 3,
    "galeria": "https://galerias.trvely.com.co/anaconda/",
    "experiencias": "https://experiencias.trvely.com.co/leticia/"
   },
@@ -6782,6 +6929,36 @@
    "noches": 3,
    "codigo": "LET-UTN-4D3N-DC-EST",
    "fechas": [
+    [
+     "2026-11-15",
+     "2026-11-18",
+     1683990,
+     {
+      "ai": "Avianca",
+      "si": "06:05",
+      "li": "08:10",
+      "ar": "Avianca",
+      "sr": "17:35",
+      "lr": "19:35",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-24",
+     "2026-11-27",
+     1667990,
+     {
+      "ai": "Avianca",
+      "si": "06:05",
+      "li": "08:10",
+      "ar": "Avianca",
+      "sr": "17:35",
+      "lr": "19:35",
+      "ei": false,
+      "er": false
+     }
+    ],
     [
      "2026-12-02",
      "2026-12-05",
@@ -6823,8 +7000,8 @@
    "tours_incluidos": [],
    "traslados": [],
    "desde": 1558990,
-   "hasta": 1590990,
-   "n_fechas": 2,
+   "hasta": 1683990,
+   "n_fechas": 4,
    "galeria": "https://galerias.trvely.com.co/utuane/",
    "experiencias": "https://experiencias.trvely.com.co/leticia/"
   },
@@ -6836,6 +7013,36 @@
    "noches": 3,
    "codigo": "LET-UTN-4D3N-DES-EST",
    "fechas": [
+    [
+     "2026-11-15",
+     "2026-11-18",
+     1545990,
+     {
+      "ai": "Avianca",
+      "si": "06:05",
+      "li": "08:10",
+      "ar": "Avianca",
+      "sr": "17:35",
+      "lr": "19:35",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2026-11-24",
+     "2026-11-27",
+     1532990,
+     {
+      "ai": "Avianca",
+      "si": "06:05",
+      "li": "08:10",
+      "ar": "Avianca",
+      "sr": "17:35",
+      "lr": "19:35",
+      "ei": false,
+      "er": false
+     }
+    ],
     [
      "2026-12-02",
      "2026-12-05",
@@ -6877,8 +7084,8 @@
    "tours_incluidos": [],
    "traslados": [],
    "desde": 1427990,
-   "hasta": 1459990,
-   "n_fechas": 2,
+   "hasta": 1545990,
+   "n_fechas": 4,
    "galeria": "https://galerias.trvely.com.co/utuane/",
    "experiencias": "https://experiencias.trvely.com.co/leticia/"
   },
@@ -7338,21 +7545,6 @@
    "codigo": "SMR-BLS-4D3N-DC-EST",
    "fechas": [
     [
-     "2026-11-10",
-     "2026-11-13",
-     1557990,
-     {
-      "ai": "Avianca",
-      "si": "10:35",
-      "li": "15:50",
-      "ar": "Avianca",
-      "sr": "22:00",
-      "lr": "23:30",
-      "ei": false,
-      "er": false
-     }
-    ],
-    [
      "2026-12-01",
      "2026-12-04",
      1551990,
@@ -7382,8 +7574,8 @@
     "Traslado aeropuerto SMR - hotel - aeropuerto"
    ],
    "desde": 1551990,
-   "hasta": 1557990,
-   "n_fechas": 2,
+   "hasta": 1551990,
+   "n_fechas": 1,
    "galeria": "https://galerias.trvely.com.co/be-de-la-sierra/",
    "experiencias": "https://experiencias.trvely.com.co/santa-marta/"
   },
@@ -7395,21 +7587,6 @@
    "noches": 3,
    "codigo": "SMR-BLS-4D3N-DC-SUP",
    "fechas": [
-    [
-     "2026-11-10",
-     "2026-11-13",
-     1669990,
-     {
-      "ai": "Avianca",
-      "si": "10:35",
-      "li": "15:50",
-      "ar": "Avianca",
-      "sr": "22:00",
-      "lr": "23:30",
-      "ei": false,
-      "er": false
-     }
-    ],
     [
      "2026-12-01",
      "2026-12-04",
@@ -7440,8 +7617,8 @@
     "Traslado aeropuerto SMR - hotel - aeropuerto"
    ],
    "desde": 1663990,
-   "hasta": 1669990,
-   "n_fechas": 2,
+   "hasta": 1663990,
+   "n_fechas": 1,
    "galeria": "https://galerias.trvely.com.co/be-de-la-sierra/",
    "experiencias": "https://experiencias.trvely.com.co/santa-marta/"
   },
@@ -7453,21 +7630,6 @@
    "noches": 3,
    "codigo": "SMR-BLS-4D3N-DES-EST",
    "fechas": [
-    [
-     "2026-11-10",
-     "2026-11-13",
-     1410990,
-     {
-      "ai": "Avianca",
-      "si": "10:35",
-      "li": "15:50",
-      "ar": "Avianca",
-      "sr": "22:00",
-      "lr": "23:30",
-      "ei": false,
-      "er": false
-     }
-    ],
     [
      "2026-12-01",
      "2026-12-04",
@@ -7498,8 +7660,8 @@
     "Traslado aeropuerto SMR - hotel - aeropuerto"
    ],
    "desde": 1404990,
-   "hasta": 1410990,
-   "n_fechas": 2,
+   "hasta": 1404990,
+   "n_fechas": 1,
    "galeria": "https://galerias.trvely.com.co/be-de-la-sierra/",
    "experiencias": "https://experiencias.trvely.com.co/santa-marta/"
   },
@@ -7511,21 +7673,6 @@
    "noches": 3,
    "codigo": "SMR-BLS-4D3N-DES-SUP",
    "fechas": [
-    [
-     "2026-11-10",
-     "2026-11-13",
-     1522990,
-     {
-      "ai": "Avianca",
-      "si": "10:35",
-      "li": "15:50",
-      "ar": "Avianca",
-      "sr": "22:00",
-      "lr": "23:30",
-      "ei": false,
-      "er": false
-     }
-    ],
     [
      "2026-12-01",
      "2026-12-04",
@@ -7556,8 +7703,8 @@
     "Traslado aeropuerto SMR - hotel - aeropuerto"
    ],
    "desde": 1516990,
-   "hasta": 1522990,
-   "n_fechas": 2,
+   "hasta": 1516990,
+   "n_fechas": 1,
    "galeria": "https://galerias.trvely.com.co/be-de-la-sierra/",
    "experiencias": "https://experiencias.trvely.com.co/santa-marta/"
   },
@@ -7569,21 +7716,6 @@
    "noches": 3,
    "codigo": "SMR-BLS-4D3N-PC-EST",
    "fechas": [
-    [
-     "2026-11-10",
-     "2026-11-13",
-     1700990,
-     {
-      "ai": "Avianca",
-      "si": "10:35",
-      "li": "15:50",
-      "ar": "Avianca",
-      "sr": "22:00",
-      "lr": "23:30",
-      "ei": false,
-      "er": false
-     }
-    ],
     [
      "2026-12-01",
      "2026-12-04",
@@ -7614,8 +7746,8 @@
     "Traslado aeropuerto SMR - hotel - aeropuerto"
    ],
    "desde": 1693990,
-   "hasta": 1700990,
-   "n_fechas": 2,
+   "hasta": 1693990,
+   "n_fechas": 1,
    "galeria": "https://galerias.trvely.com.co/be-de-la-sierra/",
    "experiencias": "https://experiencias.trvely.com.co/santa-marta/"
   },
@@ -7627,21 +7759,6 @@
    "noches": 3,
    "codigo": "SMR-BLS-4D3N-PC-SUP",
    "fechas": [
-    [
-     "2026-11-10",
-     "2026-11-13",
-     1845990,
-     {
-      "ai": "Avianca",
-      "si": "10:35",
-      "li": "15:50",
-      "ar": "Avianca",
-      "sr": "22:00",
-      "lr": "23:30",
-      "ei": false,
-      "er": false
-     }
-    ],
     [
      "2026-12-01",
      "2026-12-04",
@@ -7672,8 +7789,8 @@
     "Traslado aeropuerto SMR - hotel - aeropuerto"
    ],
    "desde": 1838990,
-   "hasta": 1845990,
-   "n_fechas": 2,
+   "hasta": 1838990,
+   "n_fechas": 1,
    "galeria": "https://galerias.trvely.com.co/be-de-la-sierra/",
    "experiencias": "https://experiencias.trvely.com.co/santa-marta/"
   },
@@ -7686,21 +7803,6 @@
    "codigo": "SMR-EDF-4D3N-DC-EST",
    "fechas": [
     [
-     "2026-11-10",
-     "2026-11-13",
-     1284990,
-     {
-      "ai": "Avianca",
-      "si": "10:35",
-      "li": "15:50",
-      "ar": "Avianca",
-      "sr": "22:00",
-      "lr": "23:30",
-      "ei": false,
-      "er": false
-     }
-    ],
-    [
      "2026-12-01",
      "2026-12-04",
      1278990,
@@ -7708,6 +7810,36 @@
       "ai": "Avianca",
       "si": "08:55",
       "li": "15:50",
+      "ar": "Avianca",
+      "sr": "21:00",
+      "lr": "22:35",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2027-01-20",
+     "2027-01-23",
+     1279990,
+     {
+      "ai": "Avianca",
+      "si": "05:20",
+      "li": "06:55",
+      "ar": "Avianca",
+      "sr": "20:10",
+      "lr": "21:40",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2027-01-21",
+     "2027-01-24",
+     1302990,
+     {
+      "ai": "Avianca",
+      "si": "05:20",
+      "li": "06:55",
       "ar": "Avianca",
       "sr": "21:00",
       "lr": "22:35",
@@ -7730,8 +7862,8 @@
     "Traslado aeropuerto SMR - hotel - aeropuerto"
    ],
    "desde": 1278990,
-   "hasta": 1284990,
-   "n_fechas": 2,
+   "hasta": 1302990,
+   "n_fechas": 3,
    "galeria": "https://galerias.trvely.com.co/delfin/",
    "experiencias": "https://experiencias.trvely.com.co/santa-marta/"
   },
@@ -7744,21 +7876,6 @@
    "codigo": "SMR-EDF-4D3N-DES-EST",
    "fechas": [
     [
-     "2026-11-10",
-     "2026-11-13",
-     1243990,
-     {
-      "ai": "Avianca",
-      "si": "10:35",
-      "li": "15:50",
-      "ar": "Avianca",
-      "sr": "22:00",
-      "lr": "23:30",
-      "ei": false,
-      "er": false
-     }
-    ],
-    [
      "2026-12-01",
      "2026-12-04",
      1237990,
@@ -7766,6 +7883,36 @@
       "ai": "Avianca",
       "si": "08:55",
       "li": "15:50",
+      "ar": "Avianca",
+      "sr": "21:00",
+      "lr": "22:35",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2027-01-20",
+     "2027-01-23",
+     1228990,
+     {
+      "ai": "Avianca",
+      "si": "05:20",
+      "li": "06:55",
+      "ar": "Avianca",
+      "sr": "20:10",
+      "lr": "21:40",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2027-01-21",
+     "2027-01-24",
+     1251990,
+     {
+      "ai": "Avianca",
+      "si": "05:20",
+      "li": "06:55",
       "ar": "Avianca",
       "sr": "21:00",
       "lr": "22:35",
@@ -7787,9 +7934,9 @@
    "traslados": [
     "Traslado aeropuerto SMR - hotel - aeropuerto"
    ],
-   "desde": 1237990,
-   "hasta": 1243990,
-   "n_fechas": 2,
+   "desde": 1228990,
+   "hasta": 1251990,
+   "n_fechas": 3,
    "galeria": "https://galerias.trvely.com.co/delfin/",
    "experiencias": "https://experiencias.trvely.com.co/santa-marta/"
   },
@@ -7802,21 +7949,6 @@
    "codigo": "SMR-EDF-4D3N-PC-EST",
    "fechas": [
     [
-     "2026-11-10",
-     "2026-11-13",
-     1387990,
-     {
-      "ai": "Avianca",
-      "si": "10:35",
-      "li": "15:50",
-      "ar": "Avianca",
-      "sr": "22:00",
-      "lr": "23:30",
-      "ei": false,
-      "er": false
-     }
-    ],
-    [
      "2026-12-01",
      "2026-12-04",
      1381990,
@@ -7824,6 +7956,36 @@
       "ai": "Avianca",
       "si": "08:55",
       "li": "15:50",
+      "ar": "Avianca",
+      "sr": "21:00",
+      "lr": "22:35",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2027-01-20",
+     "2027-01-23",
+     1382990,
+     {
+      "ai": "Avianca",
+      "si": "05:20",
+      "li": "06:55",
+      "ar": "Avianca",
+      "sr": "20:10",
+      "lr": "21:40",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2027-01-21",
+     "2027-01-24",
+     1405990,
+     {
+      "ai": "Avianca",
+      "si": "05:20",
+      "li": "06:55",
       "ar": "Avianca",
       "sr": "21:00",
       "lr": "22:35",
@@ -7846,8 +8008,8 @@
     "Traslado aeropuerto SMR - hotel - aeropuerto"
    ],
    "desde": 1381990,
-   "hasta": 1387990,
-   "n_fechas": 2,
+   "hasta": 1405990,
+   "n_fechas": 3,
    "galeria": "https://galerias.trvely.com.co/delfin/",
    "experiencias": "https://experiencias.trvely.com.co/santa-marta/"
   },
@@ -7859,21 +8021,6 @@
    "noches": 3,
    "codigo": "SMR-MRDR-4D3N-DC-BAL",
    "fechas": [
-    [
-     "2026-11-10",
-     "2026-11-13",
-     1414990,
-     {
-      "ai": "Avianca",
-      "si": "10:35",
-      "li": "15:50",
-      "ar": "Avianca",
-      "sr": "22:00",
-      "lr": "23:30",
-      "ei": false,
-      "er": false
-     }
-    ],
     [
      "2026-12-01",
      "2026-12-04",
@@ -7888,6 +8035,36 @@
       "ei": false,
       "er": false
      }
+    ],
+    [
+     "2027-01-20",
+     "2027-01-23",
+     1392990,
+     {
+      "ai": "Avianca",
+      "si": "05:20",
+      "li": "06:55",
+      "ar": "Avianca",
+      "sr": "20:10",
+      "lr": "21:40",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2027-01-21",
+     "2027-01-24",
+     1415990,
+     {
+      "ai": "Avianca",
+      "si": "05:20",
+      "li": "06:55",
+      "ar": "Avianca",
+      "sr": "21:00",
+      "lr": "22:35",
+      "ei": false,
+      "er": false
+     }
     ]
    ],
    "incluye": {
@@ -7903,9 +8080,9 @@
    "traslados": [
     "Traslado aeropuerto SMR - hotel - aeropuerto"
    ],
-   "desde": 1408990,
-   "hasta": 1414990,
-   "n_fechas": 2,
+   "desde": 1392990,
+   "hasta": 1415990,
+   "n_fechas": 3,
    "galeria": "https://galerias.trvely.com.co/medellin-rodadero/",
    "experiencias": "https://experiencias.trvely.com.co/santa-marta/"
   },
@@ -7917,21 +8094,6 @@
    "noches": 3,
    "codigo": "SMR-MRDR-4D3N-DC-EST",
    "fechas": [
-    [
-     "2026-11-10",
-     "2026-11-13",
-     1355990,
-     {
-      "ai": "Avianca",
-      "si": "10:35",
-      "li": "15:50",
-      "ar": "Avianca",
-      "sr": "22:00",
-      "lr": "23:30",
-      "ei": false,
-      "er": false
-     }
-    ],
     [
      "2026-12-01",
      "2026-12-04",
@@ -7946,6 +8108,36 @@
       "ei": false,
       "er": false
      }
+    ],
+    [
+     "2027-01-20",
+     "2027-01-23",
+     1329990,
+     {
+      "ai": "Avianca",
+      "si": "05:20",
+      "li": "06:55",
+      "ar": "Avianca",
+      "sr": "20:10",
+      "lr": "21:40",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2027-01-21",
+     "2027-01-24",
+     1351990,
+     {
+      "ai": "Avianca",
+      "si": "05:20",
+      "li": "06:55",
+      "ar": "Avianca",
+      "sr": "21:00",
+      "lr": "22:35",
+      "ei": false,
+      "er": false
+     }
     ]
    ],
    "incluye": {
@@ -7961,9 +8153,9 @@
    "traslados": [
     "Traslado aeropuerto SMR - hotel - aeropuerto"
    ],
-   "desde": 1349990,
-   "hasta": 1355990,
-   "n_fechas": 2,
+   "desde": 1329990,
+   "hasta": 1351990,
+   "n_fechas": 3,
    "galeria": "https://galerias.trvely.com.co/medellin-rodadero/",
    "experiencias": "https://experiencias.trvely.com.co/santa-marta/"
   },
@@ -7975,21 +8167,6 @@
    "noches": 3,
    "codigo": "SMR-MRDR-4D3N-DC-SUP",
    "fechas": [
-    [
-     "2026-11-10",
-     "2026-11-13",
-     1469990,
-     {
-      "ai": "Avianca",
-      "si": "10:35",
-      "li": "15:50",
-      "ar": "Avianca",
-      "sr": "22:00",
-      "lr": "23:30",
-      "ei": false,
-      "er": false
-     }
-    ],
     [
      "2026-12-01",
      "2026-12-04",
@@ -8004,6 +8181,36 @@
       "ei": false,
       "er": false
      }
+    ],
+    [
+     "2027-01-20",
+     "2027-01-23",
+     1451990,
+     {
+      "ai": "Avianca",
+      "si": "05:20",
+      "li": "06:55",
+      "ar": "Avianca",
+      "sr": "20:10",
+      "lr": "21:40",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2027-01-21",
+     "2027-01-24",
+     1474990,
+     {
+      "ai": "Avianca",
+      "si": "05:20",
+      "li": "06:55",
+      "ar": "Avianca",
+      "sr": "21:00",
+      "lr": "22:35",
+      "ei": false,
+      "er": false
+     }
     ]
    ],
    "incluye": {
@@ -8019,9 +8226,9 @@
    "traslados": [
     "Traslado aeropuerto SMR - hotel - aeropuerto"
    ],
-   "desde": 1463990,
-   "hasta": 1469990,
-   "n_fechas": 2,
+   "desde": 1451990,
+   "hasta": 1474990,
+   "n_fechas": 3,
    "galeria": "https://galerias.trvely.com.co/medellin-rodadero/",
    "experiencias": "https://experiencias.trvely.com.co/santa-marta/"
   },
@@ -8033,21 +8240,6 @@
    "noches": 3,
    "codigo": "SMR-MRDR-4D3N-DES-BAL",
    "fechas": [
-    [
-     "2026-11-10",
-     "2026-11-13",
-     1310990,
-     {
-      "ai": "Avianca",
-      "si": "10:35",
-      "li": "15:50",
-      "ar": "Avianca",
-      "sr": "22:00",
-      "lr": "23:30",
-      "ei": false,
-      "er": false
-     }
-    ],
     [
      "2026-12-01",
      "2026-12-04",
@@ -8062,6 +8254,36 @@
       "ei": false,
       "er": false
      }
+    ],
+    [
+     "2027-01-20",
+     "2027-01-23",
+     1282990,
+     {
+      "ai": "Avianca",
+      "si": "05:20",
+      "li": "06:55",
+      "ar": "Avianca",
+      "sr": "20:10",
+      "lr": "21:40",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2027-01-21",
+     "2027-01-24",
+     1305990,
+     {
+      "ai": "Avianca",
+      "si": "05:20",
+      "li": "06:55",
+      "ar": "Avianca",
+      "sr": "21:00",
+      "lr": "22:35",
+      "ei": false,
+      "er": false
+     }
     ]
    ],
    "incluye": {
@@ -8077,9 +8299,9 @@
    "traslados": [
     "Traslado aeropuerto SMR - hotel - aeropuerto"
    ],
-   "desde": 1304990,
-   "hasta": 1310990,
-   "n_fechas": 2,
+   "desde": 1282990,
+   "hasta": 1305990,
+   "n_fechas": 3,
    "galeria": "https://galerias.trvely.com.co/medellin-rodadero/",
    "experiencias": "https://experiencias.trvely.com.co/santa-marta/"
   },
@@ -8091,21 +8313,6 @@
    "noches": 3,
    "codigo": "SMR-MRDR-4D3N-DES-EST",
    "fechas": [
-    [
-     "2026-11-10",
-     "2026-11-13",
-     1252990,
-     {
-      "ai": "Avianca",
-      "si": "10:35",
-      "li": "15:50",
-      "ar": "Avianca",
-      "sr": "22:00",
-      "lr": "23:30",
-      "ei": false,
-      "er": false
-     }
-    ],
     [
      "2026-12-01",
      "2026-12-04",
@@ -8120,6 +8327,36 @@
       "ei": false,
       "er": false
      }
+    ],
+    [
+     "2027-01-20",
+     "2027-01-23",
+     1218990,
+     {
+      "ai": "Avianca",
+      "si": "05:20",
+      "li": "06:55",
+      "ar": "Avianca",
+      "sr": "20:10",
+      "lr": "21:40",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2027-01-21",
+     "2027-01-24",
+     1241990,
+     {
+      "ai": "Avianca",
+      "si": "05:20",
+      "li": "06:55",
+      "ar": "Avianca",
+      "sr": "21:00",
+      "lr": "22:35",
+      "ei": false,
+      "er": false
+     }
     ]
    ],
    "incluye": {
@@ -8135,9 +8372,9 @@
    "traslados": [
     "Traslado aeropuerto SMR - hotel - aeropuerto"
    ],
-   "desde": 1246990,
-   "hasta": 1252990,
-   "n_fechas": 2,
+   "desde": 1218990,
+   "hasta": 1246990,
+   "n_fechas": 3,
    "galeria": "https://galerias.trvely.com.co/medellin-rodadero/",
    "experiencias": "https://experiencias.trvely.com.co/santa-marta/"
   },
@@ -8149,21 +8386,6 @@
    "noches": 3,
    "codigo": "SMR-MRDR-4D3N-DES-SUP",
    "fechas": [
-    [
-     "2026-11-10",
-     "2026-11-13",
-     1365990,
-     {
-      "ai": "Avianca",
-      "si": "10:35",
-      "li": "15:50",
-      "ar": "Avianca",
-      "sr": "22:00",
-      "lr": "23:30",
-      "ei": false,
-      "er": false
-     }
-    ],
     [
      "2026-12-01",
      "2026-12-04",
@@ -8178,6 +8400,36 @@
       "ei": false,
       "er": false
      }
+    ],
+    [
+     "2027-01-20",
+     "2027-01-23",
+     1341990,
+     {
+      "ai": "Avianca",
+      "si": "05:20",
+      "li": "06:55",
+      "ar": "Avianca",
+      "sr": "20:10",
+      "lr": "21:40",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2027-01-21",
+     "2027-01-24",
+     1363990,
+     {
+      "ai": "Avianca",
+      "si": "05:20",
+      "li": "06:55",
+      "ar": "Avianca",
+      "sr": "21:00",
+      "lr": "22:35",
+      "ei": false,
+      "er": false
+     }
     ]
    ],
    "incluye": {
@@ -8193,9 +8445,9 @@
    "traslados": [
     "Traslado aeropuerto SMR - hotel - aeropuerto"
    ],
-   "desde": 1360990,
-   "hasta": 1365990,
-   "n_fechas": 2,
+   "desde": 1341990,
+   "hasta": 1363990,
+   "n_fechas": 3,
    "galeria": "https://galerias.trvely.com.co/medellin-rodadero/",
    "experiencias": "https://experiencias.trvely.com.co/santa-marta/"
   },
@@ -8207,21 +8459,6 @@
    "noches": 3,
    "codigo": "SMR-LVR-4D3N-DC-EST",
    "fechas": [
-    [
-     "2026-11-10",
-     "2026-11-13",
-     1161990,
-     {
-      "ai": "Avianca",
-      "si": "10:35",
-      "li": "15:50",
-      "ar": "Avianca",
-      "sr": "22:00",
-      "lr": "23:30",
-      "ei": false,
-      "er": false
-     }
-    ],
     [
      "2026-12-01",
      "2026-12-04",
@@ -8236,6 +8473,36 @@
       "ei": false,
       "er": false
      }
+    ],
+    [
+     "2027-01-20",
+     "2027-01-23",
+     1095990,
+     {
+      "ai": "Avianca",
+      "si": "05:20",
+      "li": "06:55",
+      "ar": "Avianca",
+      "sr": "20:10",
+      "lr": "21:40",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2027-01-21",
+     "2027-01-24",
+     1117990,
+     {
+      "ai": "Avianca",
+      "si": "05:20",
+      "li": "06:55",
+      "ar": "Avianca",
+      "sr": "21:00",
+      "lr": "22:35",
+      "ei": false,
+      "er": false
+     }
     ]
    ],
    "incluye": {
@@ -8251,9 +8518,9 @@
    "traslados": [
     "Traslado aeropuerto SMR - hotel - aeropuerto"
    ],
-   "desde": 1155990,
-   "hasta": 1161990,
-   "n_fechas": 2,
+   "desde": 1095990,
+   "hasta": 1155990,
+   "n_fechas": 3,
    "galeria": "https://galerias.trvely.com.co/los-veleros/",
    "experiencias": "https://experiencias.trvely.com.co/santa-marta/"
   },
@@ -8265,21 +8532,6 @@
    "noches": 3,
    "codigo": "SMR-LVR-4D3N-DES-EST",
    "fechas": [
-    [
-     "2026-11-10",
-     "2026-11-13",
-     1120990,
-     {
-      "ai": "Avianca",
-      "si": "10:35",
-      "li": "15:50",
-      "ar": "Avianca",
-      "sr": "22:00",
-      "lr": "23:30",
-      "ei": false,
-      "er": false
-     }
-    ],
     [
      "2026-12-01",
      "2026-12-04",
@@ -8294,58 +8546,30 @@
       "ei": false,
       "er": false
      }
-    ]
-   ],
-   "incluye": {
-    "tiquete": true,
-    "alojamiento": true,
-    "tours": true,
-    "traslado": true,
-    "asistencia": true
-   },
-   "tours_incluidos": [
-    "Tour Playa Blanca con almuerzo"
-   ],
-   "traslados": [
-    "Traslado aeropuerto SMR - hotel - aeropuerto"
-   ],
-   "desde": 1114990,
-   "hasta": 1120990,
-   "n_fechas": 2,
-   "galeria": "https://galerias.trvely.com.co/los-veleros/",
-   "experiencias": "https://experiencias.trvely.com.co/santa-marta/"
-  },
-  {
-   "destino": "Santa Marta",
-   "hotel": "LOS VELEROS",
-   "alimentacion": "Desayuno, almuerzo y cena",
-   "habitacion": "Estandar",
-   "noches": 3,
-   "codigo": "SMR-LVR-4D3N-PC-EST",
-   "fechas": [
+    ],
     [
-     "2026-11-10",
-     "2026-11-13",
-     1222990,
+     "2027-01-20",
+     "2027-01-23",
+     1054990,
      {
       "ai": "Avianca",
-      "si": "10:35",
-      "li": "15:50",
+      "si": "05:20",
+      "li": "06:55",
       "ar": "Avianca",
-      "sr": "22:00",
-      "lr": "23:30",
+      "sr": "20:10",
+      "lr": "21:40",
       "ei": false,
       "er": false
      }
     ],
     [
-     "2026-12-01",
-     "2026-12-04",
-     1217990,
+     "2027-01-21",
+     "2027-01-24",
+     1076990,
      {
       "ai": "Avianca",
-      "si": "08:55",
-      "li": "15:50",
+      "si": "05:20",
+      "li": "06:55",
       "ar": "Avianca",
       "sr": "21:00",
       "lr": "22:35",
@@ -8367,9 +8591,82 @@
    "traslados": [
     "Traslado aeropuerto SMR - hotel - aeropuerto"
    ],
-   "desde": 1217990,
-   "hasta": 1222990,
-   "n_fechas": 2,
+   "desde": 1054990,
+   "hasta": 1114990,
+   "n_fechas": 3,
+   "galeria": "https://galerias.trvely.com.co/los-veleros/",
+   "experiencias": "https://experiencias.trvely.com.co/santa-marta/"
+  },
+  {
+   "destino": "Santa Marta",
+   "hotel": "LOS VELEROS",
+   "alimentacion": "Desayuno, almuerzo y cena",
+   "habitacion": "Estandar",
+   "noches": 3,
+   "codigo": "SMR-LVR-4D3N-PC-EST",
+   "fechas": [
+    [
+     "2026-12-01",
+     "2026-12-04",
+     1217990,
+     {
+      "ai": "Avianca",
+      "si": "08:55",
+      "li": "15:50",
+      "ar": "Avianca",
+      "sr": "21:00",
+      "lr": "22:35",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2027-01-20",
+     "2027-01-23",
+     1156990,
+     {
+      "ai": "Avianca",
+      "si": "05:20",
+      "li": "06:55",
+      "ar": "Avianca",
+      "sr": "20:10",
+      "lr": "21:40",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2027-01-21",
+     "2027-01-24",
+     1179990,
+     {
+      "ai": "Avianca",
+      "si": "05:20",
+      "li": "06:55",
+      "ar": "Avianca",
+      "sr": "21:00",
+      "lr": "22:35",
+      "ei": false,
+      "er": false
+     }
+    ]
+   ],
+   "incluye": {
+    "tiquete": true,
+    "alojamiento": true,
+    "tours": true,
+    "traslado": true,
+    "asistencia": true
+   },
+   "tours_incluidos": [
+    "Tour Playa Blanca con almuerzo"
+   ],
+   "traslados": [
+    "Traslado aeropuerto SMR - hotel - aeropuerto"
+   ],
+   "desde": 1156990,
+   "hasta": 1217990,
+   "n_fechas": 3,
    "galeria": "https://galerias.trvely.com.co/los-veleros/",
    "experiencias": "https://experiencias.trvely.com.co/santa-marta/"
   },
@@ -8381,21 +8678,6 @@
    "noches": 3,
    "codigo": "SMR-PBH-4D3N-DC-EST",
    "fechas": [
-    [
-     "2026-11-10",
-     "2026-11-13",
-     1205990,
-     {
-      "ai": "Avianca",
-      "si": "10:35",
-      "li": "15:50",
-      "ar": "Avianca",
-      "sr": "22:00",
-      "lr": "23:30",
-      "ei": false,
-      "er": false
-     }
-    ],
     [
      "2026-12-01",
      "2026-12-04",
@@ -8457,7 +8739,7 @@
    ],
    "desde": 1149990,
    "hasta": 1216990,
-   "n_fechas": 4,
+   "n_fechas": 3,
    "galeria": "https://galerias.trvely.com.co/portobahia/",
    "experiencias": "https://experiencias.trvely.com.co/santa-marta/"
   },
@@ -8469,21 +8751,6 @@
    "noches": 3,
    "codigo": "SMR-PBH-4D3N-PC-EST",
    "fechas": [
-    [
-     "2026-11-10",
-     "2026-11-13",
-     1284990,
-     {
-      "ai": "Avianca",
-      "si": "10:35",
-      "li": "15:50",
-      "ar": "Avianca",
-      "sr": "22:00",
-      "lr": "23:30",
-      "ei": false,
-      "er": false
-     }
-    ],
     [
      "2026-12-01",
      "2026-12-04",
@@ -8545,7 +8812,7 @@
    ],
    "desde": 1229990,
    "hasta": 1296990,
-   "n_fechas": 4,
+   "n_fechas": 3,
    "galeria": "https://galerias.trvely.com.co/portobahia/",
    "experiencias": "https://experiencias.trvely.com.co/santa-marta/"
   },
@@ -8557,21 +8824,6 @@
    "noches": 3,
    "codigo": "SMR-SHP-4D3N-DES-EST",
    "fechas": [
-    [
-     "2026-11-10",
-     "2026-11-13",
-     1307990,
-     {
-      "ai": "Avianca",
-      "si": "10:35",
-      "li": "15:50",
-      "ar": "Avianca",
-      "sr": "22:00",
-      "lr": "23:30",
-      "ei": false,
-      "er": false
-     }
-    ],
     [
      "2026-12-01",
      "2026-12-04",
@@ -8602,8 +8854,8 @@
     "Traslado aeropuerto SMR - hotel - aeropuerto"
    ],
    "desde": 1301990,
-   "hasta": 1307990,
-   "n_fechas": 2,
+   "hasta": 1301990,
+   "n_fechas": 1,
    "galeria": "https://galerias.trvely.com.co/sanha-plus/",
    "experiencias": "https://experiencias.trvely.com.co/santa-marta/"
   },
@@ -8615,21 +8867,6 @@
    "noches": 3,
    "codigo": "SMR-SHP-4D3N-PC-EST",
    "fechas": [
-    [
-     "2026-11-10",
-     "2026-11-13",
-     1565990,
-     {
-      "ai": "Avianca",
-      "si": "10:35",
-      "li": "15:50",
-      "ar": "Avianca",
-      "sr": "22:00",
-      "lr": "23:30",
-      "ei": false,
-      "er": false
-     }
-    ],
     [
      "2026-12-01",
      "2026-12-04",
@@ -8660,8 +8897,8 @@
     "Traslado aeropuerto SMR - hotel - aeropuerto"
    ],
    "desde": 1560990,
-   "hasta": 1565990,
-   "n_fechas": 2,
+   "hasta": 1560990,
+   "n_fechas": 1,
    "galeria": "https://galerias.trvely.com.co/sanha-plus/",
    "experiencias": "https://experiencias.trvely.com.co/santa-marta/"
   },
@@ -8673,21 +8910,6 @@
    "noches": 3,
    "codigo": "SMR-SRK-4D3N-DC-EST",
    "fechas": [
-    [
-     "2026-11-10",
-     "2026-11-13",
-     1224990,
-     {
-      "ai": "Avianca",
-      "si": "10:35",
-      "li": "15:50",
-      "ar": "Avianca",
-      "sr": "22:00",
-      "lr": "23:30",
-      "ei": false,
-      "er": false
-     }
-    ],
     [
      "2026-12-01",
      "2026-12-04",
@@ -8718,8 +8940,8 @@
     "Traslado aeropuerto SMR - hotel - aeropuerto"
    ],
    "desde": 1218990,
-   "hasta": 1224990,
-   "n_fechas": 2,
+   "hasta": 1218990,
+   "n_fechas": 1,
    "galeria": "https://galerias.trvely.com.co/sansiraka/",
    "experiencias": "https://experiencias.trvely.com.co/santa-marta/"
   },
@@ -8731,21 +8953,6 @@
    "noches": 3,
    "codigo": "SMR-SRK-4D3N-DES-EST",
    "fechas": [
-    [
-     "2026-11-10",
-     "2026-11-13",
-     1105990,
-     {
-      "ai": "Avianca",
-      "si": "10:35",
-      "li": "15:50",
-      "ar": "Avianca",
-      "sr": "22:00",
-      "lr": "23:30",
-      "ei": false,
-      "er": false
-     }
-    ],
     [
      "2026-12-01",
      "2026-12-04",
@@ -8776,8 +8983,8 @@
     "Traslado aeropuerto SMR - hotel - aeropuerto"
    ],
    "desde": 1099990,
-   "hasta": 1105990,
-   "n_fechas": 2,
+   "hasta": 1099990,
+   "n_fechas": 1,
    "galeria": "https://galerias.trvely.com.co/sansiraka/",
    "experiencias": "https://experiencias.trvely.com.co/santa-marta/"
   },
@@ -8789,21 +8996,6 @@
    "noches": 3,
    "codigo": "SMR-SRK-4D3N-PC-EST",
    "fechas": [
-    [
-     "2026-11-10",
-     "2026-11-13",
-     1345990,
-     {
-      "ai": "Avianca",
-      "si": "10:35",
-      "li": "15:50",
-      "ar": "Avianca",
-      "sr": "22:00",
-      "lr": "23:30",
-      "ei": false,
-      "er": false
-     }
-    ],
     [
      "2026-12-01",
      "2026-12-04",
@@ -8834,8 +9026,8 @@
     "Traslado aeropuerto SMR - hotel - aeropuerto"
    ],
    "desde": 1339990,
-   "hasta": 1345990,
-   "n_fechas": 2,
+   "hasta": 1339990,
+   "n_fechas": 1,
    "galeria": "https://galerias.trvely.com.co/sansiraka/",
    "experiencias": "https://experiencias.trvely.com.co/santa-marta/"
   },
@@ -8848,21 +9040,6 @@
    "codigo": "SMR-TBCH-4D3N-DC-EST",
    "fechas": [
     [
-     "2026-11-10",
-     "2026-11-13",
-     1161990,
-     {
-      "ai": "Avianca",
-      "si": "10:35",
-      "li": "15:50",
-      "ar": "Avianca",
-      "sr": "22:00",
-      "lr": "23:30",
-      "ei": false,
-      "er": false
-     }
-    ],
-    [
      "2026-12-01",
      "2026-12-04",
      1155990,
@@ -8892,8 +9069,8 @@
     "Traslado aeropuerto SMR - hotel - aeropuerto"
    ],
    "desde": 1155990,
-   "hasta": 1161990,
-   "n_fechas": 2,
+   "hasta": 1155990,
+   "n_fechas": 1,
    "galeria": "https://galerias.trvely.com.co/taybo-beach/",
    "experiencias": "https://experiencias.trvely.com.co/santa-marta/"
   },
@@ -8906,21 +9083,6 @@
    "codigo": "SMR-TBCH-4D3N-DES-EST",
    "fechas": [
     [
-     "2026-11-10",
-     "2026-11-13",
-     1120990,
-     {
-      "ai": "Avianca",
-      "si": "10:35",
-      "li": "15:50",
-      "ar": "Avianca",
-      "sr": "22:00",
-      "lr": "23:30",
-      "ei": false,
-      "er": false
-     }
-    ],
-    [
      "2026-12-01",
      "2026-12-04",
      1114990,
@@ -8950,8 +9112,8 @@
     "Traslado aeropuerto SMR - hotel - aeropuerto"
    ],
    "desde": 1114990,
-   "hasta": 1120990,
-   "n_fechas": 2,
+   "hasta": 1114990,
+   "n_fechas": 1,
    "galeria": "https://galerias.trvely.com.co/taybo-beach/",
    "experiencias": "https://experiencias.trvely.com.co/santa-marta/"
   },
@@ -8963,21 +9125,6 @@
    "noches": 3,
    "codigo": "SMR-TKAI-4D3N-DC-EST",
    "fechas": [
-    [
-     "2026-11-10",
-     "2026-11-13",
-     1161990,
-     {
-      "ai": "Avianca",
-      "si": "10:35",
-      "li": "15:50",
-      "ar": "Avianca",
-      "sr": "22:00",
-      "lr": "23:30",
-      "ei": false,
-      "er": false
-     }
-    ],
     [
      "2026-12-01",
      "2026-12-04",
@@ -9008,8 +9155,8 @@
     "Traslado aeropuerto SMR - hotel - aeropuerto"
    ],
    "desde": 1155990,
-   "hasta": 1161990,
-   "n_fechas": 2,
+   "hasta": 1155990,
+   "n_fechas": 1,
    "galeria": "https://galerias.trvely.com.co/taybo-kai/",
    "experiencias": "https://experiencias.trvely.com.co/santa-marta/"
   },
@@ -9021,21 +9168,6 @@
    "noches": 3,
    "codigo": "SMR-TKAI-4D3N-DES-EST",
    "fechas": [
-    [
-     "2026-11-10",
-     "2026-11-13",
-     1120990,
-     {
-      "ai": "Avianca",
-      "si": "10:35",
-      "li": "15:50",
-      "ar": "Avianca",
-      "sr": "22:00",
-      "lr": "23:30",
-      "ei": false,
-      "er": false
-     }
-    ],
     [
      "2026-12-01",
      "2026-12-04",
@@ -9066,8 +9198,8 @@
     "Traslado aeropuerto SMR - hotel - aeropuerto"
    ],
    "desde": 1114990,
-   "hasta": 1120990,
-   "n_fechas": 2,
+   "hasta": 1114990,
+   "n_fechas": 1,
    "galeria": "https://galerias.trvely.com.co/taybo-kai/",
    "experiencias": "https://experiencias.trvely.com.co/santa-marta/"
   },
@@ -9080,21 +9212,6 @@
    "codigo": "SMR-VDM-4D3N-DC-EST",
    "fechas": [
     [
-     "2026-11-10",
-     "2026-11-13",
-     1428990,
-     {
-      "ai": "Avianca",
-      "si": "10:35",
-      "li": "15:50",
-      "ar": "Avianca",
-      "sr": "22:00",
-      "lr": "23:30",
-      "ei": false,
-      "er": false
-     }
-    ],
-    [
      "2026-12-01",
      "2026-12-04",
      1422990,
@@ -9102,6 +9219,36 @@
       "ai": "Avianca",
       "si": "08:55",
       "li": "15:50",
+      "ar": "Avianca",
+      "sr": "21:00",
+      "lr": "22:35",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2027-01-20",
+     "2027-01-23",
+     1444990,
+     {
+      "ai": "Avianca",
+      "si": "05:20",
+      "li": "06:55",
+      "ar": "Avianca",
+      "sr": "20:10",
+      "lr": "21:40",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2027-01-21",
+     "2027-01-24",
+     1466990,
+     {
+      "ai": "Avianca",
+      "si": "05:20",
+      "li": "06:55",
       "ar": "Avianca",
       "sr": "21:00",
       "lr": "22:35",
@@ -9124,8 +9271,8 @@
     "Traslado aeropuerto SMR - hotel - aeropuerto"
    ],
    "desde": 1422990,
-   "hasta": 1428990,
-   "n_fechas": 2,
+   "hasta": 1466990,
+   "n_fechas": 3,
    "galeria": "https://galerias.trvely.com.co/vadamar/",
    "experiencias": "https://experiencias.trvely.com.co/santa-marta/"
   },
@@ -9138,21 +9285,6 @@
    "codigo": "SMR-VDM-4D3N-DES-EST",
    "fechas": [
     [
-     "2026-11-10",
-     "2026-11-13",
-     1387990,
-     {
-      "ai": "Avianca",
-      "si": "10:35",
-      "li": "15:50",
-      "ar": "Avianca",
-      "sr": "22:00",
-      "lr": "23:30",
-      "ei": false,
-      "er": false
-     }
-    ],
-    [
      "2026-12-01",
      "2026-12-04",
      1381990,
@@ -9160,6 +9292,36 @@
       "ai": "Avianca",
       "si": "08:55",
       "li": "15:50",
+      "ar": "Avianca",
+      "sr": "21:00",
+      "lr": "22:35",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2027-01-20",
+     "2027-01-23",
+     1382990,
+     {
+      "ai": "Avianca",
+      "si": "05:20",
+      "li": "06:55",
+      "ar": "Avianca",
+      "sr": "20:10",
+      "lr": "21:40",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2027-01-21",
+     "2027-01-24",
+     1405990,
+     {
+      "ai": "Avianca",
+      "si": "05:20",
+      "li": "06:55",
       "ar": "Avianca",
       "sr": "21:00",
       "lr": "22:35",
@@ -9182,8 +9344,8 @@
     "Traslado aeropuerto SMR - hotel - aeropuerto"
    ],
    "desde": 1381990,
-   "hasta": 1387990,
-   "n_fechas": 2,
+   "hasta": 1405990,
+   "n_fechas": 3,
    "galeria": "https://galerias.trvely.com.co/vadamar/",
    "experiencias": "https://experiencias.trvely.com.co/santa-marta/"
   },
@@ -9196,21 +9358,6 @@
    "codigo": "SMR-VDM-4D3N-PC-EST",
    "fechas": [
     [
-     "2026-11-10",
-     "2026-11-13",
-     1530990,
-     {
-      "ai": "Avianca",
-      "si": "10:35",
-      "li": "15:50",
-      "ar": "Avianca",
-      "sr": "22:00",
-      "lr": "23:30",
-      "ei": false,
-      "er": false
-     }
-    ],
-    [
      "2026-12-01",
      "2026-12-04",
      1524990,
@@ -9218,6 +9365,36 @@
       "ai": "Avianca",
       "si": "08:55",
       "li": "15:50",
+      "ar": "Avianca",
+      "sr": "21:00",
+      "lr": "22:35",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2027-01-20",
+     "2027-01-23",
+     1546990,
+     {
+      "ai": "Avianca",
+      "si": "05:20",
+      "li": "06:55",
+      "ar": "Avianca",
+      "sr": "20:10",
+      "lr": "21:40",
+      "ei": false,
+      "er": false
+     }
+    ],
+    [
+     "2027-01-21",
+     "2027-01-24",
+     1569990,
+     {
+      "ai": "Avianca",
+      "si": "05:20",
+      "li": "06:55",
       "ar": "Avianca",
       "sr": "21:00",
       "lr": "22:35",
@@ -9240,8 +9417,8 @@
     "Traslado aeropuerto SMR - hotel - aeropuerto"
    ],
    "desde": 1524990,
-   "hasta": 1530990,
-   "n_fechas": 2,
+   "hasta": 1569990,
+   "n_fechas": 3,
    "galeria": "https://galerias.trvely.com.co/vadamar/",
    "experiencias": "https://experiencias.trvely.com.co/santa-marta/"
   },
