@@ -1,6 +1,6 @@
 {
- "generado": "2026-11-14",
- "generado_hora": "13:44",
+ "generado": "2026-11-16",
+ "generado_hora": "17:53",
  "acomodacion": "doble",
  "productos": [
   {
@@ -9756,54 +9756,9 @@
    "codigo": "JDL-CORAL-4D3N-TI-SDQ",
    "fechas": [
     [
-     "2026-11-27",
-     "2026-11-30",
-     3593990,
-     {
-      "ai": "Avianca",
-      "si": "08:10",
-      "li": "11:50",
-      "ar": "Avianca",
-      "sr": "18:45",
-      "lr": "20:30",
-      "ei": false,
-      "er": false
-     }
-    ],
-    [
-     "2026-12-06",
-     "2026-12-09",
-     3525990,
-     {
-      "ai": "Arajet",
-      "si": "10:05",
-      "li": "13:47",
-      "ar": "Arajet",
-      "sr": "19:10",
-      "lr": "20:55",
-      "ei": false,
-      "er": false
-     }
-    ],
-    [
-     "2026-12-17",
-     "2026-12-20",
-     3649990,
-     {
-      "ai": "Avianca",
-      "si": "08:10",
-      "li": "11:50",
-      "ar": "Avianca",
-      "sr": "18:45",
-      "lr": "20:30",
-      "ei": false,
-      "er": false
-     }
-    ],
-    [
      "2026-12-22",
      "2026-12-25",
-     3769990,
+     3203990,
      {
       "ai": "Avianca",
       "si": "08:10",
@@ -10175,7 +10130,7 @@
    ],
    "desde": 3039990,
    "hasta": 4459990,
-   "n_fechas": 27,
+   "n_fechas": 24,
    "galeria": "https://galerias.trvely.com.co/coral-costa-caribe/",
    "experiencias": null
   },
