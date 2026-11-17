@@ -1,6 +1,6 @@
 {
- "generado": "2026-11-16",
- "generado_hora": "17:53",
+ "generado": "2026-11-17",
+ "generado_hora": "12:05",
  "acomodacion": "doble",
  "productos": [
   {
@@ -16439,7 +16439,7 @@
     [
      "2026-12-07",
      "2026-12-10",
-     1471990,
+     1562990,
      {
       "ai": "Avianca",
       "si": "08:55",
@@ -16454,7 +16454,7 @@
     [
      "2026-12-12",
      "2026-12-15",
-     1471990,
+     1562990,
      {
       "ai": "Avianca",
       "si": "04:35",
@@ -16469,7 +16469,7 @@
     [
      "2026-12-19",
      "2026-12-22",
-     2085990,
+     2195990,
      {
       "ai": "Avianca",
       "si": "04:35",
@@ -16484,7 +16484,7 @@
     [
      "2027-01-06",
      "2027-01-09",
-     2324990,
+     2434990,
      {
       "ai": "Avianca",
       "si": "05:20",
@@ -16499,7 +16499,7 @@
     [
      "2027-01-13",
      "2027-01-16",
-     1855990,
+     1966990,
      {
       "ai": "Avianca",
       "si": "07:00",
@@ -16514,7 +16514,7 @@
     [
      "2027-01-16",
      "2027-01-19",
-     1034990,
+     1126990,
      {
       "ai": "Avianca",
       "si": "05:35",
@@ -16530,7 +16530,7 @@
    "incluye": {
     "tiquete": true,
     "alojamiento": true,
-    "tours": false,
+    "tours": true,
     "traslado": true,
     "asistencia": true
    },
@@ -16540,8 +16540,8 @@
    "traslados": [
     "Traslado aeropuerto SMR - hotel - aeropuerto"
    ],
-   "desde": 1034990,
-   "hasta": 2324990,
+   "desde": 1126990,
+   "hasta": 2434990,
    "n_fechas": 6,
    "galeria": "https://galerias.trvely.com.co/be-de-la-sierra/",
    "experiencias": "https://experiencias.trvely.com.co/santa-marta/"
@@ -16557,7 +16557,7 @@
     [
      "2026-12-07",
      "2026-12-10",
-     1583990,
+     1676990,
      {
       "ai": "Avianca",
       "si": "08:55",
@@ -16572,7 +16572,7 @@
     [
      "2026-12-12",
      "2026-12-15",
-     1583990,
+     1676990,
      {
       "ai": "Avianca",
       "si": "04:35",
@@ -16587,7 +16587,7 @@
     [
      "2026-12-19",
      "2026-12-22",
-     2229990,
+     2340990,
      {
       "ai": "Avianca",
       "si": "04:35",
@@ -16602,7 +16602,7 @@
     [
      "2027-01-06",
      "2027-01-09",
-     2469990,
+     2579990,
      {
       "ai": "Avianca",
       "si": "05:20",
@@ -16617,7 +16617,7 @@
     [
      "2027-01-13",
      "2027-01-16",
-     2000990,
+     2111990,
      {
       "ai": "Avianca",
       "si": "07:00",
@@ -16632,7 +16632,7 @@
     [
      "2027-01-16",
      "2027-01-19",
-     1074990,
+     1166990,
      {
       "ai": "Avianca",
       "si": "05:35",
@@ -16648,7 +16648,7 @@
    "incluye": {
     "tiquete": true,
     "alojamiento": true,
-    "tours": false,
+    "tours": true,
     "traslado": true,
     "asistencia": true
    },
@@ -16658,8 +16658,8 @@
    "traslados": [
     "Traslado aeropuerto SMR - hotel - aeropuerto"
    ],
-   "desde": 1074990,
-   "hasta": 2469990,
+   "desde": 1166990,
+   "hasta": 2579990,
    "n_fechas": 6,
    "galeria": "https://galerias.trvely.com.co/be-de-la-sierra/",
    "experiencias": "https://experiencias.trvely.com.co/santa-marta/"
@@ -16675,7 +16675,7 @@
     [
      "2026-12-07",
      "2026-12-10",
-     1324990,
+     1416990,
      {
       "ai": "Avianca",
       "si": "08:55",
@@ -16690,7 +16690,7 @@
     [
      "2026-12-12",
      "2026-12-15",
-     1324990,
+     1416990,
      {
       "ai": "Avianca",
       "si": "04:35",
@@ -16705,7 +16705,7 @@
     [
      "2026-12-19",
      "2026-12-22",
-     1919990,
+     2029990,
      {
       "ai": "Avianca",
       "si": "04:35",
@@ -16720,7 +16720,7 @@
     [
      "2027-01-06",
      "2027-01-09",
-     2158990,
+     2269990,
      {
       "ai": "Avianca",
       "si": "05:20",
@@ -16735,7 +16735,7 @@
     [
      "2027-01-13",
      "2027-01-16",
-     1690990,
+     1800990,
      {
       "ai": "Avianca",
       "si": "07:00",
@@ -16750,7 +16750,7 @@
     [
      "2027-01-16",
      "2027-01-19",
-     988990,
+     1080990,
      {
       "ai": "Avianca",
       "si": "05:35",
@@ -16766,7 +16766,7 @@
    "incluye": {
     "tiquete": true,
     "alojamiento": true,
-    "tours": false,
+    "tours": true,
     "traslado": true,
     "asistencia": true
    },
@@ -16776,8 +16776,8 @@
    "traslados": [
     "Traslado aeropuerto SMR - hotel - aeropuerto"
    ],
-   "desde": 988990,
-   "hasta": 2158990,
+   "desde": 1080990,
+   "hasta": 2269990,
    "n_fechas": 6,
    "galeria": "https://galerias.trvely.com.co/be-de-la-sierra/",
    "experiencias": "https://experiencias.trvely.com.co/santa-marta/"
@@ -16793,7 +16793,7 @@
     [
      "2026-12-07",
      "2026-12-10",
-     1436990,
+     1528990,
      {
       "ai": "Avianca",
       "si": "08:55",
@@ -16808,7 +16808,7 @@
     [
      "2026-12-12",
      "2026-12-15",
-     1436990,
+     1528990,
      {
       "ai": "Avianca",
       "si": "04:35",
@@ -16823,7 +16823,7 @@
     [
      "2026-12-19",
      "2026-12-22",
-     2064990,
+     2174990,
      {
       "ai": "Avianca",
       "si": "04:35",
@@ -16838,7 +16838,7 @@
     [
      "2027-01-06",
      "2027-01-09",
-     2303990,
+     2414990,
      {
       "ai": "Avianca",
       "si": "05:20",
@@ -16853,7 +16853,7 @@
     [
      "2027-01-13",
      "2027-01-16",
-     1835990,
+     1945990,
      {
       "ai": "Avianca",
       "si": "07:00",
@@ -16868,7 +16868,7 @@
     [
      "2027-01-16",
      "2027-01-19",
-     1028990,
+     1120990,
      {
       "ai": "Avianca",
       "si": "05:35",
@@ -16884,7 +16884,7 @@
    "incluye": {
     "tiquete": true,
     "alojamiento": true,
-    "tours": false,
+    "tours": true,
     "traslado": true,
     "asistencia": true
    },
@@ -16894,8 +16894,8 @@
    "traslados": [
     "Traslado aeropuerto SMR - hotel - aeropuerto"
    ],
-   "desde": 1028990,
-   "hasta": 2303990,
+   "desde": 1120990,
+   "hasta": 2414990,
    "n_fechas": 6,
    "galeria": "https://galerias.trvely.com.co/be-de-la-sierra/",
    "experiencias": "https://experiencias.trvely.com.co/santa-marta/"
@@ -16911,7 +16911,7 @@
     [
      "2026-12-07",
      "2026-12-10",
-     1608990,
+     1707990,
      {
       "ai": "Avianca",
       "si": "08:55",
@@ -16926,7 +16926,7 @@
     [
      "2026-12-12",
      "2026-12-15",
-     1608990,
+     1707990,
      {
       "ai": "Avianca",
       "si": "04:35",
@@ -16941,7 +16941,7 @@
     [
      "2026-12-19",
      "2026-12-22",
-     2333990,
+     2443990,
      {
       "ai": "Avianca",
       "si": "04:35",
@@ -16956,7 +16956,7 @@
     [
      "2027-01-06",
      "2027-01-09",
-     2572990,
+     2683990,
      {
       "ai": "Avianca",
       "si": "05:20",
@@ -16971,7 +16971,7 @@
     [
      "2027-01-13",
      "2027-01-16",
-     2104990,
+     2214990,
      {
       "ai": "Avianca",
       "si": "07:00",
@@ -16986,7 +16986,7 @@
     [
      "2027-01-16",
      "2027-01-19",
-     1103990,
+     1195990,
      {
       "ai": "Avianca",
       "si": "05:35",
@@ -17002,7 +17002,7 @@
    "incluye": {
     "tiquete": true,
     "alojamiento": true,
-    "tours": false,
+    "tours": true,
     "traslado": true,
     "asistencia": true
    },
@@ -17012,8 +17012,8 @@
    "traslados": [
     "Traslado aeropuerto SMR - hotel - aeropuerto"
    ],
-   "desde": 1103990,
-   "hasta": 2572990,
+   "desde": 1195990,
+   "hasta": 2683990,
    "n_fechas": 6,
    "galeria": "https://galerias.trvely.com.co/be-de-la-sierra/",
    "experiencias": "https://experiencias.trvely.com.co/santa-marta/"
@@ -17029,7 +17029,7 @@
     [
      "2026-12-07",
      "2026-12-10",
-     1742990,
+     1852990,
      {
       "ai": "Avianca",
       "si": "08:55",
@@ -17044,7 +17044,7 @@
     [
      "2026-12-12",
      "2026-12-15",
-     1742990,
+     1852990,
      {
       "ai": "Avianca",
       "si": "04:35",
@@ -17059,7 +17059,7 @@
     [
      "2026-12-19",
      "2026-12-22",
-     2498990,
+     2609990,
      {
       "ai": "Avianca",
       "si": "04:35",
@@ -17074,7 +17074,7 @@
     [
      "2027-01-06",
      "2027-01-09",
-     2738990,
+     2848990,
      {
       "ai": "Avianca",
       "si": "05:20",
@@ -17089,7 +17089,7 @@
     [
      "2027-01-13",
      "2027-01-16",
-     2269990,
+     2380990,
      {
       "ai": "Avianca",
       "si": "07:00",
@@ -17104,7 +17104,7 @@
     [
      "2027-01-16",
      "2027-01-19",
-     1149990,
+     1241990,
      {
       "ai": "Avianca",
       "si": "05:35",
@@ -17120,7 +17120,7 @@
    "incluye": {
     "tiquete": true,
     "alojamiento": true,
-    "tours": false,
+    "tours": true,
     "traslado": true,
     "asistencia": true
    },
@@ -17130,8 +17130,8 @@
    "traslados": [
     "Traslado aeropuerto SMR - hotel - aeropuerto"
    ],
-   "desde": 1149990,
-   "hasta": 2738990,
+   "desde": 1241990,
+   "hasta": 2848990,
    "n_fechas": 6,
    "galeria": "https://galerias.trvely.com.co/be-de-la-sierra/",
    "experiencias": "https://experiencias.trvely.com.co/santa-marta/"
@@ -17147,7 +17147,7 @@
     [
      "2026-12-07",
      "2026-12-10",
-     1218990,
+     1310990,
      {
       "ai": "Avianca",
       "si": "08:55",
@@ -17162,7 +17162,7 @@
     [
      "2026-12-12",
      "2026-12-15",
-     1198990,
+     1290990,
      {
       "ai": "Avianca",
       "si": "04:35",
@@ -17177,7 +17177,7 @@
     [
      "2026-12-19",
      "2026-12-22",
-     1346990,
+     1438990,
      {
       "ai": "Avianca",
       "si": "04:35",
@@ -17192,7 +17192,7 @@
     [
      "2027-01-06",
      "2027-01-09",
-     1865990,
+     1976990,
      {
       "ai": "Avianca",
       "si": "05:20",
@@ -17207,7 +17207,7 @@
     [
      "2027-01-13",
      "2027-01-16",
-     1442990,
+     1534990,
      {
       "ai": "Avianca",
       "si": "07:00",
@@ -17222,7 +17222,7 @@
     [
      "2027-01-16",
      "2027-01-19",
-     1173990,
+     1265990,
      {
       "ai": "Avianca",
       "si": "05:35",
@@ -17237,7 +17237,7 @@
     [
      "2027-01-23",
      "2027-01-26",
-     1173990,
+     1265990,
      {
       "ai": "Avianca",
       "si": "05:35",
@@ -17252,7 +17252,7 @@
     [
      "2027-01-31",
      "2027-02-03",
-     1165990,
+     1257990,
      {
       "ai": "Wingo",
       "si": "11:15",
@@ -17538,7 +17538,7 @@
    "incluye": {
     "tiquete": true,
     "alojamiento": true,
-    "tours": false,
+    "tours": true,
     "traslado": true,
     "asistencia": true
    },
@@ -17549,7 +17549,7 @@
     "Traslado aeropuerto SMR - hotel - aeropuerto"
    ],
    "desde": 1165990,
-   "hasta": 1865990,
+   "hasta": 1976990,
    "n_fechas": 26,
    "galeria": "https://galerias.trvely.com.co/delfin/",
    "experiencias": "https://experiencias.trvely.com.co/santa-marta/"
@@ -17565,7 +17565,7 @@
     [
      "2026-12-07",
      "2026-12-10",
-     1177990,
+     1269990,
      {
       "ai": "Avianca",
       "si": "08:55",
@@ -17580,7 +17580,7 @@
     [
      "2026-12-12",
      "2026-12-15",
-     1157990,
+     1249990,
      {
       "ai": "Avianca",
       "si": "04:35",
@@ -17595,7 +17595,7 @@
     [
      "2026-12-19",
      "2026-12-22",
-     1305990,
+     1397990,
      {
       "ai": "Avianca",
       "si": "04:35",
@@ -17610,7 +17610,7 @@
     [
      "2027-01-06",
      "2027-01-09",
-     1816990,
+     1927990,
      {
       "ai": "Avianca",
       "si": "05:20",
@@ -17625,7 +17625,7 @@
     [
      "2027-01-13",
      "2027-01-16",
-     1401990,
+     1493990,
      {
       "ai": "Avianca",
       "si": "07:00",
@@ -17640,7 +17640,7 @@
     [
      "2027-01-16",
      "2027-01-19",
-     1122990,
+     1214990,
      {
       "ai": "Avianca",
       "si": "05:35",
@@ -17655,7 +17655,7 @@
     [
      "2027-01-23",
      "2027-01-26",
-     1122990,
+     1214990,
      {
       "ai": "Avianca",
       "si": "05:35",
@@ -17670,7 +17670,7 @@
     [
      "2027-01-31",
      "2027-02-03",
-     1113990,
+     1205990,
      {
       "ai": "Wingo",
       "si": "11:15",
@@ -17956,7 +17956,7 @@
    "incluye": {
     "tiquete": true,
     "alojamiento": true,
-    "tours": false,
+    "tours": true,
     "traslado": true,
     "asistencia": true
    },
@@ -17967,7 +17967,7 @@
     "Traslado aeropuerto SMR - hotel - aeropuerto"
    ],
    "desde": 1113990,
-   "hasta": 1816990,
+   "hasta": 1927990,
    "n_fechas": 26,
    "galeria": "https://galerias.trvely.com.co/delfin/",
    "experiencias": "https://experiencias.trvely.com.co/santa-marta/"
@@ -17983,7 +17983,7 @@
     [
      "2026-12-07",
      "2026-12-10",
-     1321990,
+     1413990,
      {
       "ai": "Avianca",
       "si": "08:55",
@@ -17998,7 +17998,7 @@
     [
      "2026-12-12",
      "2026-12-15",
-     1300990,
+     1392990,
      {
       "ai": "Avianca",
       "si": "04:35",
@@ -18013,7 +18013,7 @@
     [
      "2026-12-19",
      "2026-12-22",
-     1448990,
+     1540990,
      {
       "ai": "Avianca",
       "si": "04:35",
@@ -18028,7 +18028,7 @@
     [
      "2027-01-06",
      "2027-01-09",
-     1989990,
+     2099990,
      {
       "ai": "Avianca",
       "si": "05:20",
@@ -18043,7 +18043,7 @@
     [
      "2027-01-13",
      "2027-01-16",
-     1544990,
+     1636990,
      {
       "ai": "Avianca",
       "si": "07:00",
@@ -18058,7 +18058,7 @@
     [
      "2027-01-16",
      "2027-01-19",
-     1276990,
+     1368990,
      {
       "ai": "Avianca",
       "si": "05:35",
@@ -18073,7 +18073,7 @@
     [
      "2027-01-23",
      "2027-01-26",
-     1276990,
+     1368990,
      {
       "ai": "Avianca",
       "si": "05:35",
@@ -18088,7 +18088,7 @@
     [
      "2027-01-31",
      "2027-02-03",
-     1267990,
+     1359990,
      {
       "ai": "Wingo",
       "si": "11:15",
@@ -18374,7 +18374,7 @@
    "incluye": {
     "tiquete": true,
     "alojamiento": true,
-    "tours": false,
+    "tours": true,
     "traslado": true,
     "asistencia": true
    },
@@ -18385,7 +18385,7 @@
     "Traslado aeropuerto SMR - hotel - aeropuerto"
    ],
    "desde": 1267990,
-   "hasta": 1989990,
+   "hasta": 2099990,
    "n_fechas": 26,
    "galeria": "https://galerias.trvely.com.co/delfin/",
    "experiencias": "https://experiencias.trvely.com.co/santa-marta/"
@@ -18401,7 +18401,7 @@
     [
      "2026-12-07",
      "2026-12-10",
-     1327990,
+     1419990,
      {
       "ai": "Avianca",
       "si": "08:55",
@@ -18416,7 +18416,7 @@
     [
      "2026-12-12",
      "2026-12-15",
-     1327990,
+     1419990,
      {
       "ai": "Avianca",
       "si": "04:35",
@@ -18431,7 +18431,7 @@
     [
      "2026-12-19",
      "2026-12-22",
-     1475990,
+     1567990,
      {
       "ai": "Avianca",
       "si": "04:35",
@@ -18446,7 +18446,7 @@
     [
      "2027-01-06",
      "2027-01-09",
-     1920990,
+     2031990,
      {
       "ai": "Avianca",
       "si": "05:20",
@@ -18461,7 +18461,7 @@
     [
      "2027-01-13",
      "2027-01-16",
-     1329990,
+     1421990,
      {
       "ai": "Avianca",
       "si": "07:00",
@@ -18476,7 +18476,7 @@
     [
      "2027-01-16",
      "2027-01-19",
-     1286990,
+     1378990,
      {
       "ai": "Avianca",
       "si": "05:35",
@@ -18491,7 +18491,7 @@
     [
      "2027-01-23",
      "2027-01-26",
-     1286990,
+     1378990,
      {
       "ai": "Avianca",
       "si": "05:35",
@@ -18506,7 +18506,7 @@
     [
      "2027-01-31",
      "2027-02-03",
-     1278990,
+     1370990,
      {
       "ai": "Wingo",
       "si": "11:15",
@@ -18792,7 +18792,7 @@
    "incluye": {
     "tiquete": true,
     "alojamiento": true,
-    "tours": false,
+    "tours": true,
     "traslado": true,
     "asistencia": true
    },
@@ -18803,7 +18803,7 @@
     "Traslado aeropuerto SMR - hotel - aeropuerto"
    ],
    "desde": 1278990,
-   "hasta": 1920990,
+   "hasta": 2031990,
    "n_fechas": 26,
    "galeria": "https://galerias.trvely.com.co/medellin-rodadero/",
    "experiencias": "https://experiencias.trvely.com.co/santa-marta/"
@@ -18819,7 +18819,7 @@
     [
      "2026-12-07",
      "2026-12-10",
-     1269990,
+     1361990,
      {
       "ai": "Avianca",
       "si": "08:55",
@@ -18834,7 +18834,7 @@
     [
      "2026-12-12",
      "2026-12-15",
-     1269990,
+     1361990,
      {
       "ai": "Avianca",
       "si": "04:35",
@@ -18849,7 +18849,7 @@
     [
      "2026-12-19",
      "2026-12-22",
-     1417990,
+     1509990,
      {
       "ai": "Avianca",
       "si": "04:35",
@@ -18864,7 +18864,7 @@
     [
      "2027-01-06",
      "2027-01-09",
-     1989990,
+     2099990,
      {
       "ai": "Avianca",
       "si": "05:20",
@@ -18879,7 +18879,7 @@
     [
      "2027-01-13",
      "2027-01-16",
-     1265990,
+     1357990,
      {
       "ai": "Avianca",
       "si": "07:00",
@@ -18894,7 +18894,7 @@
     [
      "2027-01-16",
      "2027-01-19",
-     1222990,
+     1314990,
      {
       "ai": "Avianca",
       "si": "05:35",
@@ -18909,7 +18909,7 @@
     [
      "2027-01-23",
      "2027-01-26",
-     1222990,
+     1314990,
      {
       "ai": "Avianca",
       "si": "05:35",
@@ -18924,7 +18924,7 @@
     [
      "2027-01-31",
      "2027-02-03",
-     1214990,
+     1306990,
      {
       "ai": "Wingo",
       "si": "11:15",
@@ -19210,7 +19210,7 @@
    "incluye": {
     "tiquete": true,
     "alojamiento": true,
-    "tours": false,
+    "tours": true,
     "traslado": true,
     "asistencia": true
    },
@@ -19221,7 +19221,7 @@
     "Traslado aeropuerto SMR - hotel - aeropuerto"
    ],
    "desde": 1214990,
-   "hasta": 1989990,
+   "hasta": 2099990,
    "n_fechas": 26,
    "galeria": "https://galerias.trvely.com.co/medellin-rodadero/",
    "experiencias": "https://experiencias.trvely.com.co/santa-marta/"
@@ -19237,7 +19237,7 @@
     [
      "2026-12-07",
      "2026-12-10",
-     1383990,
+     1475990,
      {
       "ai": "Avianca",
       "si": "08:55",
@@ -19252,7 +19252,7 @@
     [
      "2026-12-12",
      "2026-12-15",
-     1383990,
+     1475990,
      {
       "ai": "Avianca",
       "si": "04:35",
@@ -19267,7 +19267,7 @@
     [
      "2026-12-19",
      "2026-12-22",
-     1531990,
+     1622990,
      {
       "ai": "Avianca",
       "si": "04:35",
@@ -19282,7 +19282,7 @@
     [
      "2027-01-06",
      "2027-01-09",
-     2016990,
+     2126990,
      {
       "ai": "Avianca",
       "si": "05:20",
@@ -19297,7 +19297,7 @@
     [
      "2027-01-13",
      "2027-01-16",
-     1388990,
+     1480990,
      {
       "ai": "Avianca",
       "si": "07:00",
@@ -19312,7 +19312,7 @@
     [
      "2027-01-16",
      "2027-01-19",
-     1345990,
+     1437990,
      {
       "ai": "Avianca",
       "si": "05:35",
@@ -19327,7 +19327,7 @@
     [
      "2027-01-23",
      "2027-01-26",
-     1345990,
+     1437990,
      {
       "ai": "Avianca",
       "si": "05:35",
@@ -19342,7 +19342,7 @@
     [
      "2027-01-31",
      "2027-02-03",
-     1336990,
+     1428990,
      {
       "ai": "Wingo",
       "si": "11:15",
@@ -19628,7 +19628,7 @@
    "incluye": {
     "tiquete": true,
     "alojamiento": true,
-    "tours": false,
+    "tours": true,
     "traslado": true,
     "asistencia": true
    },
@@ -19639,7 +19639,7 @@
     "Traslado aeropuerto SMR - hotel - aeropuerto"
    ],
    "desde": 1336990,
-   "hasta": 2016990,
+   "hasta": 2126990,
    "n_fechas": 26,
    "galeria": "https://galerias.trvely.com.co/medellin-rodadero/",
    "experiencias": "https://experiencias.trvely.com.co/santa-marta/"
@@ -19655,7 +19655,7 @@
     [
      "2026-12-07",
      "2026-12-10",
-     1224990,
+     1316990,
      {
       "ai": "Avianca",
       "si": "08:55",
@@ -19670,7 +19670,7 @@
     [
      "2026-12-12",
      "2026-12-15",
-     1224990,
+     1316990,
      {
       "ai": "Avianca",
       "si": "04:35",
@@ -19685,7 +19685,7 @@
     [
      "2026-12-19",
      "2026-12-22",
-     1372990,
+     1464990,
      {
       "ai": "Avianca",
       "si": "04:35",
@@ -19700,7 +19700,7 @@
     [
      "2027-01-06",
      "2027-01-09",
-     1788990,
+     1898990,
      {
       "ai": "Avianca",
       "si": "05:20",
@@ -19715,7 +19715,7 @@
     [
      "2027-01-13",
      "2027-01-16",
-     1219990,
+     1311990,
      {
       "ai": "Avianca",
       "si": "07:00",
@@ -19730,7 +19730,7 @@
     [
      "2027-01-16",
      "2027-01-19",
-     1176990,
+     1268990,
      {
       "ai": "Avianca",
       "si": "05:35",
@@ -19745,7 +19745,7 @@
     [
      "2027-01-23",
      "2027-01-26",
-     1176990,
+     1268990,
      {
       "ai": "Avianca",
       "si": "05:35",
@@ -19760,7 +19760,7 @@
     [
      "2027-01-31",
      "2027-02-03",
-     1167990,
+     1259990,
      {
       "ai": "Wingo",
       "si": "11:15",
@@ -20046,7 +20046,7 @@
    "incluye": {
     "tiquete": true,
     "alojamiento": true,
-    "tours": false,
+    "tours": true,
     "traslado": true,
     "asistencia": true
    },
@@ -20057,7 +20057,7 @@
     "Traslado aeropuerto SMR - hotel - aeropuerto"
    ],
    "desde": 1167990,
-   "hasta": 1788990,
+   "hasta": 1898990,
    "n_fechas": 26,
    "galeria": "https://galerias.trvely.com.co/medellin-rodadero/",
    "experiencias": "https://experiencias.trvely.com.co/santa-marta/"
@@ -20073,7 +20073,7 @@
     [
      "2026-12-07",
      "2026-12-10",
-     1165990,
+     1257990,
      {
       "ai": "Avianca",
       "si": "08:55",
@@ -20088,7 +20088,7 @@
     [
      "2026-12-12",
      "2026-12-15",
-     1165990,
+     1257990,
      {
       "ai": "Avianca",
       "si": "04:35",
@@ -20103,7 +20103,7 @@
     [
      "2026-12-19",
      "2026-12-22",
-     1313990,
+     1405990,
      {
       "ai": "Avianca",
       "si": "04:35",
@@ -20118,7 +20118,7 @@
     [
      "2027-01-06",
      "2027-01-09",
-     1856990,
+     1967990,
      {
       "ai": "Avianca",
       "si": "05:20",
@@ -20133,7 +20133,7 @@
     [
      "2027-01-13",
      "2027-01-16",
-     1155990,
+     1247990,
      {
       "ai": "Avianca",
       "si": "07:00",
@@ -20148,7 +20148,7 @@
     [
      "2027-01-16",
      "2027-01-19",
-     1112990,
+     1204990,
      {
       "ai": "Avianca",
       "si": "05:35",
@@ -20163,7 +20163,7 @@
     [
      "2027-01-23",
      "2027-01-26",
-     1112990,
+     1204990,
      {
       "ai": "Avianca",
       "si": "05:35",
@@ -20178,7 +20178,7 @@
     [
      "2027-01-31",
      "2027-02-03",
-     1103990,
+     1195990,
      {
       "ai": "Wingo",
       "si": "11:15",
@@ -20464,7 +20464,7 @@
    "incluye": {
     "tiquete": true,
     "alojamiento": true,
-    "tours": false,
+    "tours": true,
     "traslado": true,
     "asistencia": true
    },
@@ -20475,7 +20475,7 @@
     "Traslado aeropuerto SMR - hotel - aeropuerto"
    ],
    "desde": 1103990,
-   "hasta": 1856990,
+   "hasta": 1967990,
    "n_fechas": 26,
    "galeria": "https://galerias.trvely.com.co/medellin-rodadero/",
    "experiencias": "https://experiencias.trvely.com.co/santa-marta/"
@@ -20491,7 +20491,7 @@
     [
      "2026-12-07",
      "2026-12-10",
-     1279990,
+     1371990,
      {
       "ai": "Avianca",
       "si": "08:55",
@@ -20506,7 +20506,7 @@
     [
      "2026-12-12",
      "2026-12-15",
-     1279990,
+     1371990,
      {
       "ai": "Avianca",
       "si": "04:35",
@@ -20521,7 +20521,7 @@
     [
      "2026-12-19",
      "2026-12-22",
-     1427990,
+     1519990,
      {
       "ai": "Avianca",
       "si": "04:35",
@@ -20536,7 +20536,7 @@
     [
      "2027-01-06",
      "2027-01-09",
-     1883990,
+     1994990,
      {
       "ai": "Avianca",
       "si": "05:20",
@@ -20551,7 +20551,7 @@
     [
      "2027-01-13",
      "2027-01-16",
-     1277990,
+     1369990,
      {
       "ai": "Avianca",
       "si": "07:00",
@@ -20566,7 +20566,7 @@
     [
      "2027-01-16",
      "2027-01-19",
-     1234990,
+     1326990,
      {
       "ai": "Avianca",
       "si": "05:35",
@@ -20581,7 +20581,7 @@
     [
      "2027-01-23",
      "2027-01-26",
-     1234990,
+     1326990,
      {
       "ai": "Avianca",
       "si": "05:35",
@@ -20596,7 +20596,7 @@
     [
      "2027-01-31",
      "2027-02-03",
-     1226990,
+     1318990,
      {
       "ai": "Wingo",
       "si": "11:15",
@@ -20882,7 +20882,7 @@
    "incluye": {
     "tiquete": true,
     "alojamiento": true,
-    "tours": false,
+    "tours": true,
     "traslado": true,
     "asistencia": true
    },
@@ -20893,7 +20893,7 @@
     "Traslado aeropuerto SMR - hotel - aeropuerto"
    ],
    "desde": 1226990,
-   "hasta": 1883990,
+   "hasta": 1994990,
    "n_fechas": 26,
    "galeria": "https://galerias.trvely.com.co/medellin-rodadero/",
    "experiencias": "https://experiencias.trvely.com.co/santa-marta/"
@@ -20909,7 +20909,7 @@
     [
      "2026-12-07",
      "2026-12-10",
-     1075990,
+     1167990,
      {
       "ai": "Avianca",
       "si": "08:55",
@@ -20924,7 +20924,7 @@
     [
      "2026-12-12",
      "2026-12-15",
-     1075990,
+     1167990,
      {
       "ai": "Avianca",
       "si": "04:35",
@@ -20939,7 +20939,7 @@
     [
      "2026-12-19",
      "2026-12-22",
-     1223990,
+     1315990,
      {
       "ai": "Avianca",
       "si": "04:35",
@@ -20954,7 +20954,7 @@
     [
      "2027-01-06",
      "2027-01-09",
-     1668990,
+     1779990,
      {
       "ai": "Avianca",
       "si": "05:20",
@@ -20969,7 +20969,7 @@
     [
      "2027-01-13",
      "2027-01-16",
-     1278990,
+     1370990,
      {
       "ai": "Avianca",
       "si": "07:00",
@@ -20984,7 +20984,7 @@
     [
      "2027-01-16",
      "2027-01-19",
-     988990,
+     1080990,
      {
       "ai": "Avianca",
       "si": "05:35",
@@ -20999,7 +20999,7 @@
     [
      "2027-01-23",
      "2027-01-26",
-     988990,
+     1080990,
      {
       "ai": "Avianca",
       "si": "05:35",
@@ -21014,7 +21014,7 @@
     [
      "2027-01-31",
      "2027-02-03",
-     980990,
+     1072990,
      {
       "ai": "Wingo",
       "si": "11:15",
@@ -21120,7 +21120,7 @@
    "incluye": {
     "tiquete": true,
     "alojamiento": true,
-    "tours": false,
+    "tours": true,
     "traslado": true,
     "asistencia": true
    },
@@ -21131,7 +21131,7 @@
     "Traslado aeropuerto SMR - hotel - aeropuerto"
    ],
    "desde": 980990,
-   "hasta": 1668990,
+   "hasta": 1779990,
    "n_fechas": 14,
    "galeria": "https://galerias.trvely.com.co/los-veleros/",
    "experiencias": "https://experiencias.trvely.com.co/santa-marta/"
@@ -21147,7 +21147,7 @@
     [
      "2026-12-07",
      "2026-12-10",
-     1034990,
+     1126990,
      {
       "ai": "Avianca",
       "si": "08:55",
@@ -21162,7 +21162,7 @@
     [
      "2026-12-12",
      "2026-12-15",
-     1034990,
+     1126990,
      {
       "ai": "Avianca",
       "si": "04:35",
@@ -21177,7 +21177,7 @@
     [
      "2026-12-19",
      "2026-12-22",
-     1182990,
+     1273990,
      {
       "ai": "Avianca",
       "si": "04:35",
@@ -21192,7 +21192,7 @@
     [
      "2027-01-06",
      "2027-01-09",
-     1607990,
+     1705990,
      {
       "ai": "Avianca",
       "si": "05:20",
@@ -21207,7 +21207,7 @@
     [
      "2027-01-13",
      "2027-01-16",
-     1216990,
+     1308990,
      {
       "ai": "Avianca",
       "si": "07:00",
@@ -21222,7 +21222,7 @@
     [
      "2027-01-16",
      "2027-01-19",
-     947990,
+     1039990,
      {
       "ai": "Avianca",
       "si": "05:35",
@@ -21237,7 +21237,7 @@
     [
      "2027-01-23",
      "2027-01-26",
-     947990,
+     1039990,
      {
       "ai": "Avianca",
       "si": "05:35",
@@ -21252,7 +21252,7 @@
     [
      "2027-01-31",
      "2027-02-03",
-     939990,
+     1031990,
      {
       "ai": "Wingo",
       "si": "11:15",
@@ -21358,7 +21358,7 @@
    "incluye": {
     "tiquete": true,
     "alojamiento": true,
-    "tours": false,
+    "tours": true,
     "traslado": true,
     "asistencia": true
    },
@@ -21369,7 +21369,7 @@
     "Traslado aeropuerto SMR - hotel - aeropuerto"
    ],
    "desde": 939990,
-   "hasta": 1607990,
+   "hasta": 1705990,
    "n_fechas": 14,
    "galeria": "https://galerias.trvely.com.co/los-veleros/",
    "experiencias": "https://experiencias.trvely.com.co/santa-marta/"
@@ -21385,7 +21385,7 @@
     [
      "2026-12-07",
      "2026-12-10",
-     1136990,
+     1228990,
      {
       "ai": "Avianca",
       "si": "08:55",
@@ -21400,7 +21400,7 @@
     [
      "2026-12-12",
      "2026-12-15",
-     1136990,
+     1228990,
      {
       "ai": "Avianca",
       "si": "04:35",
@@ -21415,7 +21415,7 @@
     [
      "2026-12-19",
      "2026-12-22",
-     1284990,
+     1376990,
      {
       "ai": "Avianca",
       "si": "04:35",
@@ -21430,7 +21430,7 @@
     [
      "2027-01-06",
      "2027-01-09",
-     1693990,
+     1803990,
      {
       "ai": "Avianca",
       "si": "05:20",
@@ -21445,7 +21445,7 @@
     [
      "2027-01-13",
      "2027-01-16",
-     1298990,
+     1390990,
      {
       "ai": "Avianca",
       "si": "07:00",
@@ -21460,7 +21460,7 @@
     [
      "2027-01-16",
      "2027-01-19",
-     1050990,
+     1142990,
      {
       "ai": "Avianca",
       "si": "05:35",
@@ -21475,7 +21475,7 @@
     [
      "2027-01-23",
      "2027-01-26",
-     1050990,
+     1142990,
      {
       "ai": "Avianca",
       "si": "05:35",
@@ -21490,7 +21490,7 @@
     [
      "2027-01-31",
      "2027-02-03",
-     1042990,
+     1134990,
      {
       "ai": "Wingo",
       "si": "11:15",
@@ -21596,7 +21596,7 @@
    "incluye": {
     "tiquete": true,
     "alojamiento": true,
-    "tours": false,
+    "tours": true,
     "traslado": true,
     "asistencia": true
    },
@@ -21607,7 +21607,7 @@
     "Traslado aeropuerto SMR - hotel - aeropuerto"
    ],
    "desde": 1042990,
-   "hasta": 1693990,
+   "hasta": 1803990,
    "n_fechas": 14,
    "galeria": "https://galerias.trvely.com.co/los-veleros/",
    "experiencias": "https://experiencias.trvely.com.co/santa-marta/"
@@ -21623,7 +21623,7 @@
     [
      "2026-12-07",
      "2026-12-10",
-     1136990,
+     1228990,
      {
       "ai": "Avianca",
       "si": "08:55",
@@ -21638,7 +21638,7 @@
     [
      "2026-12-12",
      "2026-12-15",
-     1136990,
+     1228990,
      {
       "ai": "Avianca",
       "si": "04:35",
@@ -21653,7 +21653,7 @@
     [
      "2026-12-19",
      "2026-12-22",
-     1284990,
+     1376990,
      {
       "ai": "Avianca",
       "si": "04:35",
@@ -21668,7 +21668,7 @@
     [
      "2027-01-06",
      "2027-01-09",
-     1597990,
+     1694990,
      {
       "ai": "Avianca",
       "si": "05:20",
@@ -21683,7 +21683,7 @@
     [
      "2027-01-13",
      "2027-01-16",
-     1086990,
+     1178990,
      {
       "ai": "Avianca",
       "si": "07:00",
@@ -21698,7 +21698,7 @@
     [
      "2027-01-16",
      "2027-01-19",
-     1043990,
+     1135990,
      {
       "ai": "Avianca",
       "si": "05:35",
@@ -21713,7 +21713,7 @@
     [
      "2027-01-23",
      "2027-01-26",
-     1043990,
+     1135990,
      {
       "ai": "Avianca",
       "si": "05:35",
@@ -21728,7 +21728,7 @@
     [
      "2027-01-31",
      "2027-02-03",
-     1034990,
+     1126990,
      {
       "ai": "Wingo",
       "si": "11:15",
@@ -21864,7 +21864,7 @@
    "incluye": {
     "tiquete": true,
     "alojamiento": true,
-    "tours": false,
+    "tours": true,
     "traslado": true,
     "asistencia": true
    },
@@ -21875,7 +21875,7 @@
     "Traslado aeropuerto SMR - hotel - aeropuerto"
    ],
    "desde": 1034990,
-   "hasta": 1597990,
+   "hasta": 1694990,
    "n_fechas": 16,
    "galeria": "https://galerias.trvely.com.co/portobahia/",
    "experiencias": "https://experiencias.trvely.com.co/santa-marta/"
@@ -21891,7 +21891,7 @@
     [
      "2026-12-07",
      "2026-12-10",
-     1215990,
+     1307990,
      {
       "ai": "Avianca",
       "si": "08:55",
@@ -21906,7 +21906,7 @@
     [
      "2026-12-12",
      "2026-12-15",
-     1215990,
+     1307990,
      {
       "ai": "Avianca",
       "si": "04:35",
@@ -21921,7 +21921,7 @@
     [
      "2026-12-19",
      "2026-12-22",
-     1363990,
+     1455990,
      {
       "ai": "Avianca",
       "si": "04:35",
@@ -21936,7 +21936,7 @@
     [
      "2027-01-06",
      "2027-01-09",
-     1678990,
+     1789990,
      {
       "ai": "Avianca",
       "si": "05:20",
@@ -21951,7 +21951,7 @@
     [
      "2027-01-13",
      "2027-01-16",
-     1165990,
+     1257990,
      {
       "ai": "Avianca",
       "si": "07:00",
@@ -21966,7 +21966,7 @@
     [
      "2027-01-16",
      "2027-01-19",
-     1122990,
+     1214990,
      {
       "ai": "Avianca",
       "si": "05:35",
@@ -21981,7 +21981,7 @@
     [
      "2027-01-23",
      "2027-01-26",
-     1122990,
+     1214990,
      {
       "ai": "Avianca",
       "si": "05:35",
@@ -21996,7 +21996,7 @@
     [
      "2027-01-31",
      "2027-02-03",
-     1114990,
+     1206990,
      {
       "ai": "Wingo",
       "si": "11:15",
@@ -22132,7 +22132,7 @@
    "incluye": {
     "tiquete": true,
     "alojamiento": true,
-    "tours": false,
+    "tours": true,
     "traslado": true,
     "asistencia": true
    },
@@ -22143,7 +22143,7 @@
     "Traslado aeropuerto SMR - hotel - aeropuerto"
    ],
    "desde": 1114990,
-   "hasta": 1678990,
+   "hasta": 1789990,
    "n_fechas": 16,
    "galeria": "https://galerias.trvely.com.co/portobahia/",
    "experiencias": "https://experiencias.trvely.com.co/santa-marta/"
@@ -22159,7 +22159,7 @@
     [
      "2026-12-07",
      "2026-12-10",
-     1221990,
+     1312990,
      {
       "ai": "Avianca",
       "si": "08:55",
@@ -22174,7 +22174,7 @@
     [
      "2026-12-12",
      "2026-12-15",
-     1221990,
+     1312990,
      {
       "ai": "Avianca",
       "si": "04:35",
@@ -22189,7 +22189,7 @@
     [
      "2026-12-19",
      "2026-12-22",
-     1368990,
+     1460990,
      {
       "ai": "Avianca",
       "si": "04:35",
@@ -22205,7 +22205,7 @@
    "incluye": {
     "tiquete": true,
     "alojamiento": true,
-    "tours": false,
+    "tours": true,
     "traslado": true,
     "asistencia": true
    },
@@ -22215,8 +22215,8 @@
    "traslados": [
     "Traslado aeropuerto SMR - hotel - aeropuerto"
    ],
-   "desde": 1221990,
-   "hasta": 1368990,
+   "desde": 1312990,
+   "hasta": 1460990,
    "n_fechas": 3,
    "galeria": "https://galerias.trvely.com.co/sanha-plus/",
    "experiencias": "https://experiencias.trvely.com.co/santa-marta/"
@@ -22232,7 +22232,7 @@
     [
      "2026-12-07",
      "2026-12-10",
-     1479990,
+     1571990,
      {
       "ai": "Avianca",
       "si": "08:55",
@@ -22247,7 +22247,7 @@
     [
      "2026-12-12",
      "2026-12-15",
-     1479990,
+     1571990,
      {
       "ai": "Avianca",
       "si": "04:35",
@@ -22262,7 +22262,7 @@
     [
      "2026-12-19",
      "2026-12-22",
-     1627990,
+     1729990,
      {
       "ai": "Avianca",
       "si": "04:35",
@@ -22278,7 +22278,7 @@
    "incluye": {
     "tiquete": true,
     "alojamiento": true,
-    "tours": false,
+    "tours": true,
     "traslado": true,
     "asistencia": true
    },
@@ -22288,8 +22288,8 @@
    "traslados": [
     "Traslado aeropuerto SMR - hotel - aeropuerto"
    ],
-   "desde": 1479990,
-   "hasta": 1627990,
+   "desde": 1571990,
+   "hasta": 1729990,
    "n_fechas": 3,
    "galeria": "https://galerias.trvely.com.co/sanha-plus/",
    "experiencias": "https://experiencias.trvely.com.co/santa-marta/"
@@ -22305,7 +22305,7 @@
     [
      "2026-12-07",
      "2026-12-10",
-     1138990,
+     1230990,
      {
       "ai": "Avianca",
       "si": "08:55",
@@ -22320,7 +22320,7 @@
     [
      "2026-12-12",
      "2026-12-15",
-     1138990,
+     1230990,
      {
       "ai": "Avianca",
       "si": "04:35",
@@ -22335,7 +22335,7 @@
     [
      "2026-12-19",
      "2026-12-22",
-     1286990,
+     1378990,
      {
       "ai": "Avianca",
       "si": "04:35",
@@ -22350,7 +22350,7 @@
     [
      "2027-01-06",
      "2027-01-09",
-     1738990,
+     1849990,
      {
       "ai": "Avianca",
       "si": "05:20",
@@ -22366,7 +22366,7 @@
    "incluye": {
     "tiquete": true,
     "alojamiento": true,
-    "tours": false,
+    "tours": true,
     "traslado": true,
     "asistencia": true
    },
@@ -22376,8 +22376,8 @@
    "traslados": [
     "Traslado aeropuerto SMR - hotel - aeropuerto"
    ],
-   "desde": 1138990,
-   "hasta": 1738990,
+   "desde": 1230990,
+   "hasta": 1849990,
    "n_fechas": 4,
    "galeria": "https://galerias.trvely.com.co/sansiraka/",
    "experiencias": "https://experiencias.trvely.com.co/santa-marta/"
@@ -22393,7 +22393,7 @@
     [
      "2026-12-07",
      "2026-12-10",
-     1019990,
+     1111990,
      {
       "ai": "Avianca",
       "si": "08:55",
@@ -22408,7 +22408,7 @@
     [
      "2026-12-12",
      "2026-12-15",
-     1019990,
+     1111990,
      {
       "ai": "Avianca",
       "si": "04:35",
@@ -22423,7 +22423,7 @@
     [
      "2026-12-19",
      "2026-12-22",
-     1167990,
+     1259990,
      {
       "ai": "Avianca",
       "si": "04:35",
@@ -22438,7 +22438,7 @@
     [
      "2027-01-06",
      "2027-01-09",
-     1606990,
+     1704990,
      {
       "ai": "Avianca",
       "si": "05:20",
@@ -22454,7 +22454,7 @@
    "incluye": {
     "tiquete": true,
     "alojamiento": true,
-    "tours": false,
+    "tours": true,
     "traslado": true,
     "asistencia": true
    },
@@ -22464,8 +22464,8 @@
    "traslados": [
     "Traslado aeropuerto SMR - hotel - aeropuerto"
    ],
-   "desde": 1019990,
-   "hasta": 1606990,
+   "desde": 1111990,
+   "hasta": 1704990,
    "n_fechas": 4,
    "galeria": "https://galerias.trvely.com.co/sansiraka/",
    "experiencias": "https://experiencias.trvely.com.co/santa-marta/"
@@ -22481,7 +22481,7 @@
     [
      "2026-12-07",
      "2026-12-10",
-     1258990,
+     1350990,
      {
       "ai": "Avianca",
       "si": "08:55",
@@ -22496,7 +22496,7 @@
     [
      "2026-12-12",
      "2026-12-15",
-     1258990,
+     1350990,
      {
       "ai": "Avianca",
       "si": "04:35",
@@ -22511,7 +22511,7 @@
     [
      "2026-12-19",
      "2026-12-22",
-     1406990,
+     1498990,
      {
       "ai": "Avianca",
       "si": "04:35",
@@ -22526,7 +22526,7 @@
     [
      "2027-01-06",
      "2027-01-09",
-     1883990,
+     1994990,
      {
       "ai": "Avianca",
       "si": "05:20",
@@ -22542,7 +22542,7 @@
    "incluye": {
     "tiquete": true,
     "alojamiento": true,
-    "tours": false,
+    "tours": true,
     "traslado": true,
     "asistencia": true
    },
@@ -22552,8 +22552,8 @@
    "traslados": [
     "Traslado aeropuerto SMR - hotel - aeropuerto"
    ],
-   "desde": 1258990,
-   "hasta": 1883990,
+   "desde": 1350990,
+   "hasta": 1994990,
    "n_fechas": 4,
    "galeria": "https://galerias.trvely.com.co/sansiraka/",
    "experiencias": "https://experiencias.trvely.com.co/santa-marta/"
@@ -22569,7 +22569,7 @@
     [
      "2026-12-07",
      "2026-12-10",
-     1129990,
+     1221990,
      {
       "ai": "Avianca",
       "si": "08:55",
@@ -22584,7 +22584,7 @@
     [
      "2026-12-12",
      "2026-12-15",
-     1157990,
+     1249990,
      {
       "ai": "Avianca",
       "si": "04:35",
@@ -22599,7 +22599,7 @@
     [
      "2026-12-19",
      "2026-12-22",
-     1305990,
+     1397990,
      {
       "ai": "Avianca",
       "si": "04:35",
@@ -22614,7 +22614,7 @@
     [
      "2027-01-06",
      "2027-01-09",
-     1648990,
+     1754990,
      {
       "ai": "Avianca",
       "si": "05:20",
@@ -22630,7 +22630,7 @@
    "incluye": {
     "tiquete": true,
     "alojamiento": true,
-    "tours": false,
+    "tours": true,
     "traslado": true,
     "asistencia": true
    },
@@ -22640,8 +22640,8 @@
    "traslados": [
     "Traslado aeropuerto SMR - hotel - aeropuerto"
    ],
-   "desde": 1129990,
-   "hasta": 1648990,
+   "desde": 1221990,
+   "hasta": 1754990,
    "n_fechas": 4,
    "galeria": "https://galerias.trvely.com.co/taybo-beach/",
    "experiencias": "https://experiencias.trvely.com.co/santa-marta/"
@@ -22657,7 +22657,7 @@
     [
      "2026-12-07",
      "2026-12-10",
-     1088990,
+     1180990,
      {
       "ai": "Avianca",
       "si": "08:55",
@@ -22672,7 +22672,7 @@
     [
      "2026-12-12",
      "2026-12-15",
-     1116990,
+     1208990,
      {
       "ai": "Avianca",
       "si": "04:35",
@@ -22687,7 +22687,7 @@
     [
      "2026-12-19",
      "2026-12-22",
-     1264990,
+     1356990,
      {
       "ai": "Avianca",
       "si": "04:35",
@@ -22702,7 +22702,7 @@
     [
      "2027-01-06",
      "2027-01-09",
-     1586990,
+     1680990,
      {
       "ai": "Avianca",
       "si": "05:20",
@@ -22718,7 +22718,7 @@
    "incluye": {
     "tiquete": true,
     "alojamiento": true,
-    "tours": false,
+    "tours": true,
     "traslado": true,
     "asistencia": true
    },
@@ -22728,8 +22728,8 @@
    "traslados": [
     "Traslado aeropuerto SMR - hotel - aeropuerto"
    ],
-   "desde": 1088990,
-   "hasta": 1586990,
+   "desde": 1180990,
+   "hasta": 1680990,
    "n_fechas": 4,
    "galeria": "https://galerias.trvely.com.co/taybo-beach/",
    "experiencias": "https://experiencias.trvely.com.co/santa-marta/"
@@ -22745,7 +22745,7 @@
     [
      "2026-12-07",
      "2026-12-10",
-     1129990,
+     1221990,
      {
       "ai": "Avianca",
       "si": "08:55",
@@ -22760,7 +22760,7 @@
     [
      "2026-12-12",
      "2026-12-15",
-     1157990,
+     1249990,
      {
       "ai": "Avianca",
       "si": "04:35",
@@ -22775,7 +22775,7 @@
     [
      "2026-12-19",
      "2026-12-22",
-     1305990,
+     1397990,
      {
       "ai": "Avianca",
       "si": "04:35",
@@ -22790,7 +22790,7 @@
     [
      "2027-01-06",
      "2027-01-09",
-     1648990,
+     1754990,
      {
       "ai": "Avianca",
       "si": "05:20",
@@ -22806,7 +22806,7 @@
    "incluye": {
     "tiquete": true,
     "alojamiento": true,
-    "tours": false,
+    "tours": true,
     "traslado": true,
     "asistencia": true
    },
@@ -22816,8 +22816,8 @@
    "traslados": [
     "Traslado aeropuerto SMR - hotel - aeropuerto"
    ],
-   "desde": 1129990,
-   "hasta": 1648990,
+   "desde": 1221990,
+   "hasta": 1754990,
    "n_fechas": 4,
    "galeria": "https://galerias.trvely.com.co/taybo-kai/",
    "experiencias": "https://experiencias.trvely.com.co/santa-marta/"
@@ -22833,7 +22833,7 @@
     [
      "2026-12-07",
      "2026-12-10",
-     1088990,
+     1180990,
      {
       "ai": "Avianca",
       "si": "08:55",
@@ -22848,7 +22848,7 @@
     [
      "2026-12-12",
      "2026-12-15",
-     1116990,
+     1208990,
      {
       "ai": "Avianca",
       "si": "04:35",
@@ -22863,7 +22863,7 @@
     [
      "2026-12-19",
      "2026-12-22",
-     1264990,
+     1356990,
      {
       "ai": "Avianca",
       "si": "04:35",
@@ -22878,7 +22878,7 @@
     [
      "2027-01-06",
      "2027-01-09",
-     1586990,
+     1680990,
      {
       "ai": "Avianca",
       "si": "05:20",
@@ -22894,7 +22894,7 @@
    "incluye": {
     "tiquete": true,
     "alojamiento": true,
-    "tours": false,
+    "tours": true,
     "traslado": true,
     "asistencia": true
    },
@@ -22904,8 +22904,8 @@
    "traslados": [
     "Traslado aeropuerto SMR - hotel - aeropuerto"
    ],
-   "desde": 1088990,
-   "hasta": 1586990,
+   "desde": 1180990,
+   "hasta": 1680990,
    "n_fechas": 4,
    "galeria": "https://galerias.trvely.com.co/taybo-kai/",
    "experiencias": "https://experiencias.trvely.com.co/santa-marta/"
@@ -22921,7 +22921,7 @@
     [
      "2026-12-07",
      "2026-12-10",
-     1382990,
+     1474990,
      {
       "ai": "Avianca",
       "si": "08:55",
@@ -22936,7 +22936,7 @@
     [
      "2026-12-12",
      "2026-12-15",
-     1341990,
+     1433990,
      {
       "ai": "Avianca",
       "si": "04:35",
@@ -22951,7 +22951,7 @@
     [
      "2026-12-19",
      "2026-12-22",
-     1489990,
+     1581990,
      {
       "ai": "Avianca",
       "si": "04:35",
@@ -22966,7 +22966,7 @@
     [
      "2027-01-06",
      "2027-01-09",
-     2038990,
+     2148990,
      {
       "ai": "Avianca",
       "si": "05:20",
@@ -22981,7 +22981,7 @@
     [
      "2027-01-13",
      "2027-01-16",
-     1586990,
+     1680990,
      {
       "ai": "Avianca",
       "si": "07:00",
@@ -22996,7 +22996,7 @@
     [
      "2027-01-16",
      "2027-01-19",
-     1337990,
+     1429990,
      {
       "ai": "Avianca",
       "si": "05:35",
@@ -23011,7 +23011,7 @@
     [
      "2027-01-23",
      "2027-01-26",
-     1337990,
+     1429990,
      {
       "ai": "Avianca",
       "si": "05:35",
@@ -23026,7 +23026,7 @@
     [
      "2027-01-31",
      "2027-02-03",
-     1329990,
+     1421990,
      {
       "ai": "Wingo",
       "si": "11:15",
@@ -23312,7 +23312,7 @@
    "incluye": {
     "tiquete": true,
     "alojamiento": true,
-    "tours": false,
+    "tours": true,
     "traslado": true,
     "asistencia": true
    },
@@ -23323,7 +23323,7 @@
     "Traslado aeropuerto SMR - hotel - aeropuerto"
    ],
    "desde": 1329990,
-   "hasta": 2038990,
+   "hasta": 2148990,
    "n_fechas": 26,
    "galeria": "https://galerias.trvely.com.co/vadamar/",
    "experiencias": "https://experiencias.trvely.com.co/santa-marta/"
@@ -23339,7 +23339,7 @@
     [
      "2026-12-07",
      "2026-12-10",
-     1341990,
+     1433990,
      {
       "ai": "Avianca",
       "si": "08:55",
@@ -23354,7 +23354,7 @@
     [
      "2026-12-12",
      "2026-12-15",
-     1300990,
+     1392990,
      {
       "ai": "Avianca",
       "si": "04:35",
@@ -23369,7 +23369,7 @@
     [
      "2026-12-19",
      "2026-12-22",
-     1448990,
+     1540990,
      {
       "ai": "Avianca",
       "si": "04:35",
@@ -23384,7 +23384,7 @@
     [
      "2027-01-06",
      "2027-01-09",
-     1976990,
+     2087990,
      {
       "ai": "Avianca",
       "si": "05:20",
@@ -23399,7 +23399,7 @@
     [
      "2027-01-13",
      "2027-01-16",
-     1534990,
+     1626990,
      {
       "ai": "Avianca",
       "si": "07:00",
@@ -23414,7 +23414,7 @@
     [
      "2027-01-16",
      "2027-01-19",
-     1276990,
+     1368990,
      {
       "ai": "Avianca",
       "si": "05:35",
@@ -23429,7 +23429,7 @@
     [
      "2027-01-23",
      "2027-01-26",
-     1276990,
+     1368990,
      {
       "ai": "Avianca",
       "si": "05:35",
@@ -23444,7 +23444,7 @@
     [
      "2027-01-31",
      "2027-02-03",
-     1267990,
+     1359990,
      {
       "ai": "Wingo",
       "si": "11:15",
@@ -23730,7 +23730,7 @@
    "incluye": {
     "tiquete": true,
     "alojamiento": true,
-    "tours": false,
+    "tours": true,
     "traslado": true,
     "asistencia": true
    },
@@ -23741,7 +23741,7 @@
     "Traslado aeropuerto SMR - hotel - aeropuerto"
    ],
    "desde": 1267990,
-   "hasta": 1976990,
+   "hasta": 2087990,
    "n_fechas": 26,
    "galeria": "https://galerias.trvely.com.co/vadamar/",
    "experiencias": "https://experiencias.trvely.com.co/santa-marta/"
@@ -23757,7 +23757,7 @@
     [
      "2026-12-07",
      "2026-12-10",
-     1485990,
+     1577990,
      {
       "ai": "Avianca",
       "si": "08:55",
@@ -23772,7 +23772,7 @@
     [
      "2026-12-12",
      "2026-12-15",
-     1444990,
+     1536990,
      {
       "ai": "Avianca",
       "si": "04:35",
@@ -23787,7 +23787,7 @@
     [
      "2026-12-19",
      "2026-12-22",
-     1592990,
+     1687990,
      {
       "ai": "Avianca",
       "si": "04:35",
@@ -23802,7 +23802,7 @@
     [
      "2027-01-06",
      "2027-01-09",
-     2161990,
+     2271990,
      {
       "ai": "Avianca",
       "si": "05:20",
@@ -23817,7 +23817,7 @@
     [
      "2027-01-13",
      "2027-01-16",
-     1692990,
+     1803990,
      {
       "ai": "Avianca",
       "si": "07:00",
@@ -23832,7 +23832,7 @@
     [
      "2027-01-16",
      "2027-01-19",
-     1440990,
+     1532990,
      {
       "ai": "Avianca",
       "si": "05:35",
@@ -23847,7 +23847,7 @@
     [
      "2027-01-23",
      "2027-01-26",
-     1440990,
+     1532990,
      {
       "ai": "Avianca",
       "si": "05:35",
@@ -23862,7 +23862,7 @@
     [
      "2027-01-31",
      "2027-02-03",
-     1431990,
+     1523990,
      {
       "ai": "Wingo",
       "si": "11:15",
@@ -24148,7 +24148,7 @@
    "incluye": {
     "tiquete": true,
     "alojamiento": true,
-    "tours": false,
+    "tours": true,
     "traslado": true,
     "asistencia": true
    },
@@ -24159,7 +24159,7 @@
     "Traslado aeropuerto SMR - hotel - aeropuerto"
    ],
    "desde": 1431990,
-   "hasta": 2161990,
+   "hasta": 2271990,
    "n_fechas": 26,
    "galeria": "https://galerias.trvely.com.co/vadamar/",
    "experiencias": "https://experiencias.trvely.com.co/santa-marta/"
